@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,"Cost (total, est.)",Notes,Purchase & Datasheet Link
+10u,"C1, C3",Capacitor_SMD:CP_Elec_4x5.4,~,Polarized Capacitor,~
+0.1u,"C2, C4, C5, C6, C7",Capacitor_SMD:C_0402_1005Metric,~,~,~
+LED_0603,D1,LED_SMD:LED_0603_1608Metric,~,Color Green,~
+BTE-040-01-F-D-A,"MC1, MC2",BTE-040-01-F-D-A:SAMTEC_BTE-040-01-F-D-A,$17.20,~,https://www.digikey.com/en/products/detail/samtec-inc/BTE-040-01-F-D-A/6613191
+680,R1,Resistor_SMD:R_0603_1608Metric,~,~,~
+50K,"R2, R3, R4, R5",Resistor_SMD:R_0603_1608Metric,~,~,~
+RHS2000-CABLE-DAQ-SIDE,S1,OMNETICS_PZN-16-AA,$47.48,EXCLUDE FROM ASSEMBLY,~
+DS04-254-1-04BK-SMT,S2,DS04-254-1-04BK-SMT:SW_DS04-254-1-04BK-SMT,$0.87,~,https://www.mouser.com/ProductDetail/CUI-Devices/DS04-254-1-04BK-SMT?qs=wnTfsH77Xs5Vpxv5TYQfMQ%3D%3D
+SN65LVDT2DBVR,U1,FP_LVDT2:DBV0005A_N,$1.85,SOT-23 package,https://www.digikey.com/en/products/detail/texas-instruments/SN65LVDT2DBVR/371535
+TL7660CDGKR,U2,TP_TL7660:DGK8,$1.54,8-VSSOP package,https://www.digikey.com/en/products/detail/texas-instruments/TL7660CDGKR/1629029
+SN65LVDT41PW,U3,FP_LVDT41:PW20,$7.60,20-TSSOP package,https://www.digikey.com/en/products/detail/texas-instruments/SN65LVDT41PW/465500

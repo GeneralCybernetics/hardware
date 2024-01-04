@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/aydin/Documents/Hardware/xem7310_carrier.kicad_sch</source>
+    <date>Tue 12 Dec 2023 08:12:27 PM CST</date>
+    <tool>Eeschema 6.0.11-2627ca5db0~126~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>XEM7310 Carrier Board</title>
+        <company>General Cybernetics Corporation</company>
+        <rev>1</rev>
+        <date>2023-12-10</date>
+        <source>xem7310_carrier.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_3x5.3</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d93be09-faf0-4330-89ce-10c559612015</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fdd271e-80c8-442c-b0f9-43497df18c08</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_3x5.3</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>770b8cf4-fc01-4d68-a804-59ec442ebcbb</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b979e0b9-a305-4649-b948-51c6f82baac2</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86d209f6-9ad7-4b84-837f-2f14dfea71fe</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c59a5278-6019-455b-90d9-99a850bfb244</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36e95443-98cf-4674-bb6b-f39dc45336a3</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_0603</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08085315-fd13-4ded-817c-62a433aa475f</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c3e3620-ac61-4a7f-8a4f-42982a5cf719</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ae70cc-553f-4cec-9ac4-e4be1adc7b97</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df003510-2f58-4722-a9ef-2a8bc824e2fd</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b533a92-c082-4232-8bda-cbc53fc62aee</tstamps>
+    </comp>
+    <comp ref="MC1">
+      <value>BTE-040-01-F-D-A</value>
+      <footprint>BTE-040-01-F-D-A:SAMTEC_BTE-040-01-F-D-A</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="PARTREV">R</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="BTE-040-01-F-D-A" part="BTE-040-01-F-D-A" description=""/>
+      <property name="PARTREV" value="R"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6e193ee-443f-4173-b74c-4001bef8a50b</tstamps>
+    </comp>
+    <comp ref="MC2">
+      <value>BTE-040-01-F-D-A</value>
+      <footprint>BTE-040-01-F-D-A:SAMTEC_BTE-040-01-F-D-A</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="PARTREV">R</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="BTE-040-01-F-D-A" part="BTE-040-01-F-D-A" description=""/>
+      <property name="PARTREV" value="R"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>983fd725-604b-45dc-b75e-ada0973b152b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19b08970-4b0c-43d1-8ed7-a56a7875c5aa</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>50K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>718ad5d0-9d19-4944-be02-ab9396e0e685</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>50K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fec6ad5-a1f8-4064-b8fc-719f3df16025</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>50K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9636900-01a0-44d1-a825-06522b9def2c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>50K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9506202-20b8-41de-8e93-b6bbc819f3fb</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>RHS2000-CABLE-DAQ-SIDE</value>
+      <footprint>OMNETICS_PZN-16-AA</footprint>
+      <libsource lib="RHS2000-CABLE-DAQ-SIDE" part="RHS2000-CABLE-DAQ-SIDE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43980f53-1e31-46c5-b188-cc07b820754d</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>DS04-254-1-04BK-SMT</value>
+      <footprint>DS04-254-1-04BK-SMT:SW_DS04-254-1-04BK-SMT</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="CUI_purchase_URL">https://www.cuidevices.com/product/switches/dip-switches/ds04-254-1-04bk-smt?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/DS04-254-1-04BK-SMT/CUI+Devices/view-part/?ref=eda</field>
+        <field name="Description">4 Position, Surface Mount, 2.54 mm Pitch, Raised Slide Actuator, Flat Bottom, SMT Pin, DIP Switch</field>
+        <field name="MANUFACTURER">CUI Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4.86 mm</field>
+        <field name="MF">CUI Devices</field>
+        <field name="MP">DS04-254-1-04BK-SMT</field>
+        <field name="PARTREV">V0.0</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4467256&amp;manufacturer=CUI Devices&amp;part_name=DS04-254-1-04BK-SMT&amp;search_term=None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/DS04-254-1-04BK-SMT/CUI+Devices/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="DS04-254-1-04BK-SMT" part="DS04-254-1-04BK-SMT" description=""/>
+      <property name="MF" value="CUI Devices"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="4.86 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/DS04-254-1-04BK-SMT/CUI+Devices/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="V0.0"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/DS04-254-1-04BK-SMT/CUI+Devices/view-part/?ref=snap"/>
+      <property name="MP" value="DS04-254-1-04BK-SMT"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4467256&amp;manufacturer=CUI Devices&amp;part_name=DS04-254-1-04BK-SMT&amp;search_term=None"/>
+      <property name="Description" value="4 Position, Surface Mount, 2.54 mm Pitch, Raised Slide Actuator, Flat Bottom, SMT Pin, DIP Switch"/>
+      <property name="CUI_purchase_URL" value="https://www.cuidevices.com/product/switches/dip-switches/ds04-254-1-04bk-smt?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="CUI Inc."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90894a2b-b00d-45ca-be07-8e5052c252cf</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SN65LVDT2DBVR</value>
+      <footprint>FP_LVDT2:DBV0005A_N</footprint>
+      <datasheet>SN65LVDT2DBVR</datasheet>
+      <libsource lib="LVDT2" part="SN65LVDT2DBVR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53fc02ae-73ae-4be6-b639-9a78975fcf65</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TL7660CDGKR</value>
+      <footprint>TP_TL7660:DGK8</footprint>
+      <datasheet>TL7660CDGKR</datasheet>
+      <libsource lib="TL7660" part="TL7660CDGKR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d1946e0-fed3-4b5d-b229-41a896f5083f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SN65LVDT41PW</value>
+      <footprint>FP_LVDT41:PW20</footprint>
+      <datasheet>SN65LVDT41PW</datasheet>
+      <libsource lib="LVDT41" part="SN65LVDT41PW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xem7310_carrier.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d863396e-7aaf-4d80-9536-38a0dbf320ff</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BTE-040-01-F-D-A" part="BTE-040-01-F-D-A">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">BTE-040-01-F-D-A</field>
+        <field name="Footprint">BTE-040-01-F-D-A:SAMTEC_BTE-040-01-F-D-A</field>
+        <field name="PARTREV">R</field>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="01" name="01" type="passive"/>
+        <pin num="02" name="02" type="passive"/>
+        <pin num="03" name="03" type="passive"/>
+        <pin num="04" name="04" type="passive"/>
+        <pin num="05" name="05" type="passive"/>
+        <pin num="06" name="06" type="passive"/>
+        <pin num="07" name="07" type="passive"/>
+        <pin num="08" name="08" type="passive"/>
+        <pin num="09" name="09" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+        <pin num="21" name="21" type="passive"/>
+        <pin num="22" name="22" type="passive"/>
+        <pin num="23" name="23" type="passive"/>
+        <pin num="24" name="24" type="passive"/>
+        <pin num="25" name="25" type="passive"/>
+        <pin num="26" name="26" type="passive"/>
+        <pin num="27" name="27" type="passive"/>
+        <pin num="28" name="28" type="passive"/>
+        <pin num="29" name="29" type="passive"/>
+        <pin num="30" name="30" type="passive"/>
+        <pin num="31" name="31" type="passive"/>
+        <pin num="32" name="32" type="passive"/>
+        <pin num="33" name="33" type="passive"/>
+        <pin num="34" name="34" type="passive"/>
+        <pin num="35" name="35" type="passive"/>
+        <pin num="36" name="36" type="passive"/>
+        <pin num="37" name="37" type="passive"/>
+        <pin num="38" name="38" type="passive"/>
+        <pin num="39" name="39" type="passive"/>
+        <pin num="40" name="40" type="passive"/>
+        <pin num="41" name="41" type="passive"/>
+        <pin num="42" name="42" type="passive"/>
+        <pin num="43" name="43" type="passive"/>
+        <pin num="44" name="44" type="passive"/>
+        <pin num="45" name="45" type="passive"/>
+        <pin num="46" name="46" type="passive"/>
+        <pin num="47" name="47" type="passive"/>
+        <pin num="48" name="48" type="passive"/>
+        <pin num="49" name="49" type="passive"/>
+        <pin num="50" name="50" type="passive"/>
+        <pin num="51" name="51" type="passive"/>
+        <pin num="52" name="52" type="passive"/>
+        <pin num="53" name="53" type="passive"/>
+        <pin num="54" name="54" type="passive"/>
+        <pin num="55" name="55" type="passive"/>
+        <pin num="56" name="56" type="passive"/>
+        <pin num="57" name="57" type="passive"/>
+        <pin num="58" name="58" type="passive"/>
+        <pin num="59" name="59" type="passive"/>
+        <pin num="60" name="60" type="passive"/>
+        <pin num="61" name="61" type="passive"/>
+        <pin num="62" name="62" type="passive"/>
+        <pin num="63" name="63" type="passive"/>
+        <pin num="64" name="64" type="passive"/>
+        <pin num="65" name="65" type="passive"/>
+        <pin num="66" name="66" type="passive"/>
+        <pin num="67" name="67" type="passive"/>
+        <pin num="68" name="68" type="passive"/>
+        <pin num="69" name="69" type="passive"/>
+        <pin num="70" name="70" type="passive"/>
+        <pin num="71" name="71" type="passive"/>
+        <pin num="72" name="72" type="passive"/>
+        <pin num="73" name="73" type="passive"/>
+        <pin num="74" name="74" type="passive"/>
+        <pin num="75" name="75" type="passive"/>
+        <pin num="76" name="76" type="passive"/>
+        <pin num="77" name="77" type="passive"/>
+        <pin num="78" name="78" type="passive"/>
+        <pin num="79" name="79" type="passive"/>
+        <pin num="80" name="80" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DS04-254-1-04BK-SMT" part="DS04-254-1-04BK-SMT">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">DS04-254-1-04BK-SMT</field>
+        <field name="Footprint">DS04-254-1-04BK-SMT:SW_DS04-254-1-04BK-SMT</field>
+        <field name="MF">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4.86 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/DS04-254-1-04BK-SMT/CUI+Devices/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">V0.0</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/DS04-254-1-04BK-SMT/CUI+Devices/view-part/?ref=snap</field>
+        <field name="MP">DS04-254-1-04BK-SMT</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4467256&amp;manufacturer=CUI Devices&amp;part_name=DS04-254-1-04BK-SMT&amp;search_term=None</field>
+        <field name="Description">4 Position, Surface Mount, 2.54 mm Pitch, Raised Slide Actuator, Flat Bottom, SMT Pin, DIP Switch</field>
+        <field name="CUI_purchase_URL">https://www.cuidevices.com/product/switches/dip-switches/ds04-254-1-04bk-smt?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">CUI Inc.</field>
+      </fields>
+      <pins>
+        <pin num="1A" name="" type="passive"/>
+        <pin num="1B" name="" type="passive"/>
+        <pin num="2A" name="" type="passive"/>
+        <pin num="2B" name="" type="passive"/>
+        <pin num="3A" name="" type="passive"/>
+        <pin num="3B" name="" type="passive"/>
+        <pin num="4A" name="" type="passive"/>
+        <pin num="4B" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LVDT2" part="SN65LVDT2DBVR">
+      <docs>SN65LVDT2DBVR</docs>
+      <footprints>
+        <fp>DBV0005A_N</fp>
+        <fp>DBV0005A_M</fp>
+        <fp>DBV0005A_L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN65LVDT2DBVR</field>
+        <field name="Footprint">DBV0005A_N</field>
+        <field name="Datasheet">SN65LVDT2DBVR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="unspecified"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="A" type="input"/>
+        <pin num="4" name="B" type="input"/>
+        <pin num="5" name="R" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="LVDT41" part="SN65LVDT41PW">
+      <docs>SN65LVDT41PW</docs>
+      <footprints>
+        <fp>PW20</fp>
+        <fp>PW20-M</fp>
+        <fp>PW20-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN65LVDT41PW</field>
+        <field name="Footprint">PW20</field>
+        <field name="Datasheet">SN65LVDT41PW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1D" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="2D" type="input"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="3D" type="input"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="4D" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="5R" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="5B" type="input"/>
+        <pin num="12" name="5A" type="input"/>
+        <pin num="13" name="4Z" type="output"/>
+        <pin num="14" name="4Y" type="output"/>
+        <pin num="15" name="3Z" type="output"/>
+        <pin num="16" name="3Y" type="output"/>
+        <pin num="17" name="2Z" type="output"/>
+        <pin num="18" name="2Y" type="output"/>
+        <pin num="19" name="1Z" type="output"/>
+        <pin num="20" name="1Y" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="RHS2000-CABLE-DAQ-SIDE" part="RHS2000-CABLE-DAQ-SIDE">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">RHS2000-CABLE-DAQ-SIDE</field>
+        <field name="Footprint">OMNETICS_PZN-16-AA</field>
+      </fields>
+      <pins>
+        <pin num="B1" name="VSTIM-" type="power_in"/>
+        <pin num="B2" name="SCLK-" type="bidirectional"/>
+        <pin num="B3" name="SCLK+" type="bidirectional"/>
+        <pin num="B4" name="MOSI1-" type="bidirectional"/>
+        <pin num="B5" name="MOSI1+" type="bidirectional"/>
+        <pin num="B6" name="MISO1-" type="bidirectional"/>
+        <pin num="B7" name="MISO1+" type="bidirectional"/>
+        <pin num="B8" name="VDD" type="bidirectional"/>
+        <pin num="T1" name="VSTIM+" type="power_in"/>
+        <pin num="T2" name="MISO2+" type="bidirectional"/>
+        <pin num="T3" name="MISO2-" type="bidirectional"/>
+        <pin num="T4" name="MOSI2+" type="bidirectional"/>
+        <pin num="T5" name="MOSI2-" type="bidirectional"/>
+        <pin num="T6" name="~{CS~{+}" type="bidirectional"/>
+        <pin num="T7" name="~{CS~{-}" type="bidirectional"/>
+        <pin num="T8" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TL7660" part="TL7660CDGKR">
+      <docs>TL7660CDGKR</docs>
+      <footprints>
+        <fp>DGK8</fp>
+        <fp>DGK8-M</fp>
+        <fp>DGK8-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL7660CDGKR</field>
+        <field name="Footprint">DGK8</field>
+        <field name="Datasheet">TL7660CDGKR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="unspecified"/>
+        <pin num="2" name="CAP+" type="unspecified"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="CAP-" type="unspecified"/>
+        <pin num="5" name="VOUT" type="output"/>
+        <pin num="6" name="LV" type="unspecified"/>
+        <pin num="7" name="OSC" type="unspecified"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BTE-040-01-F-D-A">
+      <uri>/home/aydin/Downloads/BTE-040-01-F-D-A (3)/BTE-040-01-F-D-A.kicad_sym</uri>
+    </library>
+    <library logical="DS04-254-1-04BK-SMT">
+      <uri>/home/aydin/Downloads/DS04-254-1-04BK-SMT/DS04-254-1-04BK-SMT.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="LVDT2">
+      <uri>/home/aydin/Downloads/ul_SN65LVDT2DBVR/KiCADv6/2023-12-10_04-54-27.kicad_sym</uri>
+    </library>
+    <library logical="LVDT41">
+      <uri>/home/aydin/Downloads/ul_SN65LVDT41PW/KiCADv6/2023-12-10_04-28-34.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="RHS2000-CABLE-DAQ-SIDE">
+      <uri>/home/aydin/Downloads/RHS2000-CABLE-DAQ-SIDE/RHS2000-CABLE-DAQ-SIDE.kicad_sym</uri>
+    </library>
+    <library logical="TL7660">
+      <uri>/home/aydin/Downloads/ul_TL7660CDGKR/KiCADv6/2023-12-10_09-05-15.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="MC2" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="S1" pin="B8" pinfunction="VDD" pintype="bidirectional"/>
+      <node ref="S2" pin="1B" pintype="passive"/>
+      <node ref="S2" pin="2B" pintype="passive"/>
+      <node ref="S2" pin="3B" pintype="passive"/>
+      <node ref="S2" pin="4B" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCC" pintype="unspecified"/>
+      <node ref="U3" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="MC2" pin="01" pinfunction="01" pintype="passive"/>
+      <node ref="S1" pin="T1" pinfunction="VSTIM+" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="-5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="S1" pin="B1" pinfunction="VSTIM-" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="4" name="/CS+">
+      <node ref="S1" pin="T6" pinfunction="~{CS~{+}" pintype="bidirectional"/>
+      <node ref="U3" pin="16" pinfunction="3Y" pintype="output"/>
+    </net>
+    <net code="5" name="/CS-">
+      <node ref="S1" pin="T7" pinfunction="~{CS~{-}" pintype="bidirectional"/>
+      <node ref="U3" pin="15" pinfunction="3Z" pintype="output"/>
+    </net>
+    <net code="6" name="/CS_A">
+      <node ref="MC2" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="3D" pintype="input"/>
+    </net>
+    <net code="7" name="/MISO1+">
+      <node ref="S1" pin="B7" pinfunction="MISO1+" pintype="bidirectional"/>
+      <node ref="U3" pin="12" pinfunction="5A" pintype="input"/>
+    </net>
+    <net code="8" name="/MISO1-">
+      <node ref="S1" pin="B6" pinfunction="MISO1-" pintype="bidirectional"/>
+      <node ref="U3" pin="11" pinfunction="5B" pintype="input"/>
+    </net>
+    <net code="9" name="/MISO2+">
+      <node ref="S1" pin="T2" pinfunction="MISO2+" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="10" name="/MISO2-">
+      <node ref="S1" pin="T3" pinfunction="MISO2-" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="11" name="/MISO_A1">
+      <node ref="MC2" pin="24" pinfunction="24" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="5R" pintype="input"/>
+    </net>
+    <net code="12" name="/MISO_A2">
+      <node ref="MC2" pin="26" pinfunction="26" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="13" name="/MOSI1+">
+      <node ref="S1" pin="B5" pinfunction="MOSI1+" pintype="bidirectional"/>
+      <node ref="U3" pin="20" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="14" name="/MOSI1-">
+      <node ref="S1" pin="B4" pinfunction="MOSI1-" pintype="bidirectional"/>
+      <node ref="U3" pin="19" pinfunction="1Z" pintype="output"/>
+    </net>
+    <net code="15" name="/MOSI2+">
+      <node ref="S1" pin="T4" pinfunction="MOSI2+" pintype="bidirectional"/>
+      <node ref="U3" pin="14" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="16" name="/MOSI2-">
+      <node ref="S1" pin="T5" pinfunction="MOSI2-" pintype="bidirectional"/>
+      <node ref="U3" pin="13" pinfunction="4Z" pintype="output"/>
+    </net>
+    <net code="17" name="/MOSI_A1">
+      <node ref="MC2" pin="20" pinfunction="20" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="1D" pintype="input"/>
+    </net>
+    <net code="18" name="/MOSI_A2">
+      <node ref="MC2" pin="22" pinfunction="22" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="4D" pintype="input"/>
+    </net>
+    <net code="19" name="/SCK_A">
+      <node ref="MC2" pin="18" pinfunction="18" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="2D" pintype="input"/>
+    </net>
+    <net code="20" name="/SCLK+">
+      <node ref="S1" pin="B3" pinfunction="SCLK+" pintype="bidirectional"/>
+      <node ref="U3" pin="18" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="21" name="/SCLK-">
+      <node ref="S1" pin="B2" pinfunction="SCLK-" pintype="bidirectional"/>
+      <node ref="U3" pin="17" pinfunction="2Z" pintype="output"/>
+    </net>
+    <net code="22" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="MC2" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="S1" pin="T8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="23" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="CAP+" pintype="unspecified"/>
+    </net>
+    <net code="24" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="CAP-" pintype="unspecified"/>
+    </net>
+    <net code="25" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(MC1-Pad32)">
+      <node ref="MC1" pin="32" pinfunction="32" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="S2" pin="4A" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(MC1-Pad34)">
+      <node ref="MC1" pin="34" pinfunction="34" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="S2" pin="3A" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(MC1-Pad38)">
+      <node ref="MC1" pin="38" pinfunction="38" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="S2" pin="2A" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(MC1-Pad40)">
+      <node ref="MC1" pin="40" pinfunction="40" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="S2" pin="1A" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(H1-Pad1)">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(H2-Pad1)">
+      <node ref="H2" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(H3-Pad1)">
+      <node ref="H3" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(H4-Pad1)">
+      <node ref="H4" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(MC1-Pad01)">
+      <node ref="MC1" pin="01" pinfunction="01" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(MC1-Pad02)">
+      <node ref="MC1" pin="02" pinfunction="02" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(MC1-Pad03)">
+      <node ref="MC1" pin="03" pinfunction="03" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(MC1-Pad04)">
+      <node ref="MC1" pin="04" pinfunction="04" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(MC1-Pad05)">
+      <node ref="MC1" pin="05" pinfunction="05" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(MC1-Pad06)">
+      <node ref="MC1" pin="06" pinfunction="06" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(MC1-Pad07)">
+      <node ref="MC1" pin="07" pinfunction="07" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(MC1-Pad08)">
+      <node ref="MC1" pin="08" pinfunction="08" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(MC1-Pad09)">
+      <node ref="MC1" pin="09" pinfunction="09" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(MC1-Pad10)">
+      <node ref="MC1" pin="10" pinfunction="10" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(MC1-Pad11)">
+      <node ref="MC1" pin="11" pinfunction="11" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(MC1-Pad12)">
+      <node ref="MC1" pin="12" pinfunction="12" pintype="passive+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(MC1-Pad13)">
+      <node ref="MC1" pin="13" pinfunction="13" pintype="passive+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(MC1-Pad14)">
+      <node ref="MC1" pin="14" pinfunction="14" pintype="passive+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(MC1-Pad15)">
+      <node ref="MC1" pin="15" pinfunction="15" pintype="passive+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(MC1-Pad16)">
+      <node ref="MC1" pin="16" pinfunction="16" pintype="passive+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(MC1-Pad17)">
+      <node ref="MC1" pin="17" pinfunction="17" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(MC1-Pad18)">
+      <node ref="MC1" pin="18" pinfunction="18" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(MC1-Pad19)">
+      <node ref="MC1" pin="19" pinfunction="19" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(MC1-Pad20)">
+      <node ref="MC1" pin="20" pinfunction="20" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(MC1-Pad21)">
+      <node ref="MC1" pin="21" pinfunction="21" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(MC1-Pad22)">
+      <node ref="MC1" pin="22" pinfunction="22" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(MC1-Pad23)">
+      <node ref="MC1" pin="23" pinfunction="23" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(MC1-Pad24)">
+      <node ref="MC1" pin="24" pinfunction="24" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(MC1-Pad25)">
+      <node ref="MC1" pin="25" pinfunction="25" pintype="passive+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(MC1-Pad26)">
+      <node ref="MC1" pin="26" pinfunction="26" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(MC1-Pad27)">
+      <node ref="MC1" pin="27" pinfunction="27" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(MC1-Pad28)">
+      <node ref="MC1" pin="28" pinfunction="28" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(MC1-Pad29)">
+      <node ref="MC1" pin="29" pinfunction="29" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(MC1-Pad30)">
+      <node ref="MC1" pin="30" pinfunction="30" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(MC1-Pad31)">
+      <node ref="MC1" pin="31" pinfunction="31" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(MC1-Pad33)">
+      <node ref="MC1" pin="33" pinfunction="33" pintype="passive+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(MC1-Pad35)">
+      <node ref="MC1" pin="35" pinfunction="35" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(MC1-Pad36)">
+      <node ref="MC1" pin="36" pinfunction="36" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(MC1-Pad37)">
+      <node ref="MC1" pin="37" pinfunction="37" pintype="passive+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(MC1-Pad39)">
+      <node ref="MC1" pin="39" pinfunction="39" pintype="passive+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(MC1-Pad41)">
+      <node ref="MC1" pin="41" pinfunction="41" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(MC1-Pad42)">
+      <node ref="MC1" pin="42" pinfunction="42" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(MC1-Pad43)">
+      <node ref="MC1" pin="43" pinfunction="43" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(MC1-Pad44)">
+      <node ref="MC1" pin="44" pinfunction="44" pintype="passive+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(MC1-Pad45)">
+      <node ref="MC1" pin="45" pinfunction="45" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(MC1-Pad46)">
+      <node ref="MC1" pin="46" pinfunction="46" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(MC1-Pad47)">
+      <node ref="MC1" pin="47" pinfunction="47" pintype="passive+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(MC1-Pad48)">
+      <node ref="MC1" pin="48" pinfunction="48" pintype="passive+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(MC1-Pad49)">
+      <node ref="MC1" pin="49" pinfunction="49" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(MC1-Pad50)">
+      <node ref="MC1" pin="50" pinfunction="50" pintype="passive+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(MC1-Pad51)">
+      <node ref="MC1" pin="51" pinfunction="51" pintype="passive+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(MC1-Pad52)">
+      <node ref="MC1" pin="52" pinfunction="52" pintype="passive+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(MC1-Pad53)">
+      <node ref="MC1" pin="53" pinfunction="53" pintype="passive+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(MC1-Pad54)">
+      <node ref="MC1" pin="54" pinfunction="54" pintype="passive+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(MC1-Pad55)">
+      <node ref="MC1" pin="55" pinfunction="55" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(MC1-Pad56)">
+      <node ref="MC1" pin="56" pinfunction="56" pintype="passive+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(MC1-Pad57)">
+      <node ref="MC1" pin="57" pinfunction="57" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(MC1-Pad58)">
+      <node ref="MC1" pin="58" pinfunction="58" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(MC1-Pad59)">
+      <node ref="MC1" pin="59" pinfunction="59" pintype="passive+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(MC1-Pad60)">
+      <node ref="MC1" pin="60" pinfunction="60" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(MC1-Pad61)">
+      <node ref="MC1" pin="61" pinfunction="61" pintype="passive+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(MC1-Pad62)">
+      <node ref="MC1" pin="62" pinfunction="62" pintype="passive+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(MC1-Pad63)">
+      <node ref="MC1" pin="63" pinfunction="63" pintype="passive+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(MC1-Pad64)">
+      <node ref="MC1" pin="64" pinfunction="64" pintype="passive+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(MC1-Pad65)">
+      <node ref="MC1" pin="65" pinfunction="65" pintype="passive+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(MC1-Pad66)">
+      <node ref="MC1" pin="66" pinfunction="66" pintype="passive+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(MC1-Pad67)">
+      <node ref="MC1" pin="67" pinfunction="67" pintype="passive+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(MC1-Pad68)">
+      <node ref="MC1" pin="68" pinfunction="68" pintype="passive+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(MC1-Pad69)">
+      <node ref="MC1" pin="69" pinfunction="69" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(MC1-Pad70)">
+      <node ref="MC1" pin="70" pinfunction="70" pintype="passive+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(MC1-Pad71)">
+      <node ref="MC1" pin="71" pinfunction="71" pintype="passive+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(MC1-Pad72)">
+      <node ref="MC1" pin="72" pinfunction="72" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(MC1-Pad73)">
+      <node ref="MC1" pin="73" pinfunction="73" pintype="passive+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(MC1-Pad74)">
+      <node ref="MC1" pin="74" pinfunction="74" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(MC1-Pad75)">
+      <node ref="MC1" pin="75" pinfunction="75" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(MC1-Pad76)">
+      <node ref="MC1" pin="76" pinfunction="76" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(MC1-Pad77)">
+      <node ref="MC1" pin="77" pinfunction="77" pintype="passive+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(MC1-Pad78)">
+      <node ref="MC1" pin="78" pinfunction="78" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(MC1-Pad79)">
+      <node ref="MC1" pin="79" pinfunction="79" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(MC1-Pad80)">
+      <node ref="MC1" pin="80" pinfunction="80" pintype="passive+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(MC2-Pad03)">
+      <node ref="MC2" pin="03" pinfunction="03" pintype="passive+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(MC2-Pad04)">
+      <node ref="MC2" pin="04" pinfunction="04" pintype="passive+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(MC2-Pad05)">
+      <node ref="MC2" pin="05" pinfunction="05" pintype="passive+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(MC2-Pad06)">
+      <node ref="MC2" pin="06" pinfunction="06" pintype="passive+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(MC2-Pad07)">
+      <node ref="MC2" pin="07" pinfunction="07" pintype="passive+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(MC2-Pad08)">
+      <node ref="MC2" pin="08" pinfunction="08" pintype="passive+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(MC2-Pad09)">
+      <node ref="MC2" pin="09" pinfunction="09" pintype="passive+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(MC2-Pad10)">
+      <node ref="MC2" pin="10" pinfunction="10" pintype="passive+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(MC2-Pad11)">
+      <node ref="MC2" pin="11" pinfunction="11" pintype="passive+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(MC2-Pad12)">
+      <node ref="MC2" pin="12" pinfunction="12" pintype="passive+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(MC2-Pad13)">
+      <node ref="MC2" pin="13" pinfunction="13" pintype="passive+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(MC2-Pad15)">
+      <node ref="MC2" pin="15" pinfunction="15" pintype="passive+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(MC2-Pad17)">
+      <node ref="MC2" pin="17" pinfunction="17" pintype="passive+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(MC2-Pad19)">
+      <node ref="MC2" pin="19" pinfunction="19" pintype="passive+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(MC2-Pad21)">
+      <node ref="MC2" pin="21" pinfunction="21" pintype="passive+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(MC2-Pad23)">
+      <node ref="MC2" pin="23" pinfunction="23" pintype="passive+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(MC2-Pad25)">
+      <node ref="MC2" pin="25" pinfunction="25" pintype="passive+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(MC2-Pad27)">
+      <node ref="MC2" pin="27" pinfunction="27" pintype="passive+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(MC2-Pad28)">
+      <node ref="MC2" pin="28" pinfunction="28" pintype="passive+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(MC2-Pad29)">
+      <node ref="MC2" pin="29" pinfunction="29" pintype="passive+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(MC2-Pad30)">
+      <node ref="MC2" pin="30" pinfunction="30" pintype="passive+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(MC2-Pad31)">
+      <node ref="MC2" pin="31" pinfunction="31" pintype="passive+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(MC2-Pad32)">
+      <node ref="MC2" pin="32" pinfunction="32" pintype="passive+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(MC2-Pad33)">
+      <node ref="MC2" pin="33" pinfunction="33" pintype="passive+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(MC2-Pad34)">
+      <node ref="MC2" pin="34" pinfunction="34" pintype="passive+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(MC2-Pad35)">
+      <node ref="MC2" pin="35" pinfunction="35" pintype="passive+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(MC2-Pad36)">
+      <node ref="MC2" pin="36" pinfunction="36" pintype="passive+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(MC2-Pad37)">
+      <node ref="MC2" pin="37" pinfunction="37" pintype="passive+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(MC2-Pad38)">
+      <node ref="MC2" pin="38" pinfunction="38" pintype="passive+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(MC2-Pad39)">
+      <node ref="MC2" pin="39" pinfunction="39" pintype="passive+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(MC2-Pad40)">
+      <node ref="MC2" pin="40" pinfunction="40" pintype="passive+no_connect"/>
+    </net>
+    <net code="141" name="unconnected-(MC2-Pad41)">
+      <node ref="MC2" pin="41" pinfunction="41" pintype="passive+no_connect"/>
+    </net>
+    <net code="142" name="unconnected-(MC2-Pad42)">
+      <node ref="MC2" pin="42" pinfunction="42" pintype="passive+no_connect"/>
+    </net>
+    <net code="143" name="unconnected-(MC2-Pad43)">
+      <node ref="MC2" pin="43" pinfunction="43" pintype="passive+no_connect"/>
+    </net>
+    <net code="144" name="unconnected-(MC2-Pad44)">
+      <node ref="MC2" pin="44" pinfunction="44" pintype="passive+no_connect"/>
+    </net>
+    <net code="145" name="unconnected-(MC2-Pad45)">
+      <node ref="MC2" pin="45" pinfunction="45" pintype="passive+no_connect"/>
+    </net>
+    <net code="146" name="unconnected-(MC2-Pad46)">
+      <node ref="MC2" pin="46" pinfunction="46" pintype="passive+no_connect"/>
+    </net>
+    <net code="147" name="unconnected-(MC2-Pad47)">
+      <node ref="MC2" pin="47" pinfunction="47" pintype="passive+no_connect"/>
+    </net>
+    <net code="148" name="unconnected-(MC2-Pad48)">
+      <node ref="MC2" pin="48" pinfunction="48" pintype="passive+no_connect"/>
+    </net>
+    <net code="149" name="unconnected-(MC2-Pad49)">
+      <node ref="MC2" pin="49" pinfunction="49" pintype="passive+no_connect"/>
+    </net>
+    <net code="150" name="unconnected-(MC2-Pad50)">
+      <node ref="MC2" pin="50" pinfunction="50" pintype="passive+no_connect"/>
+    </net>
+    <net code="151" name="unconnected-(MC2-Pad51)">
+      <node ref="MC2" pin="51" pinfunction="51" pintype="passive+no_connect"/>
+    </net>
+    <net code="152" name="unconnected-(MC2-Pad52)">
+      <node ref="MC2" pin="52" pinfunction="52" pintype="passive+no_connect"/>
+    </net>
+    <net code="153" name="unconnected-(MC2-Pad53)">
+      <node ref="MC2" pin="53" pinfunction="53" pintype="passive+no_connect"/>
+    </net>
+    <net code="154" name="unconnected-(MC2-Pad54)">
+      <node ref="MC2" pin="54" pinfunction="54" pintype="passive+no_connect"/>
+    </net>
+    <net code="155" name="unconnected-(MC2-Pad55)">
+      <node ref="MC2" pin="55" pinfunction="55" pintype="passive+no_connect"/>
+    </net>
+    <net code="156" name="unconnected-(MC2-Pad56)">
+      <node ref="MC2" pin="56" pinfunction="56" pintype="passive+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(MC2-Pad57)">
+      <node ref="MC2" pin="57" pinfunction="57" pintype="passive+no_connect"/>
+    </net>
+    <net code="158" name="unconnected-(MC2-Pad58)">
+      <node ref="MC2" pin="58" pinfunction="58" pintype="passive+no_connect"/>
+    </net>
+    <net code="159" name="unconnected-(MC2-Pad59)">
+      <node ref="MC2" pin="59" pinfunction="59" pintype="passive+no_connect"/>
+    </net>
+    <net code="160" name="unconnected-(MC2-Pad60)">
+      <node ref="MC2" pin="60" pinfunction="60" pintype="passive+no_connect"/>
+    </net>
+    <net code="161" name="unconnected-(MC2-Pad61)">
+      <node ref="MC2" pin="61" pinfunction="61" pintype="passive+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(MC2-Pad62)">
+      <node ref="MC2" pin="62" pinfunction="62" pintype="passive+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(MC2-Pad63)">
+      <node ref="MC2" pin="63" pinfunction="63" pintype="passive+no_connect"/>
+    </net>
+    <net code="164" name="unconnected-(MC2-Pad64)">
+      <node ref="MC2" pin="64" pinfunction="64" pintype="passive+no_connect"/>
+    </net>
+    <net code="165" name="unconnected-(MC2-Pad65)">
+      <node ref="MC2" pin="65" pinfunction="65" pintype="passive+no_connect"/>
+    </net>
+    <net code="166" name="unconnected-(MC2-Pad66)">
+      <node ref="MC2" pin="66" pinfunction="66" pintype="passive+no_connect"/>
+    </net>
+    <net code="167" name="unconnected-(MC2-Pad67)">
+      <node ref="MC2" pin="67" pinfunction="67" pintype="passive+no_connect"/>
+    </net>
+    <net code="168" name="unconnected-(MC2-Pad68)">
+      <node ref="MC2" pin="68" pinfunction="68" pintype="passive+no_connect"/>
+    </net>
+    <net code="169" name="unconnected-(MC2-Pad69)">
+      <node ref="MC2" pin="69" pinfunction="69" pintype="passive+no_connect"/>
+    </net>
+    <net code="170" name="unconnected-(MC2-Pad70)">
+      <node ref="MC2" pin="70" pinfunction="70" pintype="passive+no_connect"/>
+    </net>
+    <net code="171" name="unconnected-(MC2-Pad71)">
+      <node ref="MC2" pin="71" pinfunction="71" pintype="passive+no_connect"/>
+    </net>
+    <net code="172" name="unconnected-(MC2-Pad72)">
+      <node ref="MC2" pin="72" pinfunction="72" pintype="passive+no_connect"/>
+    </net>
+    <net code="173" name="unconnected-(MC2-Pad73)">
+      <node ref="MC2" pin="73" pinfunction="73" pintype="passive+no_connect"/>
+    </net>
+    <net code="174" name="unconnected-(MC2-Pad74)">
+      <node ref="MC2" pin="74" pinfunction="74" pintype="passive+no_connect"/>
+    </net>
+    <net code="175" name="unconnected-(MC2-Pad75)">
+      <node ref="MC2" pin="75" pinfunction="75" pintype="passive+no_connect"/>
+    </net>
+    <net code="176" name="unconnected-(MC2-Pad76)">
+      <node ref="MC2" pin="76" pinfunction="76" pintype="passive+no_connect"/>
+    </net>
+    <net code="177" name="unconnected-(MC2-Pad77)">
+      <node ref="MC2" pin="77" pinfunction="77" pintype="passive+no_connect"/>
+    </net>
+    <net code="178" name="unconnected-(MC2-Pad78)">
+      <node ref="MC2" pin="78" pinfunction="78" pintype="passive+no_connect"/>
+    </net>
+    <net code="179" name="unconnected-(MC2-Pad79)">
+      <node ref="MC2" pin="79" pinfunction="79" pintype="passive+no_connect"/>
+    </net>
+    <net code="180" name="unconnected-(MC2-Pad80)">
+      <node ref="MC2" pin="80" pinfunction="80" pintype="passive+no_connect"/>
+    </net>
+    <net code="181" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="182" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="LV" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="183" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="OSC" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
