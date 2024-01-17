@@ -1,0 +1,4612 @@
+components:
+  J1:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - -3
+    rotation: 90
+  J10:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - -3
+    rotation: 90
+  J100:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 37.51
+    - 17
+    rotation: 90
+  J101:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 27
+    rotation: 90
+  J102:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 27
+    rotation: 90
+  J103:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 27
+    rotation: 90
+  J104:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 27
+    rotation: 90
+  J105:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 27
+    rotation: 90
+  J106:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 27
+    rotation: 90
+  J107:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 27
+    rotation: 90
+  J108:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 27
+    rotation: 90
+  J109:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - 27
+    rotation: 90
+  J11:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - -3
+    rotation: 90
+  J110:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - 27
+    rotation: 90
+  J111:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - 27
+    rotation: 90
+  J112:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - 27
+    rotation: 90
+  J113:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - 27
+    rotation: 90
+  J114:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - 27
+    rotation: 90
+  J115:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - 27
+    rotation: 90
+  J116:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - 27
+    rotation: 90
+  J117:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - 27
+    rotation: 90
+  J118:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - 27
+    rotation: 90
+  J119:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - 27
+    rotation: 90
+  J12:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - -3
+    rotation: 90
+  J120:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - 27
+    rotation: 90
+  J121:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - 27
+    rotation: 90
+  J122:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - 27
+    rotation: 90
+  J123:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - 27
+    rotation: 90
+  J124:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - 27
+    rotation: 90
+  J125:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - 27
+    rotation: 90
+  J126:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - 27
+    rotation: 90
+  J127:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - 27
+    rotation: 90
+  J128:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - 27
+    rotation: 90
+  J129:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - 27
+    rotation: 90
+  J13:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - -3
+    rotation: 90
+  J130:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 35.089999999999996
+    - 27
+    rotation: 90
+  J131:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 36.3
+    - 27
+    rotation: 90
+  J132:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 37.51
+    - 27
+    rotation: 90
+  J133:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 37
+    rotation: 90
+  J134:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 37
+    rotation: 90
+  J135:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 37
+    rotation: 90
+  J136:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 37
+    rotation: 90
+  J137:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 37
+    rotation: 90
+  J138:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 37
+    rotation: 90
+  J139:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 37
+    rotation: 90
+  J14:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - -3
+    rotation: 90
+  J140:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 37
+    rotation: 90
+  J141:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - 37
+    rotation: 90
+  J142:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - 37
+    rotation: 90
+  J143:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - 37
+    rotation: 90
+  J144:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - 37
+    rotation: 90
+  J145:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - 37
+    rotation: 90
+  J146:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - 37
+    rotation: 90
+  J147:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - 37
+    rotation: 90
+  J148:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - 37
+    rotation: 90
+  J149:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - 37
+    rotation: 90
+  J15:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - -3
+    rotation: 90
+  J150:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - 37
+    rotation: 90
+  J151:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - 37
+    rotation: 90
+  J152:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - 37
+    rotation: 90
+  J153:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - 37
+    rotation: 90
+  J154:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - 37
+    rotation: 90
+  J155:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - 37
+    rotation: 90
+  J156:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - 37
+    rotation: 90
+  J157:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - 37
+    rotation: 90
+  J158:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - 37
+    rotation: 90
+  J159:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - 37
+    rotation: 90
+  J16:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - -3
+    rotation: 90
+  J160:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - 37
+    rotation: 90
+  J161:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - 37
+    rotation: 90
+  J162:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 47
+    rotation: 90
+  J163:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 47
+    rotation: 90
+  J164:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 47
+    rotation: 90
+  J165:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 47
+    rotation: 90
+  J166:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 47
+    rotation: 90
+  J167:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 47
+    rotation: 90
+  J168:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 47
+    rotation: 90
+  J169:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 47
+    rotation: 90
+  J17:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - -3
+    rotation: 90
+  J170:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - 47
+    rotation: 90
+  J171:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - 47
+    rotation: 90
+  J172:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - 47
+    rotation: 90
+  J173:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - 47
+    rotation: 90
+  J174:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - 47
+    rotation: 90
+  J175:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - 47
+    rotation: 90
+  J176:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - 47
+    rotation: 90
+  J177:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - 47
+    rotation: 90
+  J178:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - 47
+    rotation: 90
+  J179:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - 47
+    rotation: 90
+  J18:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - -3
+    rotation: 90
+  J180:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - 47
+    rotation: 90
+  J181:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - 47
+    rotation: 90
+  J182:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - 47
+    rotation: 90
+  J183:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - 47
+    rotation: 90
+  J184:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - 47
+    rotation: 90
+  J185:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - 47
+    rotation: 90
+  J186:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - 47
+    rotation: 90
+  J187:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - 47
+    rotation: 90
+  J188:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - 47
+    rotation: 90
+  J189:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - 47
+    rotation: 90
+  J19:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - -3
+    rotation: 90
+  J190:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - 47
+    rotation: 90
+  J191:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 57
+    rotation: 90
+  J192:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 57
+    rotation: 90
+  J193:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 57
+    rotation: 90
+  J194:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 57
+    rotation: 90
+  J195:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 57
+    rotation: 90
+  J196:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 57
+    rotation: 90
+  J197:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 57
+    rotation: 90
+  J198:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 57
+    rotation: 90
+  J199:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - 57
+    rotation: 90
+  J2:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - -3
+    rotation: 90
+  J20:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - -3
+    rotation: 90
+  J200:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - 57
+    rotation: 90
+  J201:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - 57
+    rotation: 90
+  J202:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - 57
+    rotation: 90
+  J203:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - 57
+    rotation: 90
+  J204:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - 57
+    rotation: 90
+  J205:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - 57
+    rotation: 90
+  J206:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - 57
+    rotation: 90
+  J207:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - 57
+    rotation: 90
+  J208:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - 57
+    rotation: 90
+  J209:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - 57
+    rotation: 90
+  J21:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - -3
+    rotation: 90
+  J210:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - 57
+    rotation: 90
+  J211:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - 57
+    rotation: 90
+  J212:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - 57
+    rotation: 90
+  J213:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - 57
+    rotation: 90
+  J214:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - 57
+    rotation: 90
+  J215:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - 57
+    rotation: 90
+  J216:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - 57
+    rotation: 90
+  J217:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - 57
+    rotation: 90
+  J218:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - 57
+    rotation: 90
+  J219:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - 57
+    rotation: 90
+  J22:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - -3
+    rotation: 90
+  J220:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 67
+    rotation: 90
+  J221:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 67
+    rotation: 90
+  J222:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 67
+    rotation: 90
+  J223:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 67
+    rotation: 90
+  J224:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 67
+    rotation: 90
+  J225:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 67
+    rotation: 90
+  J226:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 67
+    rotation: 90
+  J227:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 67
+    rotation: 90
+  J228:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - 67
+    rotation: 90
+  J229:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - 67
+    rotation: 90
+  J23:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - -3
+    rotation: 90
+  J230:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - 67
+    rotation: 90
+  J231:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - 67
+    rotation: 90
+  J232:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - 67
+    rotation: 90
+  J233:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - 67
+    rotation: 90
+  J234:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - 67
+    rotation: 90
+  J235:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - 67
+    rotation: 90
+  J236:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - 67
+    rotation: 90
+  J237:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - 67
+    rotation: 90
+  J238:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - 67
+    rotation: 90
+  J239:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - 67
+    rotation: 90
+  J24:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - -3
+    rotation: 90
+  J240:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - 67
+    rotation: 90
+  J241:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - 67
+    rotation: 90
+  J242:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - 67
+    rotation: 90
+  J243:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - 67
+    rotation: 90
+  J244:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - 67
+    rotation: 90
+  J245:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - 67
+    rotation: 90
+  J246:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - 67
+    rotation: 90
+  J247:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - 67
+    rotation: 90
+  J248:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - 67
+    rotation: 90
+  J249:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 77
+    rotation: 90
+  J25:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - -3
+    rotation: 90
+  J250:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 77
+    rotation: 90
+  J251:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 77
+    rotation: 90
+  J252:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 77
+    rotation: 90
+  J253:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 77
+    rotation: 90
+  J254:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 77
+    rotation: 90
+  J255:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 77
+    rotation: 90
+  J256:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 77
+    rotation: 90
+  J26:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - -3
+    rotation: 90
+  J27:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - -3
+    rotation: 90
+  J28:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - -3
+    rotation: 90
+  J29:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - -3
+    rotation: 90
+  J3:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - -3
+    rotation: 90
+  J30:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 35.089999999999996
+    - -3
+    rotation: 90
+  J31:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 36.3
+    - -3
+    rotation: 90
+  J32:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 37.51
+    - -3
+    rotation: 90
+  J33:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 38.72
+    - -3
+    rotation: 90
+  J34:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 39.93
+    - -3
+    rotation: 90
+  J35:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 7
+    rotation: 90
+  J36:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 7
+    rotation: 90
+  J37:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 7
+    rotation: 90
+  J38:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 7
+    rotation: 90
+  J39:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 7
+    rotation: 90
+  J4:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - -3
+    rotation: 90
+  J40:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 7
+    rotation: 90
+  J41:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 7
+    rotation: 90
+  J42:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 7
+    rotation: 90
+  J43:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - 7
+    rotation: 90
+  J44:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - 7
+    rotation: 90
+  J45:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - 7
+    rotation: 90
+  J46:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - 7
+    rotation: 90
+  J47:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - 7
+    rotation: 90
+  J48:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - 7
+    rotation: 90
+  J49:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - 7
+    rotation: 90
+  J5:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - -3
+    rotation: 90
+  J50:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - 7
+    rotation: 90
+  J51:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - 7
+    rotation: 90
+  J52:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - 7
+    rotation: 90
+  J53:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - 7
+    rotation: 90
+  J54:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - 7
+    rotation: 90
+  J55:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - 7
+    rotation: 90
+  J56:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - 7
+    rotation: 90
+  J57:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - 7
+    rotation: 90
+  J58:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - 7
+    rotation: 90
+  J59:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - 7
+    rotation: 90
+  J6:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - -3
+    rotation: 90
+  J60:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - 7
+    rotation: 90
+  J61:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - 7
+    rotation: 90
+  J62:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - 7
+    rotation: 90
+  J63:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - 7
+    rotation: 90
+  J64:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 35.089999999999996
+    - 7
+    rotation: 90
+  J65:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 36.3
+    - 7
+    rotation: 90
+  J66:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 37.51
+    - 7
+    rotation: 90
+  J67:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 38.72
+    - 7
+    rotation: 90
+  J68:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 39.93
+    - 7
+    rotation: 90
+  J69:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 0.0
+    - 17
+    rotation: 90
+  J7:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - -3
+    rotation: 90
+  J70:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 1.21
+    - 17
+    rotation: 90
+  J71:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 2.42
+    - 17
+    rotation: 90
+  J72:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 3.63
+    - 17
+    rotation: 90
+  J73:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 4.84
+    - 17
+    rotation: 90
+  J74:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 6.05
+    - 17
+    rotation: 90
+  J75:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 7.26
+    - 17
+    rotation: 90
+  J76:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - 17
+    rotation: 90
+  J77:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - 17
+    rotation: 90
+  J78:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 10.89
+    - 17
+    rotation: 90
+  J79:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 12.1
+    - 17
+    rotation: 90
+  J8:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 8.469999999999999
+    - -3
+    rotation: 90
+  J80:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 13.309999999999999
+    - 17
+    rotation: 90
+  J81:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 14.52
+    - 17
+    rotation: 90
+  J82:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 15.73
+    - 17
+    rotation: 90
+  J83:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 16.939999999999998
+    - 17
+    rotation: 90
+  J84:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 18.15
+    - 17
+    rotation: 90
+  J85:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 19.36
+    - 17
+    rotation: 90
+  J86:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 20.57
+    - 17
+    rotation: 90
+  J87:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 21.78
+    - 17
+    rotation: 90
+  J88:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 22.99
+    - 17
+    rotation: 90
+  J89:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 24.2
+    - 17
+    rotation: 90
+  J9:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 9.68
+    - -3
+    rotation: 90
+  J90:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 25.41
+    - 17
+    rotation: 90
+  J91:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 26.619999999999997
+    - 17
+    rotation: 90
+  J92:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 27.83
+    - 17
+    rotation: 90
+  J93:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 29.04
+    - 17
+    rotation: 90
+  J94:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 30.25
+    - 17
+    rotation: 90
+  J95:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 31.46
+    - 17
+    rotation: 90
+  J96:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 32.67
+    - 17
+    rotation: 90
+  J97:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 33.879999999999995
+    - 17
+    rotation: 90
+  J98:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 35.089999999999996
+    - 17
+    rotation: 90
+  J99:
+    flip: false
+    footprint:
+      name: 1mm_x_1mm_solder_pad
+      path: 1mm_x_1mm_solder_pad.pretty
+    location:
+    - 36.3
+    - 17
+    rotation: 90
+  U1:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 0
+    rotation: 90
+  U10:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 0
+    rotation: 90
+  U100:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 37.51
+    - 20
+    rotation: 90
+  U101:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 30
+    rotation: 90
+  U102:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 30
+    rotation: 90
+  U103:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 30
+    rotation: 90
+  U104:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 30
+    rotation: 90
+  U105:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 30
+    rotation: 90
+  U106:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 30
+    rotation: 90
+  U107:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 30
+    rotation: 90
+  U108:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 30
+    rotation: 90
+  U109:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 30
+    rotation: 90
+  U11:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 0
+    rotation: 90
+  U110:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 30
+    rotation: 90
+  U111:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 30
+    rotation: 90
+  U112:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 30
+    rotation: 90
+  U113:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 30
+    rotation: 90
+  U114:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 30
+    rotation: 90
+  U115:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 30
+    rotation: 90
+  U116:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 30
+    rotation: 90
+  U117:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 30
+    rotation: 90
+  U118:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 30
+    rotation: 90
+  U119:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 30
+    rotation: 90
+  U12:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 0
+    rotation: 90
+  U120:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 30
+    rotation: 90
+  U121:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 30
+    rotation: 90
+  U122:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 30
+    rotation: 90
+  U123:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 30
+    rotation: 90
+  U124:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 30
+    rotation: 90
+  U125:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 30
+    rotation: 90
+  U126:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 30
+    rotation: 90
+  U127:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 30
+    rotation: 90
+  U128:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 30
+    rotation: 90
+  U129:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 30
+    rotation: 90
+  U13:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 0
+    rotation: 90
+  U130:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 35.089999999999996
+    - 30
+    rotation: 90
+  U131:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 36.3
+    - 30
+    rotation: 90
+  U132:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 37.51
+    - 30
+    rotation: 90
+  U133:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 40
+    rotation: 90
+  U134:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 40
+    rotation: 90
+  U135:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 40
+    rotation: 90
+  U136:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 40
+    rotation: 90
+  U137:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 40
+    rotation: 90
+  U138:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 40
+    rotation: 90
+  U139:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 40
+    rotation: 90
+  U14:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 0
+    rotation: 90
+  U140:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 40
+    rotation: 90
+  U141:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 40
+    rotation: 90
+  U142:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 40
+    rotation: 90
+  U143:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 40
+    rotation: 90
+  U144:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 40
+    rotation: 90
+  U145:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 40
+    rotation: 90
+  U146:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 40
+    rotation: 90
+  U147:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 40
+    rotation: 90
+  U148:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 40
+    rotation: 90
+  U149:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 40
+    rotation: 90
+  U15:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 0
+    rotation: 90
+  U150:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 40
+    rotation: 90
+  U151:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 40
+    rotation: 90
+  U152:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 40
+    rotation: 90
+  U153:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 40
+    rotation: 90
+  U154:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 40
+    rotation: 90
+  U155:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 40
+    rotation: 90
+  U156:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 40
+    rotation: 90
+  U157:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 40
+    rotation: 90
+  U158:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 40
+    rotation: 90
+  U159:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 40
+    rotation: 90
+  U16:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 0
+    rotation: 90
+  U160:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 40
+    rotation: 90
+  U161:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 40
+    rotation: 90
+  U162:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 50
+    rotation: 90
+  U163:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 50
+    rotation: 90
+  U164:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 50
+    rotation: 90
+  U165:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 50
+    rotation: 90
+  U166:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 50
+    rotation: 90
+  U167:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 50
+    rotation: 90
+  U168:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 50
+    rotation: 90
+  U169:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 50
+    rotation: 90
+  U17:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 0
+    rotation: 90
+  U170:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 50
+    rotation: 90
+  U171:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 50
+    rotation: 90
+  U172:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 50
+    rotation: 90
+  U173:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 50
+    rotation: 90
+  U174:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 50
+    rotation: 90
+  U175:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 50
+    rotation: 90
+  U176:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 50
+    rotation: 90
+  U177:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 50
+    rotation: 90
+  U178:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 50
+    rotation: 90
+  U179:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 50
+    rotation: 90
+  U18:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 0
+    rotation: 90
+  U180:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 50
+    rotation: 90
+  U181:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 50
+    rotation: 90
+  U182:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 50
+    rotation: 90
+  U183:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 50
+    rotation: 90
+  U184:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 50
+    rotation: 90
+  U185:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 50
+    rotation: 90
+  U186:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 50
+    rotation: 90
+  U187:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 50
+    rotation: 90
+  U188:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 50
+    rotation: 90
+  U189:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 50
+    rotation: 90
+  U19:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 0
+    rotation: 90
+  U190:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 50
+    rotation: 90
+  U191:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 60
+    rotation: 90
+  U192:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 60
+    rotation: 90
+  U193:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 60
+    rotation: 90
+  U194:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 60
+    rotation: 90
+  U195:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 60
+    rotation: 90
+  U196:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 60
+    rotation: 90
+  U197:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 60
+    rotation: 90
+  U198:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 60
+    rotation: 90
+  U199:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 60
+    rotation: 90
+  U2:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 0
+    rotation: 90
+  U20:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 0
+    rotation: 90
+  U200:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 60
+    rotation: 90
+  U201:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 60
+    rotation: 90
+  U202:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 60
+    rotation: 90
+  U203:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 60
+    rotation: 90
+  U204:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 60
+    rotation: 90
+  U205:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 60
+    rotation: 90
+  U206:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 60
+    rotation: 90
+  U207:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 60
+    rotation: 90
+  U208:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 60
+    rotation: 90
+  U209:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 60
+    rotation: 90
+  U21:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 0
+    rotation: 90
+  U210:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 60
+    rotation: 90
+  U211:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 60
+    rotation: 90
+  U212:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 60
+    rotation: 90
+  U213:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 60
+    rotation: 90
+  U214:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 60
+    rotation: 90
+  U215:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 60
+    rotation: 90
+  U216:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 60
+    rotation: 90
+  U217:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 60
+    rotation: 90
+  U218:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 60
+    rotation: 90
+  U219:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 60
+    rotation: 90
+  U22:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 0
+    rotation: 90
+  U220:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 70
+    rotation: 90
+  U221:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 70
+    rotation: 90
+  U222:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 70
+    rotation: 90
+  U223:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 70
+    rotation: 90
+  U224:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 70
+    rotation: 90
+  U225:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 70
+    rotation: 90
+  U226:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 70
+    rotation: 90
+  U227:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 70
+    rotation: 90
+  U228:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 70
+    rotation: 90
+  U229:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 70
+    rotation: 90
+  U23:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 0
+    rotation: 90
+  U230:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 70
+    rotation: 90
+  U231:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 70
+    rotation: 90
+  U232:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 70
+    rotation: 90
+  U233:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 70
+    rotation: 90
+  U234:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 70
+    rotation: 90
+  U235:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 70
+    rotation: 90
+  U236:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 70
+    rotation: 90
+  U237:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 70
+    rotation: 90
+  U238:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 70
+    rotation: 90
+  U239:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 70
+    rotation: 90
+  U24:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 0
+    rotation: 90
+  U240:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 70
+    rotation: 90
+  U241:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 70
+    rotation: 90
+  U242:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 70
+    rotation: 90
+  U243:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 70
+    rotation: 90
+  U244:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 70
+    rotation: 90
+  U245:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 70
+    rotation: 90
+  U246:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 70
+    rotation: 90
+  U247:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 70
+    rotation: 90
+  U248:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 70
+    rotation: 90
+  U249:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 80
+    rotation: 90
+  U25:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 0
+    rotation: 90
+  U250:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 80
+    rotation: 90
+  U251:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 80
+    rotation: 90
+  U252:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 80
+    rotation: 90
+  U253:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 80
+    rotation: 90
+  U254:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 80
+    rotation: 90
+  U255:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 80
+    rotation: 90
+  U256:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 80
+    rotation: 90
+  U26:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 0
+    rotation: 90
+  U27:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 0
+    rotation: 90
+  U28:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 0
+    rotation: 90
+  U29:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 0
+    rotation: 90
+  U3:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 0
+    rotation: 90
+  U30:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 35.089999999999996
+    - 0
+    rotation: 90
+  U31:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 36.3
+    - 0
+    rotation: 90
+  U32:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 37.51
+    - 0
+    rotation: 90
+  U33:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 38.72
+    - 0
+    rotation: 90
+  U34:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 39.93
+    - 0
+    rotation: 90
+  U35:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 10
+    rotation: 90
+  U36:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 10
+    rotation: 90
+  U37:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 10
+    rotation: 90
+  U38:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 10
+    rotation: 90
+  U39:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 10
+    rotation: 90
+  U4:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 0
+    rotation: 90
+  U40:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 10
+    rotation: 90
+  U41:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 10
+    rotation: 90
+  U42:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 10
+    rotation: 90
+  U43:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 10
+    rotation: 90
+  U44:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 10
+    rotation: 90
+  U45:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 10
+    rotation: 90
+  U46:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 10
+    rotation: 90
+  U47:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 10
+    rotation: 90
+  U48:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 10
+    rotation: 90
+  U49:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 10
+    rotation: 90
+  U5:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 0
+    rotation: 90
+  U50:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 10
+    rotation: 90
+  U51:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 10
+    rotation: 90
+  U52:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 10
+    rotation: 90
+  U53:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 10
+    rotation: 90
+  U54:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 10
+    rotation: 90
+  U55:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 10
+    rotation: 90
+  U56:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 10
+    rotation: 90
+  U57:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 10
+    rotation: 90
+  U58:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 10
+    rotation: 90
+  U59:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 10
+    rotation: 90
+  U6:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 0
+    rotation: 90
+  U60:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 10
+    rotation: 90
+  U61:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 10
+    rotation: 90
+  U62:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 10
+    rotation: 90
+  U63:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 10
+    rotation: 90
+  U64:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 35.089999999999996
+    - 10
+    rotation: 90
+  U65:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 36.3
+    - 10
+    rotation: 90
+  U66:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 37.51
+    - 10
+    rotation: 90
+  U67:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 38.72
+    - 10
+    rotation: 90
+  U68:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 39.93
+    - 10
+    rotation: 90
+  U69:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 0.0
+    - 20
+    rotation: 90
+  U7:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 0
+    rotation: 90
+  U70:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 1.21
+    - 20
+    rotation: 90
+  U71:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 2.42
+    - 20
+    rotation: 90
+  U72:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 3.63
+    - 20
+    rotation: 90
+  U73:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 4.84
+    - 20
+    rotation: 90
+  U74:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 6.05
+    - 20
+    rotation: 90
+  U75:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 7.26
+    - 20
+    rotation: 90
+  U76:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 20
+    rotation: 90
+  U77:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 20
+    rotation: 90
+  U78:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 10.89
+    - 20
+    rotation: 90
+  U79:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 12.1
+    - 20
+    rotation: 90
+  U8:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 8.469999999999999
+    - 0
+    rotation: 90
+  U80:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 13.309999999999999
+    - 20
+    rotation: 90
+  U81:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 14.52
+    - 20
+    rotation: 90
+  U82:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 15.73
+    - 20
+    rotation: 90
+  U83:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 16.939999999999998
+    - 20
+    rotation: 90
+  U84:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 18.15
+    - 20
+    rotation: 90
+  U85:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 19.36
+    - 20
+    rotation: 90
+  U86:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 20.57
+    - 20
+    rotation: 90
+  U87:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 21.78
+    - 20
+    rotation: 90
+  U88:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 22.99
+    - 20
+    rotation: 90
+  U89:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 24.2
+    - 20
+    rotation: 90
+  U9:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 9.68
+    - 0
+    rotation: 90
+  U90:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 25.41
+    - 20
+    rotation: 90
+  U91:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 26.619999999999997
+    - 20
+    rotation: 90
+  U92:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 27.83
+    - 20
+    rotation: 90
+  U93:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 29.04
+    - 20
+    rotation: 90
+  U94:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 30.25
+    - 20
+    rotation: 90
+  U95:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 31.46
+    - 20
+    rotation: 90
+  U96:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 32.67
+    - 20
+    rotation: 90
+  U97:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 33.879999999999995
+    - 20
+    rotation: 90
+  U98:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 35.089999999999996
+    - 20
+    rotation: 90
+  U99:
+    flip: false
+    footprint:
+      name: TE_2329497-2
+      path: /home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty
+    location:
+    - 36.3
+    - 20
+    rotation: 90
+origin:
+- 0
+- 0
