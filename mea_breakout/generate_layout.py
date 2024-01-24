@@ -1,8 +1,12 @@
 import os
 import yaml
 
-ORIGIN_X = 0
-ORIGIN_Y = 0
+NUM_CONNECTORS_INNER_ROW = 29 # it's actually 30, but we're omitting the last one so we have space for the spring contact on a different pad
+NUM_CONNECTORS_OUTER_ROW = 33
+INTER_PAD_SPACING = 1.275
+
+ORIGIN_X = 68.64
+ORIGIN_Y = 0.00
 
 class Footprint:
 
@@ -40,20 +44,16 @@ class Layout:
 
 if __name__ == "__main__":
     
-    n_connectors_outer_row = 33
-    n_connectors_inner_row = 29 # it's actually 30, but we're omitting the last one so we have space for the spring contact on a different pad
-
     conn_refdes = "U"
     pad_refdes = "J"
 
-    inter_pad_spacing = 1.21
-    pad_to_conn_spacing = 3
+    pad_to_conn_spacing = 0
     row_to_row_spacing = 3
 
     layout = Layout()
 
     pad_footprint = Footprint("1mm_x_1mm_solder_pad", "1mm_x_1mm_solder_pad.pretty")
-    conn_footprint = Footprint("TE_2329497-2", "/home/aydin/Documents/Hardware/mea_breakout/mea_breakout/2329497_2.pretty")
+    conn_footprint = Footprint("TE_2329497-2", "2329497_2.pretty")
 
     refdes_ctr = 0
 
@@ -62,58 +62,69 @@ if __name__ == "__main__":
     # but this drastically reduces the manual workload
 
     # for outer row
-    for i in range(n_connectors_outer_row + 1):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing], 90, False, pad_footprint)
 
-    refdes_ctr += n_connectors_outer_row + 1
+    # top
+    for i in range(NUM_CONNECTORS_OUTER_ROW + 1):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i, ORIGIN_Y], 90, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i, ORIGIN_Y - pad_to_conn_spacing], 90, True, pad_footprint)
 
-    for i in range(n_connectors_outer_row + 1):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 10], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 10], 90, False, pad_footprint)
+    refdes_ctr += NUM_CONNECTORS_OUTER_ROW + 1
 
-    refdes_ctr += n_connectors_outer_row + 1
+    # bottom
+    for i in range(NUM_CONNECTORS_OUTER_ROW + 1):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i, ORIGIN_Y + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW)], 270, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i, ORIGIN_Y - pad_to_conn_spacing + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW )], 270, True, pad_footprint)
 
-    for i in range(n_connectors_outer_row - 1):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 20], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 20], 90, False, pad_footprint)
+    refdes_ctr += NUM_CONNECTORS_OUTER_ROW + 1
 
-    refdes_ctr += n_connectors_outer_row - 1
+    # left
+    for i in range(NUM_CONNECTORS_OUTER_ROW - 1):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X, INTER_PAD_SPACING * (i + 1) + ORIGIN_Y], 180, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X - pad_to_conn_spacing, INTER_PAD_SPACING * (i + 1) + ORIGIN_Y], 180, True, pad_footprint)
 
-    for i in range(n_connectors_outer_row - 1):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 30], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 30], 90, False, pad_footprint)
+    refdes_ctr += NUM_CONNECTORS_OUTER_ROW - 1
 
-    refdes_ctr += n_connectors_outer_row - 1
+    # right
+    for i in range(NUM_CONNECTORS_OUTER_ROW - 1):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW), ORIGIN_Y + INTER_PAD_SPACING * (i + 1)], 0, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + pad_to_conn_spacing + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW), ORIGIN_Y + INTER_PAD_SPACING * (i + 1)], 0, True, pad_footprint)
+
+    refdes_ctr += NUM_CONNECTORS_OUTER_ROW - 1
         
     # for inner row
-    for i in range(n_connectors_inner_row):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 40], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 40], 90, False, pad_footprint)
 
-    refdes_ctr += n_connectors_inner_row
+    # top
+    for i in range(NUM_CONNECTORS_INNER_ROW):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i + 0.8, ORIGIN_Y + INTER_PAD_SPACING], 270, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i + 0.8, ORIGIN_Y - pad_to_conn_spacing + INTER_PAD_SPACING], 270, True, pad_footprint)
 
-    for i in range(n_connectors_inner_row):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 50], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 50], 90, False, pad_footprint)
+    refdes_ctr += NUM_CONNECTORS_INNER_ROW
 
-    refdes_ctr += n_connectors_inner_row
+    # bottom
+    for i in range(NUM_CONNECTORS_INNER_ROW):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW) - (INTER_PAD_SPACING * i) - 0.8, ORIGIN_Y + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW - 1)], 90, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW) - (INTER_PAD_SPACING * i) - 0.8, ORIGIN_Y + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW - 1) - pad_to_conn_spacing], 90, True, pad_footprint)
 
-    for i in range(n_connectors_inner_row):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 60], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 60], 90, False, pad_footprint)
+    refdes_ctr += NUM_CONNECTORS_INNER_ROW
 
-    refdes_ctr += n_connectors_inner_row
+    # left
+    for i in range(NUM_CONNECTORS_INNER_ROW):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING, ORIGIN_Y + (NUM_CONNECTORS_OUTER_ROW * INTER_PAD_SPACING) - (i * INTER_PAD_SPACING) - 0.8], 0, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING - pad_to_conn_spacing, ORIGIN_Y + (NUM_CONNECTORS_OUTER_ROW * INTER_PAD_SPACING) - (i * INTER_PAD_SPACING) - 0.8], 0, True, pad_footprint)
 
-    for i in range(n_connectors_inner_row):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 70], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 70], 90, False, pad_footprint)
+    refdes_ctr += NUM_CONNECTORS_INNER_ROW
 
-    refdes_ctr += n_connectors_inner_row
+    # right
+    for i in range(NUM_CONNECTORS_INNER_ROW):
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW - 1), ORIGIN_Y + (INTER_PAD_SPACING * i) + 0.8], 180, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * (NUM_CONNECTORS_OUTER_ROW - 1) - pad_to_conn_spacing, ORIGIN_Y + (INTER_PAD_SPACING * i) + 0.8], 180, True, pad_footprint)
 
+    refdes_ctr += NUM_CONNECTORS_INNER_ROW
+
+    # stragglers
     for i in range(256 - refdes_ctr):
-        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y + 80], 90, False, conn_footprint)
-        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [inter_pad_spacing * i, ORIGIN_Y - pad_to_conn_spacing + 80], 90, False, pad_footprint)
+        layout.add_component(f"{conn_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i, ORIGIN_Y + 80], 90, False, conn_footprint)
+        layout.add_component(f"{pad_refdes}{i + refdes_ctr + 1}", [ORIGIN_X + INTER_PAD_SPACING * i, ORIGIN_Y - pad_to_conn_spacing + 80], 90, True, pad_footprint)
 
     refdes_ctr = 256
 
