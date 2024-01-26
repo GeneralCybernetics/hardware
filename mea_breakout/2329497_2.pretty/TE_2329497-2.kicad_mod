@@ -142,7 +142,7 @@
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
-          (xy -1.22 0.5)
+          (xy -1.33 0.5)
           (xy -0.07 0.5)
           (xy -0.068 0.497)
           (xy -0.067 0.489)
@@ -263,7 +263,7 @@
           (xy -0.068 -0.487)
           (xy -0.069 -0.494)
           (xy -0.07 -0.5)
-          (xy -1.22 -0.5)
+          (xy -1.33 -0.5)
         ) (width 0) (fill yes))
     ) (tstamp 41536fca-7dc7-457f-9ba7-250dffc80709))
   (model "${KIPRJMOD}/2329497-2.step"
