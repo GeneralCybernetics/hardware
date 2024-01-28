@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/Conn_Molex_39-53-2045/eec.pretty")(options "")(descr ""))
+  (lib (name "eec_rightangle")(type "KiCad")(uri "${KIPRJMOD}/Conn_Molex_39-53-2044/eec.pretty")(options "")(descr ""))
+)
