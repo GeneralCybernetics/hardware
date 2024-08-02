@@ -1,13 +1,3 @@
-/* ----------------------------------------------------------------------
-"Pixel dust" Protomatter library example. As written, this is
-SPECIFICALLY FOR THE ADAFRUIT MATRIXPORTAL with 64x32 pixel matrix.
-Change "HEIGHT" below for 64x64 matrix. Could also be adapted to other
-Protomatter-capable boards with an attached LIS3DH accelerometer.
-
-PLEASE SEE THE "simple" EXAMPLE FOR AN INTRODUCTORY SKETCH,
-or "doublebuffer" for animation basics.
-------------------------------------------------------------------------- */
-
 #include <Wire.h>                 // For I2C communication
 #include <Adafruit_LIS3DH.h>      // For accelerometer
 #include <Adafruit_PixelDust.h>   // For sand simulation
@@ -58,7 +48,9 @@ double I[N_I] = {1*60000, 2*60000, 3*60000, 4*60000, 5*60000, 6*60000, 7*60000, 
 int init_well_pos_x;
 int init_well_pos_y;
 
-unsigned long prevMillis;
+// unsigned long prevMillis;
+unsigned long prevMillis[N_I*N_L] = {0};
+bool onStatus[N_I*N_L] = {false};
 
 bool alignmentStage = true;
 
@@ -94,7 +86,6 @@ void setup(void) {
   init_well_pos_y = matrix.height()-15;
 
   pinMode(upButton, INPUT_PULLUP);
-
 }
 
 // MAIN LOOP - RUNS ONCE PER FRAME OF ANIMATION ----------------------------
@@ -111,6 +102,13 @@ void loop() {
     matrix.drawPixel(0, 63, colors[2]);
     matrix.drawPixel(63, 63, colors[3]);
     alignmentStage = false;
+    
+    unsigned long currentMillis = millis();
+    for (int l = 0; l < N_L; l++) {
+      for (int i = 0; i < N_I; i++) {
+        prevMillis[l * N_I + i] = currentMillis;
+      }
+    }
   }
 
   // ----------------- alignment stage ------------------------
@@ -135,9 +133,9 @@ void loop() {
     }
 
     // illuminate wells
-    uint16_t blue = matrix.color565(0, 0, 255); // White color
-    for (int i = 0; i < (sizeof(L)/sizeof(L[0]))*4; i++) {
-      for (int j = 0; j < sizeof(I)/sizeof(I[0]); j++) {
+    uint16_t blue = matrix.color565(0, 0, 255); 
+    for (int i = 0; i < N_L*4; i++) {
+      for (int j = 0; j < N_I; j++) {
         int x = init_well_pos_x + i * 3; // 4 pixels per well
         int y = init_well_pos_y -  j * 3;
         for (int dx = 0; dx < 2; dx++) {
@@ -148,10 +146,48 @@ void loop() {
       }
     }
 
+  } else {
+    unsigned long currentMillis = millis();
+
+    for (int l = 0; l < N_L; l++) {
+      for (int i = 0; i < N_I; i++) {
+        int index = l * N_I + i;
+        if (currentMillis - prevMillis[index] >= I[i]) {
+          prevMillis[index] = currentMillis;
+          onStatus[index] = true;
+        }
+      }
+    }
+
+    illuminateWells();
   }
 
-  
-  
-
   matrix.show(); // Copy data to matrix buffers
+}
+
+void illuminateWells() {
+  uint16_t blue = matrix.color565(0, 0, 255); 
+  unsigned long currentMillis = millis();
+
+  // Illuminate the wells based on the initial positions and intervals
+  for (int l = 0; l < N_L; l++) {
+    for (int i = 0; i < N_I; i++) {
+      int index = l * N_I + i;
+      if (onStatus[index]) {
+        for (int j = 0; j < 4; j++) {
+          int x = init_well_pos_x + l * 12 + j * 3; // 4 pixels per well
+          int y = init_well_pos_y -  i * 3;
+          for (int dx = 0; dx < 2; dx++) {
+            for (int dy = 0; dy < 2; dy++) {
+              matrix.drawPixel(y + dy, x + dx, blue);
+            }
+          }
+        }
+        if (currentMillis - prevMillis[index] >= L[l]) {
+          prevMillis[index] = currentMillis;
+          onStatus[index] = false;
+        }
+      }
+    }
+  }
 }
