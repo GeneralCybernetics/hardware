@@ -15157,7 +15157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z1.6mm"
 			(at 142.24 25.4 0)
 			(effects
 				(font
@@ -16438,7 +16438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_01005_0402Metric"
 			(at 130.81 27.178 90)
 			(effects
 				(font
@@ -16596,7 +16596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_01005_0402Metric"
 			(at 106.172 85.09 90)
 			(effects
 				(font
@@ -18025,7 +18025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_01005_0402Metric"
 			(at 99.822 85.09 90)
 			(effects
 				(font
