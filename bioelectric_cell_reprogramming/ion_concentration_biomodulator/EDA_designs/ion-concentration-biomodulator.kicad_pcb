@@ -2071,7 +2071,7 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "Q5"
-			(at -7.15 -1.7 0)
+			(at -5.4 -2.95 0)
 			(layer "F.SilkS")
 			(uuid "c9c4479a-c126-430a-b81f-3bad2f6120bf")
 			(effects
@@ -2831,7 +2831,7 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1 270)
+			(at -1.25 0 0)
 			(layer "F.SilkS")
 			(uuid "0fe336fc-1bf9-4f63-a57c-da82378b6907")
 			(effects
@@ -2842,7 +2842,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 0 1 270)
+			(at 0 1 -90)
 			(layer "F.Fab")
 			(uuid "321f69a2-fb1d-4eb4-8ed2-6e0a41ed162a")
 			(effects
@@ -2974,7 +2974,7 @@
 			(uuid "a3cc5536-77fb-45d7-83c3-71912772f8e7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.62 270)
+			(at 0 -0.62 -90)
 			(layer "F.Fab")
 			(uuid "57746954-8db5-4d23-9131-af98dd38441c")
 			(effects
@@ -3733,7 +3733,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C21"
-			(at 0 -1.16 270)
+			(at 0 -1.16 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0b7220d7-81b1-43b9-a0ab-2581c7320945")
@@ -3745,7 +3745,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(uuid "19de84af-c451-4447-ab4b-d9ed5db01779")
 			(effects
@@ -3897,7 +3897,7 @@
 			(uuid "a59b7e33-3cb0-42e2-ac5a-8ef84c5db461")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "4c788dc9-9444-4e3a-86c9-03eac3f1975b")
 			(effects
@@ -4740,7 +4740,7 @@
 		(descr "LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins")
 		(tags "LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins")
 		(property "Reference" "D2"
-			(at 1.27 -1.96 90)
+			(at -0.21 -2.75 180)
 			(layer "F.SilkS")
 			(uuid "a78973c7-42ff-4f4f-9568-8e7fca4b6b22")
 			(effects
@@ -5223,7 +5223,7 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "Q2"
-			(at -6.9 0.325 0)
+			(at -5.4 -2.925 0)
 			(layer "F.SilkS")
 			(uuid "b9e092b3-ff66-476b-82e7-8c8b1453e840")
 			(effects
@@ -5497,7 +5497,7 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "Q4"
-			(at -6.9 -2.25 0)
+			(at -5.4 -2.75 0)
 			(layer "F.SilkS")
 			(uuid "21d68309-1a4c-41d0-acf7-6efa9d47cb0d")
 			(effects
@@ -13844,7 +13844,7 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "Q6"
-			(at -6.75 -0.7 0)
+			(at -5.5 -2.7 0)
 			(layer "F.SilkS")
 			(uuid "bdd3dc1c-c8bb-4126-9318-534bbcdc9a25")
 			(effects
