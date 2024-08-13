@@ -430,14 +430,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "microfluidics-chip.kicad_pro",
+    "filename": "ion-concentration-biomodulator.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.127,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,

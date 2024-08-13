@@ -1,7 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "co2_sensor_molex_footprint")(type "KiCad")(uri "/Users/elijah/Downloads/0532610671 EDA CAD 3D/KiCADv6/2024-08-11_23-30-05.kicad_sym")(options "")(descr ""))
-  (lib (name "1x02_connector_solenoid")(type "KiCad")(uri "${KICAD_USER_DOWNLOADS}/KiCADv6/2024-08-13_01-47-46.kicad_sym")(options "")(descr ""))
-  (lib (name "1x08_connector_pinch_solenoid")(type "KiCad")(uri "${KICAD_USER_DOWNLOADS}/pinch_solenoid_socket/2024-08-13_01-50-37.kicad_sym")(options "")(descr ""))
-  (lib (name "co2_dev_board_male_socket")(type "KiCad")(uri "${KICAD_USER_DOWNLOADS}/co2_dev_board_male_socket/2024-08-13_06-27-45.kicad_sym")(options "")(descr ""))
-)
