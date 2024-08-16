@@ -9557,6 +9557,10 @@
 		(uuid "39ae6b4b-a363-457c-a6d4-c378d41e7eb8")
 	)
 	(no_connect
+		(at 149.86 67.31)
+		(uuid "45adec3d-cacd-4e43-8e0e-8401cb688c96")
+	)
+	(no_connect
 		(at 116.84 87.63)
 		(uuid "4822771b-0944-4c88-8b66-7d1103bbce7f")
 	)
@@ -9611,6 +9615,10 @@
 	(no_connect
 		(at 149.86 64.77)
 		(uuid "c44ab9f3-f7c2-47f1-a28e-8698c954172d")
+	)
+	(no_connect
+		(at 149.86 69.85)
+		(uuid "ca5a1531-722b-4c2f-9dff-3a2d65deda0f")
 	)
 	(no_connect
 		(at 82.55 256.54)
@@ -11104,16 +11112,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 67.31) (xy 149.86 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92ddc9d2-9adc-48a7-bc6e-1db939bb0434")
-	)
-	(wire
-		(pts
 			(xy 74.93 152.4) (xy 82.55 152.4)
 		)
 		(stroke
@@ -11461,16 +11459,6 @@
 			(type default)
 		)
 		(uuid "af201cb8-873f-4119-8a81-54bbf36d01d1")
-	)
-	(wire
-		(pts
-			(xy 161.29 69.85) (xy 149.86 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af7d7692-c492-42e6-9d07-afd2640c2b9d")
 	)
 	(wire
 		(pts
@@ -12800,17 +12788,6 @@
 		)
 		(uuid "1b23950b-50e0-4065-8338-b6506f77e037")
 	)
-	(label "USART1_TX"
-		(at 160.02 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1bd9cb6b-df1b-42bf-84e5-62de3824292c")
-	)
 	(label "11+"
 		(at 74.93 180.34 0)
 		(fields_autoplaced yes)
@@ -12942,17 +12919,6 @@
 			(justify right bottom)
 		)
 		(uuid "4e78f4ac-8ae7-4621-8769-d50d11e5bd1f")
-	)
-	(label "USART1_RX"
-		(at 161.29 69.85 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "515418e6-8fcd-4ceb-969b-15cb1565153c")
 	)
 	(label "I2C_SCK"
 		(at 107.95 92.71 0)
@@ -14665,7 +14631,7 @@
 				)
 			)
 		)
-		(property "Value" "Fuse"
+		(property "Value" "500mA"
 			(at 256.54 88.9 90)
 			(effects
 				(font
