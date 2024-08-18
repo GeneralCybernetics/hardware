@@ -1648,7 +1648,7 @@
 			(pintype "unspecified")
 			(uuid "e9a825e7-3299-4158-9e16-30800665bda0")
 		)
-		(model "${KIPRJMOD}/components/keyed_6_pin_horizontal_ 0532610671.pretty/532610671.stp"
+		(model "${KICAD_USER_DOWNLOADS}/0532610671 EDA CAD 3D/532610671.stp"
 			(offset
 				(xyz 3.2 -5.5 0)
 			)
@@ -2024,7 +2024,7 @@
 			(pintype "unspecified")
 			(uuid "e3c53a19-ce09-457a-9022-a6b639b6cd99")
 		)
-		(model "${KIPRJMOD}/components/keyed_6_pin_horizontal_ 0532610671.pretty/532610671.stp"
+		(model "${KICAD_USER_DOWNLOADS}/0532610671 EDA CAD 3D/532610671.stp"
 			(offset
 				(xyz 3.2 -5.5 0)
 			)
@@ -3447,29 +3447,6 @@
 			(size 10.414 10.4648)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(uuid "a9f3c48c-8597-4de0-9040-9c91403be226")
-		)
-		(model "${KIPRJMOD}/components/LDO_5V_LM1084.pretty/LM1084IS-5.0.stp"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/components/LDO_5V_LM1084.pretty/LM1084IS-5.0.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
 		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
@@ -7688,9 +7665,9 @@
 			(pintype "passive")
 			(uuid "463fb240-9f3e-4f7f-87b3-3ffd3aa694b7")
 		)
-		(model "${KIPRJMOD}/components/upright_4_pin_socket_39-53-2045.pretty/39-53-2045.stp"
+		(model "${KICAD_USER_DOWNLOADS}/LIB_39-53-2045/39-53-2045/3D/39-53-2045.stp"
 			(offset
-				(xyz 2.09 -3.45 3.41)
+				(xyz 1.590000009 -2.950000003 3.410000035)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8628,7 +8605,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(uuid "9a2349f6-a50b-46ff-a4dd-6002851257fd")
 		)
-		(model "${KIPRJMOD}/components/LDO_5V_LM1084.pretty/LM1084IS-5.0.stp"
+		(model "${KICAD_USER_DOWNLOADS}/LM1084IS-5.0 model/LM1084IS-5.0/3D/LM1084IS-5.0.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9004,7 +8981,7 @@
 			(pintype "unspecified")
 			(uuid "a3092659-06b8-4385-84ae-122aac361f53")
 		)
-		(model "${KIPRJMOD}/components/keyed_6_pin_horizontal_ 0532610671.pretty/532610671.stp"
+		(model "${KICAD_USER_DOWNLOADS}/0532610671 EDA CAD 3D/532610671.stp"
 			(offset
 				(xyz 3.2 -5.5 0)
 			)
@@ -9380,7 +9357,7 @@
 			(pintype "unspecified")
 			(uuid "c554a5ab-7d29-4569-92c3-7a7cfb6508d5")
 		)
-		(model "${KIPRJMOD}/components/keyed_6_pin_horizontal_ 0532610671.pretty/532610671.stp"
+		(model "${KICAD_USER_DOWNLOADS}/0532610671 EDA CAD 3D/532610671.stp"
 			(offset
 				(xyz 3.2 -5.5 0)
 			)
@@ -11121,17 +11098,6 @@
 			(solder_mask_margin 0.102)
 			(uuid "46e40d25-8909-490b-88a4-18b1f57d94c7")
 		)
-		(model "${KIPRJMOD}/components/Barrel_Jack_EJ508A.pretty/EJ508A.step"
-			(offset
-				(xyz 0 -4 -4.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
 	)
 	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 		(layer "F.Cu")
@@ -11978,9 +11944,9 @@
 			(pintype "passive")
 			(uuid "1f035f77-357b-4f46-bee5-f276bbb9cac4")
 		)
-		(model "${KIPRJMOD}/components/upright_4_pin_socket_39-53-2045.pretty/39-53-2045.stp"
+		(model "${KICAD_USER_DOWNLOADS}/LIB_39-53-2045/39-53-2045/3D/39-53-2045.stp"
 			(offset
-				(xyz 2.09 -3.45 3.41)
+				(xyz 1.590000009 -2.950000003 3.410000035)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -14356,9 +14322,9 @@
 			(pintype "passive")
 			(uuid "4f21e80d-a751-42d7-82d0-f37f66f84bd6")
 		)
-		(model "${KIPRJMOD}/components/upright_4_pin_socket_39-53-2045.pretty/39-53-2045.stp"
+		(model "${KICAD_USER_DOWNLOADS}/LIB_39-53-2045/39-53-2045/3D/39-53-2045.stp"
 			(offset
-				(xyz 2.09 -3.45 3.41)
+				(xyz 1.590000009 -2.950000003 3.410000035)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -16395,9 +16361,9 @@
 			(pintype "passive")
 			(uuid "c42c0d9a-aae6-4e1f-b8f2-b29ea5c80428")
 		)
-		(model "${KIPRJMOD}/components/upright_4_pin_socket_39-53-2045.pretty/39-53-2045.stp"
+		(model "${KICAD_USER_DOWNLOADS}/LIB_39-53-2045/39-53-2045/3D/39-53-2045.stp"
 			(offset
-				(xyz 2.09 -3.45 3.41)
+				(xyz 1.590000009 -2.950000003 3.410000035)
 			)
 			(scale
 				(xyz 1 1 1)
