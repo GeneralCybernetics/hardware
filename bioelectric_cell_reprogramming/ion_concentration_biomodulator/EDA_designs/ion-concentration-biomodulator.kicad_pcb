@@ -3049,6 +3049,29 @@
 			(pintype "unspecified")
 			(uuid "6d023ad6-f641-4d81-9dfc-3b652507f2c3")
 		)
+		(model "${KIPRJMOD}/components/1x02_socket_66200211122.pretty/66200211122.stp"
+			(hide yes)
+			(offset
+				(xyz 1.3 -0.3 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/components/1x02_socket_IPL1-102-01-L-S-K.pretty/IPL1-102-01-L-S-K.stp"
+			(offset
+				(xyz 1.25 -0.5 -0.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "LDO_5V:TS3B"
 		(layer "F.Cu")
@@ -12505,6 +12528,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/components/switch_430476085716.pretty/430476085716.stp"
+			(offset
+				(xyz 6.25 -2.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -14691,6 +14725,17 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(uuid "bc5795e6-a945-4bda-a4b6-dbd36d1b5c8f")
 		)
+		(model "${KIPRJMOD}/components/male_socket_S4B-PH-SM4-TB.pretty/S4B-PH-SM4-TB_LF__SN_.stp"
+			(offset
+				(xyz 0 0 3)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 -180)
+			)
+		)
 	)
 	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 		(layer "F.Cu")
@@ -16032,6 +16077,17 @@
 			(pintype "passive")
 			(solder_mask_margin 0.102)
 			(uuid "010fd511-e7b3-422a-b3f4-b62b5cceacf7")
+		)
+		(model "${KIPRJMOD}/components/1x02_socket_66200211122.pretty/66200211122.stp"
+			(offset
+				(xyz 0 -0.5 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 0)
+			)
 		)
 	)
 	(footprint "microfluidics:39532045"
