@@ -32,6 +32,7 @@ do
     fi
 done
 
+
 if [[ moved_file_count -eq 0 ]]; then
     rmdir "$new_dir"
 fi
