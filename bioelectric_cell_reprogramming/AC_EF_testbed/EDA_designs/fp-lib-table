@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1x02_socket_66200211122")(type "KiCad")(uri "${KIPRJMOD}/components/1x02_socket_66200211122.pretty")(options "")(descr ""))
+)
