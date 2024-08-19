@@ -2,13 +2,11 @@
 #!/bin/bash
 
 source ./config.sh
-
-accepted_extensions=("kicad_sym" "kicad_mod" "step" "stp")
 remote_components_path="../EDA_designs/components/"
-moved_file_count=0
+### For the future
 
-local_file_path="../EDA_designs/components/2x04_socket_IPL1-104-01-L-D-K.pretty" # Change to the path where your EDA model was downloaded 
-
+### The following lines can be modularized when given the file paths where to save the information ad
+read -p "Enter the local file path for the design file (Users/elijah/Downloads/Barrel_Jack_EJ508A): " local_file_path
 read -p "Enter the new folder name (Format descriptions as Name_Part#.pretty (e.g. Barrel_Jack_EJ508A)): " new_folder_name
 
 if [[ "$new_folder_name" != *.pretty ]]; then
@@ -18,6 +16,7 @@ fi
 
 new_dir="$remote_components_path/$new_folder_name"
 mkdir -p "$new_dir"
+moved_file_count=0
 
 for extension in "${accepted_extensions[@]}"
 do
