@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "eec")(type "Legacy")(uri "${KIPRJMOD}/Conn_Molex_39-53-2045/eec.lib")(options "")(descr ""))
-  (lib (name "eec_rightangle")(type "Legacy")(uri "${KIPRJMOD}/Conn_Molex_39-53-2044/eec.lib")(options "")(descr ""))
-)

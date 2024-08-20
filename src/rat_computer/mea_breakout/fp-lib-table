@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "1mm_x_1mm_solder_pad")(type "KiCad")(uri "${KIPRJMOD}/1mm_x_1mm_solder_pad.pretty")(options "")(descr ""))
-  (lib (name "TE_2329497-2")(type "KiCad")(uri "${KIPRJMOD}/2329497_2.pretty")(options "")(descr ""))
-)
