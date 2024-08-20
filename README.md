@@ -1,4 +1,4 @@
 ### General Cybernetics Project PCBs & CAD Models
 
-TODO
+**TODO**
 - [ ] move big files to git-lfs
