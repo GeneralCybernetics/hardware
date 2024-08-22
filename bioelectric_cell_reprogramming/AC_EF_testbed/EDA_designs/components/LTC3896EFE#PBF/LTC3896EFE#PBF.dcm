@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LTC3896EFE#PBF
-D LINEAR TECHNOLOGY - LTC3896EFE#PBF - DC/DC CTRL, INVERTING, 900KHZ, TSSOP-38
-K
-F https://www.analog.com/media/en/technical-documentation/data-sheets/3896f.pdf
-$ENDCMP
-#
-#End Doc Library

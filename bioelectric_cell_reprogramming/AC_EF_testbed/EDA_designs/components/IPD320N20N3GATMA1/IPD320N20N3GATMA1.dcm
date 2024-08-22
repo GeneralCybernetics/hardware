@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IPD320N20N3GATMA1
-D MOSFET N-Ch 200V 34A OptiMOS3 DPAK
-K
-F https://componentsearchengine.com/Datasheets/1/IPD320N20N3GATMA1.pdf
-$ENDCMP
-#
-#End Doc Library
