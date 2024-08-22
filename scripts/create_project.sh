@@ -37,9 +37,10 @@ mkdir "$SUBPROJECT_PATH/docs"
 echo "### $PROJECT_NAME $SUBPROJECT_NAME" > "$SUBPROJECT_PATH/README.md"
 
 # symlink JLCPCB design rules, footprint libraries and symbol libraries to kicad folder
-ln -s "$(realpath "$COMMON_PATH/kicad/fp-lib-table")" "$(realpath "$SUBPROJECT_PATH/kicad")"
-ln -s "$(realpath "$COMMON_PATH/kicad/sym-lib-table")" "$(realpath "$SUBPROJECT_PATH/kicad")"
-ln -s "$(realpath "$COMMON_PATH/kicad/JLCPCB.kicad_dru")" "$(realpath "$SUBPROJECT_PATH/kicad")"
+cd "$SUBPROJECT_PATH/kicad" || exit 1
+ln -s "../../../../common/kicad/fp-lib-table" .
+ln -s "../../../../common/kicad/sym-lib-table" .
+ln -s "../../../../common/kicad/JLCPCB.kicad_dru" .
 
 # create boilerplate kicad project
 UUID="$(uuidgen)"
