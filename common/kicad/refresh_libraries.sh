@@ -37,4 +37,7 @@ done
 echo ")" >> sym-lib-table
 echo ")" >> fp-lib-table
 
+# Delete fp-info-cache to pull libraries from tables again
+find "$(dirname "$0")/../../src/" -type f -name "fp-info-cache" -exec rm -f {} +
+
 echo "Library tables updated successfully!"
