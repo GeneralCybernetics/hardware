@@ -386,6 +386,10 @@
     [
       "ec70e9f6-566f-44ea-8141-5580f51beca4",
       "Root"
+    ],
+    [
+      "a3eb3db4-c7b2-4849-bf82-00fa117eef72",
+      "DCDC_inverter"
     ]
   ],
   "text_variables": {}
