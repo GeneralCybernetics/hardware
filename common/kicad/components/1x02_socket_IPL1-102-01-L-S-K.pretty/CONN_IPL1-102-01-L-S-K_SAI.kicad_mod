@@ -224,4 +224,15 @@
 		(remove_unused_layers no)
 		(uuid "07f2172e-5b94-4ae1-895f-7610d9362808")
 	)
+	(model "/home/aydin/Projects/hardware/common/kicad/components/1x02_socket_IPL1-102-01-L-S-K.pretty/IPL1-102-01-L-S-K.stp"
+		(offset
+			(xyz 1.25 -0.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

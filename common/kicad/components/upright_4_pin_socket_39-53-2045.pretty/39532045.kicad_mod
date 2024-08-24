@@ -37,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +63,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -280,7 +283,7 @@
 		(remove_unused_layers no)
 		(uuid "2b082168-3d22-4d15-ac7b-37c2881e1c5d")
 	)
-	(model "${KICAD_USER_DOWNLOADS}/LIB_39-53-2045/39-53-2045/3D/39-53-2045.stp"
+	(model "/home/aydin/Projects/hardware/common/kicad/components/upright_4_pin_socket_39-53-2045.pretty/39-53-2045.stp"
 		(offset
 			(xyz 1.590000009 -2.950000003 3.410000035)
 		)
