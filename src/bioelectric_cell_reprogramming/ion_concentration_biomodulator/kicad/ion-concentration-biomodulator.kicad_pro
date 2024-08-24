@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.3,
-          "height": 0.35,
-          "width": 0.35
+          "drill": 0.0,
+          "height": 10.84,
+          "width": 7.62
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -180,6 +180,8 @@
       "track_widths": [
         0.0,
         0.1,
+        0.2,
+        0.4,
         1.0,
         1.2,
         2.0,
@@ -219,6 +221,14 @@
         {
           "diameter": 0.25,
           "drill": 0.15
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -238,7 +248,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "power_pin_not_driven|1955800|228600|ff0d51f1-15e1-40aa-82df-837483bc640a|00000000-0000-0000-0000-000000000000|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|",
+      "power_pin_not_driven|279400|2590800|295139c5-84ce-4b41-aa9b-73ccb6a0c6ed|00000000-0000-0000-0000-000000000000|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|"
+    ],
     "meta": {
       "version": 0
     },
@@ -438,7 +451,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "ignore",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
