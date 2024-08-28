@@ -12814,6 +12814,17 @@
 		)
 		(uuid "2fb37a97-7073-42ae-9527-d1a86619f15c")
 	)
+	(label "INCUBATOR_PELT_OUT"
+		(at 160.02 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "327ff320-e935-4b64-ac60-067abb1cc1d6")
+	)
 	(label "I2C_SDA"
 		(at 24.13 213.36 0)
 		(fields_autoplaced yes)
@@ -13000,6 +13011,17 @@
 			(justify left bottom)
 		)
 		(uuid "63b95db8-6879-47a0-bcac-853f61794374")
+	)
+	(label "INCUBATOR_PELT_OUT"
+		(at 194.31 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify right bottom)
+		)
+		(uuid "643ddea5-7fda-4297-b46e-1d13867f8e9f")
 	)
 	(label "SOLEN_OUT"
 		(at 247.65 138.43 0)
@@ -13342,6 +13364,17 @@
 		)
 		(uuid "cf521945-8b3d-43be-b685-a59a09567864")
 	)
+	(label "FRIDGE_PELT_OUT"
+		(at 201.93 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "d60307a1-82b8-4c46-ba15-e1feaef6a32e")
+	)
 	(label "SOL3"
 		(at 234.95 59.69 180)
 		(fields_autoplaced yes)
@@ -13385,6 +13418,17 @@
 			(justify right bottom)
 		)
 		(uuid "df004092-3cbe-4731-8b03-37936394ac09")
+	)
+	(label "FRIDGE_PELT_OUT"
+		(at 160.02 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "e185829f-7859-4b9b-bcb8-9f64f8d745c5")
 	)
 	(label "32+"
 		(at 48.26 170.18 0)
@@ -13484,42 +13528,6 @@
 			(justify left bottom)
 		)
 		(uuid "fa519616-ae44-4a68-a146-4346c19ef868")
-	)
-	(hierarchical_label "FRIDGE_PELT_OUT"
-		(shape input)
-		(at 160.02 67.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-			)
-			(justify left)
-		)
-		(uuid "1b9e9f11-aac0-463a-a7b3-740ed6c6e893")
-	)
-	(hierarchical_label "INCUBATOR_PELT_OUT"
-		(shape input)
-		(at 161.29 46.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-			)
-			(justify left)
-		)
-		(uuid "8781e4b5-730a-4adf-8071-2acd7794ee99")
-	)
-	(hierarchical_label "INCUBATOR_PELT_OUT"
-		(shape input)
-		(at 160.02 46.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-			)
-			(justify left)
-		)
-		(uuid "9f4e2587-4f06-4f8c-ad3d-db42adaa5637")
 	)
 	(symbol
 		(lib_id "2024-08-13_01-50-37:IPL1-104-01-L-D-K")
@@ -21171,8 +21179,8 @@
 		)
 	)
 	(sheet
-		(at 177.3682 135.7122)
-		(size 43.6118 27.1272)
+		(at 177.8 142.24)
+		(size 43.6118 20.4978)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -21183,7 +21191,7 @@
 		)
 		(uuid "d00a1c36-08f1-42bb-994d-12073bc9bf7e")
 		(property "Sheetname" "peltier_coolers"
-			(at 177.3682 135.0006 0)
+			(at 177.0884 162.7378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21192,13 +21200,33 @@
 			)
 		)
 		(property "Sheetfile" "peltier_coolers.kicad_sch"
-			(at 177.3682 163.424 0)
+			(at 221.9964 162.7378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "INCUBATOR_PELT_OUT" input
+			(at 194.31 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "17329b0c-e8d8-4490-a235-e4fae2dcc3a7")
+		)
+		(pin "FRIDGE_PELT_OUT" input
+			(at 201.93 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "993d87df-9382-4026-b092-8e50c6ad3519")
 		)
 		(instances
 			(project "ion-concentration-biomodulator"

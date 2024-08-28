@@ -21,14 +21,13 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "66200211122"
-				(at 0 0 0)
+			(property "Value" "6620XX11122_66200211122"
+				(at 2.22 -2.36 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
-					(hide yes)
+					(justify left bottom)
 				)
 			)
 			(property "Footprint" "6620XX11122_66200211122:66200211122"
@@ -110,6 +109,16 @@
 				)
 			)
 			(property "IR" "5A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "VALUE" "66200211122"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1711,7 +1720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "1x02_socket_66200211122.pretty:66200211122"
+		(property "Footprint" "6620XX11122_66200211122:66200211122"
 			(at 144.78 102.87 0)
 			(effects
 				(font
@@ -2350,7 +2359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "1x02_socket_66200211122.pretty:66200211122"
+		(property "Footprint" "6620XX11122_66200211122:66200211122"
 			(at 144.78 72.39 0)
 			(effects
 				(font
