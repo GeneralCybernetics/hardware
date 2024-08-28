@@ -3905,409 +3905,6 @@
 				)
 			)
 		)
-		(symbol "6620XX11122_66200211122:6620XX11122_66200211122"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 2.26 -0.555 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "66200211122"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "6620XX11122_66200211122:66200211122"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "TOL-R" "max."
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "ROWS" "Single"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "CONTACT-RESISTANCE" "10Ohm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "GENDER" "Male"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MOUNT" "THT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "IR" "5A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PART-NUMBER" "66200211122"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DATASHEET-URL" "https://www.we-online.com/redexpert/spec/66200211122?ae"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "WORKING-VOLTAGE" "250V(AC)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PINS" "2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PITCH" "3mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "TYPE" "Vertical"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "6620XX11122_66200211122_0_0"
-				(circle
-					(center -2.54 -1.27)
-					(radius 0.254)
-					(stroke
-						(width 0.635)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -1.27)
-					(radius 0.254)
-					(stroke
-						(width 0.635)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -2.54) (xy -1.905 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -1.905) (xy -3.81 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 0) (xy -3.81 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -3.175) (xy -2.54 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -1.27) (xy -2.54 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -3.81 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -2.54) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.175) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.27 -0.635)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -0.635) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -0.635 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
 				(offset 1.016) hide)
@@ -9893,16 +9490,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 207.01) (xy 128.27 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ec10c08-1e1a-40e0-b7ef-5fba60ff32db")
-	)
-	(wire
-		(pts
 			(xy 26.67 36.83) (xy 30.48 36.83)
 		)
 		(stroke
@@ -10363,16 +9950,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 152.4) (xy 205.74 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "355f2a94-c7b0-469b-9d96-4b35acc555a5")
-	)
-	(wire
-		(pts
 			(xy 80.01 175.26) (xy 80.01 181.61)
 		)
 		(stroke
@@ -10430,16 +10007,6 @@
 			(type default)
 		)
 		(uuid "3a5a510b-aaf5-410a-a97a-589a95e84e86")
-	)
-	(wire
-		(pts
-			(xy 140.97 217.17) (xy 140.97 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a7ffad8-f307-4f7e-ad1a-46950aff2f3c")
 	)
 	(wire
 		(pts
@@ -10590,16 +10157,6 @@
 			(type default)
 		)
 		(uuid "46fe1cf1-14e3-4c0a-8103-521f2250ad3a")
-	)
-	(wire
-		(pts
-			(xy 208.28 152.4) (xy 212.09 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "470c2ca9-8313-4198-b9e8-7fb62064ebb4")
 	)
 	(wire
 		(pts
@@ -10760,26 +10317,6 @@
 			(type default)
 		)
 		(uuid "52a252c9-efa0-43b2-bbb8-1c5ae46cdd3d")
-	)
-	(wire
-		(pts
-			(xy 119.38 214.63) (xy 119.38 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5326bf53-e6ea-4179-b3d0-d51d6b8fc89e")
-	)
-	(wire
-		(pts
-			(xy 205.74 152.4) (xy 205.74 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5564ced9-981d-4df3-a89b-082dd7be2086")
 	)
 	(wire
 		(pts
@@ -10993,16 +10530,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 207.01) (xy 128.27 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "660c9521-7679-4015-a3b0-3bbbe72fbf9e")
-	)
-	(wire
-		(pts
 			(xy 139.7 30.48) (xy 139.7 39.37)
 		)
 		(stroke
@@ -11073,16 +10600,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 143.51) (xy 195.58 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7002bef9-38ce-49e1-862e-a328add4d408")
-	)
-	(wire
-		(pts
 			(xy 52.07 165.1) (xy 48.26 165.1)
 		)
 		(stroke
@@ -11110,36 +10627,6 @@
 			(type default)
 		)
 		(uuid "70e6e57d-a0cd-4f88-98bc-2a0d3ebf30f3")
-	)
-	(wire
-		(pts
-			(xy 144.78 218.44) (xy 144.78 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7123d82d-ebf7-43b5-8305-19287f5d4e96")
-	)
-	(wire
-		(pts
-			(xy 212.09 154.94) (xy 212.09 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74284599-8840-4da1-b5c7-c3eb81577bf1")
-	)
-	(wire
-		(pts
-			(xy 119.38 215.9) (xy 123.19 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76250ce8-259c-44a3-ac81-d4bc8bd1754f")
 	)
 	(wire
 		(pts
@@ -11190,16 +10677,6 @@
 			(type default)
 		)
 		(uuid "7a4d057c-6420-4ed6-a2f1-44e1591a3e73")
-	)
-	(wire
-		(pts
-			(xy 204.47 143.51) (xy 195.58 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ad4b208-6253-4fde-af0c-ffabcf84eacd")
 	)
 	(wire
 		(pts
@@ -11583,16 +11060,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 153.67) (xy 208.28 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98875a3e-a95f-492b-b0b7-e77687954d29")
-	)
-	(wire
-		(pts
 			(xy 240.03 78.74) (xy 240.03 52.07)
 		)
 		(stroke
@@ -11653,16 +11120,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 215.9) (xy 133.35 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c814978-bbca-4e8e-bf2b-7181c8b3bd65")
-	)
-	(wire
-		(pts
 			(xy 52.07 149.86) (xy 52.07 142.24)
 		)
 		(stroke
@@ -11710,16 +11167,6 @@
 			(type default)
 		)
 		(uuid "9f1ac0b4-b179-4de0-93b7-4ac327c58d65")
-	)
-	(wire
-		(pts
-			(xy 186.69 151.13) (xy 186.69 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a07ff63d-98e1-4116-b235-1976b883defa")
 	)
 	(wire
 		(pts
@@ -12163,16 +11610,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 215.9) (xy 144.78 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7f6e492-b7c5-4b1e-b52a-fdd76c6fbb64")
-	)
-	(wire
-		(pts
 			(xy 278.13 101.6) (xy 273.05 101.6)
 		)
 		(stroke
@@ -12413,16 +11850,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 215.9) (xy 138.43 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "deae9d67-14f1-46e9-ab6f-95c13549aaf7")
-	)
-	(wire
-		(pts
 			(xy 88.9 26.67) (xy 88.9 33.02)
 		)
 		(stroke
@@ -12643,16 +12070,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 152.4) (xy 190.5 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee10f2ed-fccd-4861-832d-b28d7aa7d209")
-	)
-	(wire
-		(pts
 			(xy 195.58 40.64) (xy 195.58 54.61)
 		)
 		(stroke
@@ -12806,30 +12223,6 @@
 		(uuid 38267990-5e2e-49d5-8461-b4bce33e7d31)
 	)
 	(rectangle
-		(start 116.205 198.12)
-		(end 160.02 229.87)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 3d021a45-f2b2-46b7-ad40-a6625a12c7d2)
-	)
-	(rectangle
-		(start 177.165 133.35)
-		(end 220.98 165.1)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 471b3b5a-7ff0-4df4-bff9-5ea8ab213e81)
-	)
-	(rectangle
 		(start 12.7 75.565)
 		(end 81.915 132.715)
 		(stroke
@@ -12977,16 +12370,6 @@
 		)
 		(uuid "30e088ee-0bcb-4fa1-ae87-bb596c0d69da")
 	)
-	(text "Peltier Cooler"
-		(exclude_from_sim no)
-		(at 185.166 135.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "35fabf76-ed40-4f2f-82da-1eee69018980")
-	)
 	(text "31-"
 		(exclude_from_sim no)
 		(at 59.436 165.354 0)
@@ -13026,16 +12409,6 @@
 			)
 		)
 		(uuid "5014a6ac-37ec-40c6-9014-01e9bb9781b6")
-	)
-	(text "Fridge Peltier Cooler"
-		(exclude_from_sim no)
-		(at 126.9238 201.4474 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5232f01a-2f86-4a35-bfd3-454140582079")
 	)
 	(text "SWD Port"
 		(exclude_from_sim no)
@@ -13364,17 +12737,6 @@
 		)
 		(uuid "1b23950b-50e0-4065-8338-b6506f77e037")
 	)
-	(label "Fridge Peltier Cooler"
-		(at 138.43 215.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "208582a0-c2ba-4775-b236-978f8bbc6ce5")
-	)
 	(label "11+"
 		(at 74.93 180.34 0)
 		(fields_autoplaced yes)
@@ -13506,17 +12868,6 @@
 			(justify right bottom)
 		)
 		(uuid "4ae87c3a-8948-4829-b04b-8e8e752a77b6")
-	)
-	(label "PELT_OUT"
-		(at 195.58 143.51 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4b6c53f7-d39f-4163-aed3-d64bf2e970e9")
 	)
 	(label "SOL1"
 		(at 160.02 59.69 180)
@@ -13815,17 +13166,6 @@
 		)
 		(uuid "8a7a597a-4dc5-4e2f-8131-a0114de2a743")
 	)
-	(label "FRIDGE_PELT_OUT"
-		(at 128.27 207.01 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8b06931a-aeee-4551-bda5-9240221b1606")
-	)
 	(label "SOL1"
 		(at 233.68 31.75 180)
 		(fields_autoplaced yes)
@@ -13980,17 +13320,6 @@
 		)
 		(uuid "bf8a10a0-f1f6-4d11-b486-c3b21debd3cc")
 	)
-	(label "PELT_OUT"
-		(at 160.02 46.99 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c81a9e7d-9b7c-4862-8380-777bd1e4bb18")
-	)
 	(label "12-"
 		(at 74.93 175.26 0)
 		(fields_autoplaced yes)
@@ -14101,17 +13430,6 @@
 		)
 		(uuid "ef0773a6-5e34-4e3c-9045-84f0c5647015")
 	)
-	(label "Peltier Cooler"
-		(at 200.66 152.4 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ef830853-b22f-48d7-a8c8-82cfd8cca461")
-	)
 	(label "IRQn4"
 		(at 69.85 243.84 0)
 		(fields_autoplaced yes)
@@ -14145,17 +13463,6 @@
 		)
 		(uuid "f2c0e5eb-5dc2-4009-8f55-76156d7bd451")
 	)
-	(label "FRIDGE_PELT_OUT"
-		(at 160.02 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "f4336657-d791-49ac-ae5a-e1aa36df2d53")
-	)
 	(label "I2C_SDA"
 		(at 44.45 160.02 0)
 		(fields_autoplaced yes)
@@ -14177,6 +13484,42 @@
 			(justify left bottom)
 		)
 		(uuid "fa519616-ae44-4a68-a146-4346c19ef868")
+	)
+	(hierarchical_label "FRIDGE_PELT_OUT"
+		(shape input)
+		(at 160.02 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+			(justify left)
+		)
+		(uuid "1b9e9f11-aac0-463a-a7b3-740ed6c6e893")
+	)
+	(hierarchical_label "INCUBATOR_PELT_OUT"
+		(shape input)
+		(at 161.29 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+			(justify left)
+		)
+		(uuid "8781e4b5-730a-4adf-8071-2acd7794ee99")
+	)
+	(hierarchical_label "INCUBATOR_PELT_OUT"
+		(shape input)
+		(at 160.02 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+			(justify left)
+		)
+		(uuid "9f4e2587-4f06-4f8c-ad3d-db42adaa5637")
 	)
 	(symbol
 		(lib_id "2024-08-13_01-50-37:IPL1-104-01-L-D-K")
@@ -14966,207 +14309,6 @@
 		)
 	)
 	(symbol
-		(lib_id "6620XX11122_66200211122:6620XX11122_66200211122")
-		(at 138.43 222.25 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1a101bc2-d7c5-4a6f-91d6-5f7e0e862797")
-		(property "Reference" "J20"
-			(at 138.049 223.4184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "6620XX11122_66200211122"
-			(at 143.51 221.9324 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "1x02_socket_66200211122.pretty:66200211122"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TOL-R" "max."
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "ROWS" "Single"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "CONTACT-RESISTANCE" "10Ohm"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "GENDER" "Male"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNT" "THT"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR" "5A"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VALUE" "66200211122"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "66200211122"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/redexpert/spec/66200211122?ae"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE" "250V(AC)"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" "2"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3mm"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Vertical"
-			(at 138.43 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1f32ba4d-f21a-4c82-882d-adb2ac68e3b5")
-		)
-		(pin "2"
-			(uuid "e20ce065-b375-4ba7-b5bf-a46c62d4de28")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "J20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 24.13 24.13 0)
 		(unit 1)
@@ -15227,6 +14369,72 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 195.58 22.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ef6561c-2039-4694-bd3b-037127a2474c")
+		(property "Reference" "#PWR029"
+			(at 195.58 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 195.58 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 195.58 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5fc9c3db-874a-4a2f-89d5-4fc3ac4f2b06")
+		)
+		(instances
+			(project "ion-concentration-biomodulator"
+				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -15294,72 +14502,6 @@
 			(project ""
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 186.69 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2273ac7e-a10b-485f-aac3-596b646a7e5d")
-		(property "Reference" "#PWR012"
-			(at 186.69 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 186.69 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 186.69 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "771f8b05-1afc-4e22-aef0-136f5daf3d64")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -17824,72 +16966,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 241.3 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6404664d-3a4f-4507-be19-cb2de0ef53d0")
-		(property "Reference" "#PWR031"
-			(at 241.3 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 241.3 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 241.3 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 241.3 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "064bc83c-fd49-4c51-8bc1-9bca51fe993f")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 57.15 43.18 0)
 		(unit 1)
@@ -17949,71 +17025,6 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 212.09 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "69b66354-8c16-43b1-85fc-d856761bcb5b")
-		(property "Reference" "#PWR038"
-			(at 212.09 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 212.09 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9ddb9bd9-4284-4425-9b00-803854df48d9")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -18300,281 +17311,6 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:NDT3055L")
-		(at 195.58 149.86 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7ba14a4a-b277-4186-8489-4fd33328c9ef")
-		(property "Reference" "Q3"
-			(at 195.58 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NDT3055L"
-			(at 195.58 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 193.675 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ndt3055l-d.pdf"
-			(at 191.77 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "4A Id, 60V Vds, N-Channel Logic Level Enhancement Mode MOSFET, SOT-223"
-			(at 195.58 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "24aef0fa-42eb-41d0-a1c8-bdc70acfa1fa")
-		)
-		(pin "3"
-			(uuid "fba5f317-bdaa-4ab5-8ae8-bd86496c060f")
-		)
-		(pin "1"
-			(uuid "f8a68b12-2f42-4996-851b-f40ba5bf7fc0")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "6620XX11122_66200211122:6620XX11122_66200211122")
-		(at 205.74 158.75 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7ba9fbff-1a6d-41ba-beb3-be8587a89d99")
-		(property "Reference" "J7"
-			(at 206.0194 160.1724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "6620XX11122_66200211122"
-			(at 210.82 158.4324 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "1x02_socket_66200211122.pretty:66200211122"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TOL-R" "max."
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "ROWS" "Single"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "CONTACT-RESISTANCE" "10Ohm"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "GENDER" "Male"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNT" "THT"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR" "5A"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VALUE" "66200211122"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "66200211122"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/redexpert/spec/66200211122?ae"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE" "250V(AC)"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" "2"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3mm"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Vertical"
-			(at 205.74 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d2d9c76c-7ceb-4175-baac-c3a3d850b030")
-		)
-		(pin "2"
-			(uuid "4b0683ce-b146-47bd-bfa8-b7a8010c58f1")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -18968,6 +17704,72 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 243.84 60.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92cdaf77-a131-4a15-bed3-f692a7f67ea6")
+		(property "Reference" "#PWR027"
+			(at 243.84 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 243.84 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 243.84 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13e386df-23d5-4ad5-9048-df4da2024bef")
+		)
+		(instances
+			(project "ion-concentration-biomodulator"
+				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -19508,72 +18310,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 119.38 214.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e1e89d2-dcb9-4e8e-81b6-8c6c56d48459")
-		(property "Reference" "#PWR049"
-			(at 119.38 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 119.38 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 119.38 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d0c3abc2-37d6-4b03-8ce1-05c43c3da33f")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 236.22 88.9 90)
 		(unit 1)
@@ -19705,6 +18441,72 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 273.05 154.94 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0acb6b2-0a6c-42c3-be3e-af531b627c87")
+		(property "Reference" "#PWR031"
+			(at 273.05 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 273.05 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 273.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "49759870-7787-4981-9890-53c505a5e072")
+		)
+		(instances
+			(project "ion-concentration-biomodulator"
+				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -20039,71 +18841,6 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 273.05 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a8c80584-fe37-4702-b250-9f786c0fc041")
-		(property "Reference" "#PWR036"
-			(at 273.05 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 273.05 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 273.05 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 273.05 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 273.05 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b05f922-e4ce-41bc-b813-a93acdcb7f4e")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -21647,80 +20384,6 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:NDT3055L")
-		(at 128.27 213.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca8e4b91-8b73-49b6-8ee1-e59d2c86a014")
-		(property "Reference" "Q7"
-			(at 128.27 219.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NDT3055L"
-			(at 128.27 222.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 126.365 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ndt3055l-d.pdf"
-			(at 124.46 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "4A Id, 60V Vds, N-Channel Logic Level Enhancement Mode MOSFET, SOT-223"
-			(at 128.27 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9265f0cd-71df-46d4-ae0f-a939cc74d402")
-		)
-		(pin "3"
-			(uuid "3c424eef-2025-4537-9c8a-ef65ba9178ed")
-		)
-		(pin "1"
-			(uuid "ac7e36f1-73be-41c9-a3c3-1ace05ae7716")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "Q7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:NDT3055L")
 		(at 247.65 149.86 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21794,17 +20457,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 195.58 22.86 0)
+		(lib_id "power:GND")
+		(at 241.3 151.13 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d52a379d-a434-42b8-a10f-adcffedef02a")
-		(property "Reference" "#PWR027"
-			(at 195.58 26.67 0)
+		(uuid "d45fe9cc-cfdc-4e94-91a5-1f3d7efa7ec9")
+		(property "Reference" "#PWR036"
+			(at 241.3 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21812,8 +20474,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
-			(at 195.58 17.78 0)
+		(property "Value" "GND"
+			(at 241.3 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21821,7 +20483,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 22.86 0)
+			(at 241.3 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21830,7 +20492,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 22.86 0)
+			(at 241.3 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21838,8 +20500,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 195.58 22.86 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 241.3 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21848,12 +20510,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "ff0d51f1-15e1-40aa-82df-837483bc640a")
+			(uuid "a8eba1b3-fd47-4a65-a23b-074138ce7190")
 		)
 		(instances
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR027")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -21996,72 +20658,6 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 243.84 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e837cda5-4e44-4d78-8fdc-2dda91786251")
-		(property "Reference" "#PWR029"
-			(at 243.84 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 243.84 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 243.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 243.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "df9b677b-b52b-4a23-80af-4a9a081f4c1a")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -22299,71 +20895,6 @@
 			(project "ion-concentration-biomodulator"
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 144.78 218.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f1c87847-ffcf-4768-a5eb-aef66b1e03eb")
-		(property "Reference" "#PWR050"
-			(at 144.78 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 144.78 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 144.78 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 144.78 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "80902e28-61f3-4c58-87a2-2923ba2314b4")
-		)
-		(instances
-			(project "ion-concentration-biomodulator"
-				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
-					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -22635,6 +21166,44 @@
 				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
 					(reference "#PWR014")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.3682 135.7122)
+		(size 43.6118 27.1272)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d00a1c36-08f1-42bb-994d-12073bc9bf7e")
+		(property "Sheetname" "peltier_coolers"
+			(at 177.3682 135.0006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peltier_coolers.kicad_sch"
+			(at 177.3682 163.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ion-concentration-biomodulator"
+				(path "/bae20e05-e1d7-4036-8683-639bb0f1fbc7"
+					(page "2")
 				)
 			)
 		)

@@ -2,6 +2,7 @@
   (lib (name "12401610E4_2A.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/12401610E4_2A.pretty")(options "")(descr ""))
   (lib (name "male_socket_S4B-PH-SM4-TB.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/male_socket_S4B-PH-SM4-TB.pretty")(options "")(descr ""))
   (lib (name "LDO_3V_LM1084.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/LDO_3V_LM1084.pretty")(options "")(descr ""))
+  (lib (name "BSZ070N08LS5ATMA1")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/BSZ070N08LS5ATMA1")(options "")(descr ""))
   (lib (name "2x04_socket_IPL1-104-01-L-D-K.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/2x04_socket_IPL1-104-01-L-D-K.pretty")(options "")(descr ""))
   (lib (name "Barrel_Jack_EJ508A.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/Barrel_Jack_EJ508A.pretty")(options "")(descr ""))
   (lib (name "BSC520N15NS3G")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/BSC520N15NS3G")(options "")(descr ""))

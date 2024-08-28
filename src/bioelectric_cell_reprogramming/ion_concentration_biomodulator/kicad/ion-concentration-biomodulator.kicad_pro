@@ -248,7 +248,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "power_pin_not_driven|1955800|228600|ff0d51f1-15e1-40aa-82df-837483bc640a|00000000-0000-0000-0000-000000000000|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|",
+      "power_pin_not_driven|279400|2590800|295139c5-84ce-4b41-aa9b-73ccb6a0c6ed|00000000-0000-0000-0000-000000000000|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|"
+    ],
     "meta": {
       "version": 0
     },
@@ -687,6 +690,10 @@
     [
       "bae20e05-e1d7-4036-8683-639bb0f1fbc7",
       "Root"
+    ],
+    [
+      "d00a1c36-08f1-42bb-994d-12073bc9bf7e",
+      "peltier_coolers"
     ]
   ],
   "text_variables": {}
