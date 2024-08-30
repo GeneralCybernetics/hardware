@@ -6283,7 +6283,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "4951ea70-9c32-4a8a-b019-7c82dc75e044")
-		(at 132.99 94.38)
+		(at 133.5 96.45)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -19496,8 +19496,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "BOARD A"
-		(at 109.59 97.75 270)
+	(gr_text "v0.0.9"
+		(at 109.4 100.95 270)
 		(layer "F.SilkS")
 		(uuid "508483c6-7374-42d0-aa2b-3fe2bd26d415")
 		(effects
@@ -22084,20 +22084,28 @@
 		(uuid "f8af5ab5-39f6-4202-b1a9-8bb950053261")
 	)
 	(segment
+		(start 154.2375 78.675)
+		(end 155.425 78.675)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 16)
+		(uuid "00c39e6e-de3f-435d-80eb-0820e9f9b653")
+	)
+	(segment
 		(start 181.575 64)
 		(end 183.671001 61.903999)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "425b7030-0797-4eb0-88ed-389d83298d47")
+		(uuid "840d06a1-0669-401f-b9bd-d83d2eac1189")
 	)
 	(segment
-		(start 170.07917 64)
+		(start 170.1 64)
 		(end 181.575 64)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "4590848e-ca42-4b9d-8ebf-2747cc7c9c3f")
+		(uuid "9d4961cc-7dd5-430a-91dc-f3b40e011281")
 	)
 	(segment
 		(start 183.671001 61.903999)
@@ -22105,23 +22113,15 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "7a0ac5d8-801a-48be-b25a-2f74dfa2f714")
+		(uuid "ad1dfc0c-e682-4ba2-a059-ed3e27adcfc0")
 	)
 	(segment
-		(start 155.40417 78.675)
-		(end 170.07917 64)
+		(start 155.425 78.675)
+		(end 170.1 64)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "b2f1f61c-f7dc-43af-a2c6-3d2ace142291")
-	)
-	(segment
-		(start 154.2375 78.675)
-		(end 155.40417 78.675)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 16)
-		(uuid "c52e599a-ef79-4ca9-9d85-95667f8c3ede")
+		(uuid "edf8afb9-71e9-40f3-aa8f-8e94df04d00a")
 	)
 	(segment
 		(start 169.4107 79.3093)
