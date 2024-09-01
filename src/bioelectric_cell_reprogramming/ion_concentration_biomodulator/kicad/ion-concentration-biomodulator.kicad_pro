@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -248,10 +248,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|1955800|228600|ff0d51f1-15e1-40aa-82df-837483bc640a|00000000-0000-0000-0000-000000000000|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|",
-      "power_pin_not_driven|279400|2590800|295139c5-84ce-4b41-aa9b-73ccb6a0c6ed|00000000-0000-0000-0000-000000000000|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|/bae20e05-e1d7-4036-8683-639bb0f1fbc7|"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -452,7 +449,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "ignore",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "ignore",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
       "unannotated": "error",

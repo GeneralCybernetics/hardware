@@ -466,6 +466,13 @@
 		(solder_mask_margin 0.102)
 		(uuid "6cf44061-f59c-454c-ac53-b4a14828058a")
 	)
+	(pad "2" smd rect
+		(at 4.48 0)
+		(size 7.62 10.84)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "eab9119a-6846-43fa-bad8-d28ad2a8de46")
+	)
 	(pad "3" smd roundrect
 		(at -6.4 2.54)
 		(size 3.79 0.99)
@@ -473,13 +480,6 @@
 		(roundrect_rratio 0.125)
 		(solder_mask_margin 0.102)
 		(uuid "5a2fb91b-10e6-425f-af00-5fa16ff47fd9")
-	)
-	(pad "4" smd rect
-		(at 4.48 0)
-		(size 7.62 10.84)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.102)
-		(uuid "eab9119a-6846-43fa-bad8-d28ad2a8de46")
 	)
 	(model "/home/aydin/Projects/hardware/common/kicad/components/LDO_5V_LM1084.pretty/LM1084IS-5.0_NOPB.step"
 		(offset

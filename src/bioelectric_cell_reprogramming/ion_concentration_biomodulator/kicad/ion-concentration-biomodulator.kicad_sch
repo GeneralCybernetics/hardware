@@ -9103,10 +9103,6 @@
 		(uuid "23b5c214-28bd-4ce1-8ba4-655b9309ed12")
 	)
 	(no_connect
-		(at 149.86 82.55)
-		(uuid "24a5e27b-3a42-4f14-a263-d6318954410f")
-	)
-	(no_connect
 		(at 74.93 154.94)
 		(uuid "39ae6b4b-a363-457c-a6d4-c378d41e7eb8")
 	)
@@ -9185,10 +9181,6 @@
 	(no_connect
 		(at 214.63 119.38)
 		(uuid "ca23091b-fe2e-483f-9344-32244296c0eb")
-	)
-	(no_connect
-		(at 149.86 69.85)
-		(uuid "ca5a1531-722b-4c2f-9dff-3a2d65deda0f")
 	)
 	(no_connect
 		(at 82.55 256.54)
@@ -10267,6 +10259,16 @@
 			(type default)
 		)
 		(uuid "4ccef1e4-9a26-42e5-83d4-b6c9ec4cc70f")
+	)
+	(wire
+		(pts
+			(xy 149.86 69.85) (xy 160.02 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4df3daab-2a54-4a3c-ba02-63f51040cdd2")
 	)
 	(wire
 		(pts
@@ -12814,6 +12816,17 @@
 		)
 		(uuid "2fb37a97-7073-42ae-9527-d1a86619f15c")
 	)
+	(label "INCUBATOR_PELT_OUT"
+		(at 160.02 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "327ff320-e935-4b64-ac60-067abb1cc1d6")
+	)
 	(label "I2C_SDA"
 		(at 24.13 213.36 0)
 		(fields_autoplaced yes)
@@ -12890,6 +12903,17 @@
 			(justify right bottom)
 		)
 		(uuid "4e79c36b-b9ff-4047-9d38-588a17c43232")
+	)
+	(label "H_BRIDGE_FAULT"
+		(at 204.47 142.24 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "535351cf-831b-4306-9c0e-021beabb83ff")
 	)
 	(label "I2C_SCK"
 		(at 100.33 104.14 0)
@@ -13001,6 +13025,17 @@
 		)
 		(uuid "63b95db8-6879-47a0-bcac-853f61794374")
 	)
+	(label "INCUBATOR_PELT_OUT"
+		(at 199.39 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify right bottom)
+		)
+		(uuid "643ddea5-7fda-4297-b46e-1d13867f8e9f")
+	)
 	(label "SOLEN_OUT"
 		(at 247.65 138.43 0)
 		(fields_autoplaced yes)
@@ -13033,6 +13068,17 @@
 			(justify right bottom)
 		)
 		(uuid "6654d34b-a23f-405f-add0-b8bc080de350")
+	)
+	(label "H_BRIDGE_FAULT"
+		(at 149.86 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "6adcbe91-2212-4ec7-8747-8908316ef575")
 	)
 	(label "NRST"
 		(at 111.76 44.45 0)
@@ -13099,6 +13145,17 @@
 			(justify right bottom)
 		)
 		(uuid "7d4e184b-9a18-4001-85e2-632662f17e79")
+	)
+	(label "H_BRIDGE_IN2"
+		(at 214.63 142.24 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "805bce09-7a4d-4f9d-90da-53d75e0511aa")
 	)
 	(label "NRST"
 		(at 154.94 172.72 0)
@@ -13342,6 +13399,17 @@
 		)
 		(uuid "cf521945-8b3d-43be-b685-a59a09567864")
 	)
+	(label "H_BRIDGE_IN2"
+		(at 160.02 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "d60b502d-8357-44c7-ac1e-886d3dda9655")
+	)
 	(label "SOL3"
 		(at 234.95 59.69 180)
 		(fields_autoplaced yes)
@@ -13396,6 +13464,17 @@
 			(justify left bottom)
 		)
 		(uuid "e586e748-a924-4979-9891-590b53270b20")
+	)
+	(label "H_BRIDGE_IN1"
+		(at 160.02 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "e93ff31e-95a0-4572-b6d4-e87fca9e5b59")
 	)
 	(label "SOL_IN3"
 		(at 234.95 64.77 180)
@@ -13485,41 +13564,16 @@
 		)
 		(uuid "fa519616-ae44-4a68-a146-4346c19ef868")
 	)
-	(hierarchical_label "FRIDGE_PELT_OUT"
-		(shape input)
-		(at 160.02 67.31 0)
+	(label "H_BRIDGE_IN1"
+		(at 209.55 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
-				(size 0.508 0.508)
+				(size 0.635 0.635)
 			)
-			(justify left)
+			(justify left bottom)
 		)
-		(uuid "1b9e9f11-aac0-463a-a7b3-740ed6c6e893")
-	)
-	(hierarchical_label "INCUBATOR_PELT_OUT"
-		(shape input)
-		(at 161.29 46.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-			)
-			(justify left)
-		)
-		(uuid "8781e4b5-730a-4adf-8071-2acd7794ee99")
-	)
-	(hierarchical_label "INCUBATOR_PELT_OUT"
-		(shape input)
-		(at 160.02 46.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-			)
-			(justify left)
-		)
-		(uuid "9f4e2587-4f06-4f8c-ad3d-db42adaa5637")
+		(uuid "fc720aea-29c6-4a76-87b0-4d466796b601")
 	)
 	(symbol
 		(lib_id "2024-08-13_01-50-37:IPL1-104-01-L-D-K")
@@ -14465,7 +14519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 191.77 220.218 90)
 			(effects
 				(font
@@ -21171,8 +21225,8 @@
 		)
 	)
 	(sheet
-		(at 177.3682 135.7122)
-		(size 43.6118 27.1272)
+		(at 177.8 142.24)
+		(size 43.6118 20.4978)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -21183,7 +21237,7 @@
 		)
 		(uuid "d00a1c36-08f1-42bb-994d-12073bc9bf7e")
 		(property "Sheetname" "peltier_coolers"
-			(at 177.3682 135.0006 0)
+			(at 177.0884 162.7378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21192,13 +21246,53 @@
 			)
 		)
 		(property "Sheetfile" "peltier_coolers.kicad_sch"
-			(at 177.3682 163.424 0)
+			(at 221.9964 162.7378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "INCUBATOR_PELT_OUT" input
+			(at 199.39 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "17329b0c-e8d8-4490-a235-e4fae2dcc3a7")
+		)
+		(pin "H_BRIDGE_FAULT" input
+			(at 204.47 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8d911e22-e0c2-43d4-bb98-fdf811c8f5ce")
+		)
+		(pin "H_BRIDGE_IN1" input
+			(at 209.55 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0d649a92-c55f-4471-96f8-d84e7de92144")
+		)
+		(pin "H_BRIGE_IN2" input
+			(at 214.63 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "586aeaa5-f72d-46b2-b722-732ed345020a")
 		)
 		(instances
 			(project "ion-concentration-biomodulator"
