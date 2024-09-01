@@ -8,6 +8,7 @@
   (lib (name "BSZ070N08LS5ATMA1")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/BSZ070N08LS5ATMA1")(options "")(descr ""))
   (lib (name "upright_4_pin_socket_39-53-2045.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/upright_4_pin_socket_39-53-2045.pretty")(options "")(descr ""))
   (lib (name "2x04_socket_IPL1-104-01-L-D-K.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/2x04_socket_IPL1-104-01-L-D-K.pretty")(options "")(descr ""))
+  (lib (name "footprints.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/PDRV8243HRXYQ1/footprints.pretty")(options "")(descr ""))
   (lib (name "12401610E4_2A.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/12401610E4_2A.pretty")(options "")(descr ""))
   (lib (name "highdriver4_micropump_driver.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/highdriver4_micropump_driver.pretty")(options "")(descr ""))
   (lib (name "Barrel_Jack_EJ508A.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/Barrel_Jack_EJ508A.pretty")(options "")(descr ""))
@@ -15,4 +16,5 @@
   (lib (name "1x02_socket_IPL1-102-01-L-S-K.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/1x02_socket_IPL1-102-01-L-S-K.pretty")(options "")(descr ""))
   (lib (name "keyed_6_pin_horizontal_0532610671.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/keyed_6_pin_horizontal_0532610671.pretty")(options "")(descr ""))
   (lib (name "LTC3896EFE#PBF")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/LTC3896EFE#PBF")(options "")(descr ""))
+  (lib (name "DRV8873HPWPR.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/DRV8873HPWPR/DRV8873HPWPR.pretty")(options "")(descr ""))
 )
