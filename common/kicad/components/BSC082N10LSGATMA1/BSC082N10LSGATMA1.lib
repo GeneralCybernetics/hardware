@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BSC082N10LSGATMA1
+#/912942/1340943/2.50/8/4/MOSFET (N-Channel)
+DEF BSC082N10LSGATMA1 Q 0 30 Y Y 1 F N
+F0 "Q" 850 300 50 H V L CNN
+F1 "BSC082N10LSGATMA1" 850 200 50 H V L CNN
+F2 "PG-TDSON-8" 850 100 50 H I L CNN
+F3 "https://www.infineon.com/dgdl/Infineon-BSC082N10LS-DS-v01_07-en.pdf?fileId=db3a3043163797a6011647faad240719" 850 0 50 H I L CNN
+F4 "BSC082N10LSGATMA1 N-Channel MOSFET, 100 A, 100 V OptiMOS 2, 8-Pin TDSON Infineon" 850 -100 50 H I L CNN "Description"
+F5 "" 850 -200 50 H I L CNN "Height"
+F6 "Infineon" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BSC082N10LSGATMA1" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "N/A" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC082N10LSGATMA1?qs=K00xGehIljt43jUxTXmB9A%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "BSC082N10LSGATMA1" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/bsc082n10lsgatma1/infineon-technologies-ag?region=nac" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X S_1 1 0 0 200 R 50 50 0 0 P
+X S_2 2 0 -100 200 R 50 50 0 0 P
+X S_3 3 0 -200 200 R 50 50 0 0 P
+X G 4 0 -300 200 R 50 50 0 0 P
+X D_1 5 1000 0 200 L 50 50 0 0 P
+X D_2 6 1000 -100 200 L 50 50 0 0 P
+X D_3 7 1000 -200 200 L 50 50 0 0 P
+X D_4 8 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

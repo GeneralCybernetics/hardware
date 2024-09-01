@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ADHV4702-1BCPZ-R7
+#/1828651/1340943/2.50/13/2/Integrated Circuit
+DEF ADHV4702-1BCPZ-R7 IC 0 30 Y Y 1 F N
+F0 "IC" 1250 700 50 H V L CNN
+F1 "ADHV4702-1BCPZ-R7" 1250 600 50 H V L CNN
+F2 "QFN170P700X700X80-13N-D" 1250 500 50 H I L CNN
+F3 "https://www.analog.com/ADHV4702-1/datasheet" 1250 400 50 H I L CNN
+F4 "24 V to 220 V Precision Operational Amplifier" 1250 300 50 H I L CNN "Description"
+F5 "0.8" 1250 200 50 H I L CNN "Height"
+F6 "Analog Devices" 1250 100 50 H I L CNN "Manufacturer_Name"
+F7 "ADHV4702-1BCPZ-R7" 1250 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "584-ADHV4702-1BCPZR7" 1250 -100 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADHV4702-1BCPZ-R7?qs=byeeYqUIh0OmFkZ4yXZyDg%3D%3D" 1250 -200 50 H I L CNN "Mouser Price/Stock"
+F10 "ADHV4702-1BCPZ-R7" 1250 -300 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/adhv4702-1bcpz-r7/analog-devices?region=nac" 1250 -400 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X RESERVED_1 1 0 0 200 R 50 50 0 0 P
+X IN+ 2 0 -100 200 R 50 50 0 0 P
+X RESERVED_2 3 0 -200 200 R 50 50 0 0 P
+X VEE 4 600 -800 200 U 50 50 0 0 P
+X TMP 5 700 -800 200 U 50 50 0 0 P
+X OUT 6 800 -800 200 U 50 50 0 0 P
+X RADJ 9 1400 0 200 L 50 50 0 0 P
+X ~SD 8 1400 -100 200 L 50 50 0 0 P
+X VCC 7 1400 -200 200 L 50 50 0 0 P
+X EP 13 500 700 200 D 50 50 0 0 P
+X IN- 12 600 700 200 D 50 50 0 0 P
+X COMP 11 700 700 200 D 50 50 0 0 P
+X DGND 10 800 700 200 D 50 50 0 0 P
+P 5 0 1 6 200 500 1200 500 1200 -600 200 -600 200 500 N
+ENDDRAW
+ENDDEF
+#
+#End Library

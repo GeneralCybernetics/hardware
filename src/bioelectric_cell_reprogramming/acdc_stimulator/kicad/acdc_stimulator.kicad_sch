@@ -1949,49 +1949,50 @@
 				)
 			)
 		)
-		(symbol "LTC3896EFE#PBF:LTC3896EFE#PBF"
+		(symbol "LTC6090CFE_PBF:LTC6090CFE-PBF"
+			(pin_names
+				(offset 0.254)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "IC"
-				(at 31.75 7.62 0)
+			(property "Reference" "U"
+				(at 22.86 10.16 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 1.524 1.524)
 					)
-					(justify left top)
 				)
 			)
-			(property "Value" "LTC3896EFE#PBF"
-				(at 31.75 5.08 0)
+			(property "Value" "LTC6090CFE-PBF"
+				(at 22.86 7.62 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 1.524 1.524)
 					)
-					(justify left top)
 				)
 			)
-			(property "Footprint" "SOP50P640X120-39N"
-				(at 31.75 -94.92 0)
+			(property "Footprint" "TSSOP-16_FE/BA_LIT"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
+						(italic yes)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3896f.pdf"
-				(at 31.75 -194.92 0)
+			(property "Datasheet" "LTC6090CFE-PBF"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
+						(italic yes)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description" "LINEAR TECHNOLOGY - LTC3896EFE#PBF - DC/DC CTRL, INVERTING, 900KHZ, TSSOP-38"
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -2000,92 +2001,85 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "1.2"
-				(at 31.75 -394.92 0)
+			(property "ki_locked" ""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
-					(hide yes)
 				)
 			)
-			(property "Manufacturer_Name" "Analog Devices"
-				(at 31.75 -494.92 0)
+			(property "ki_keywords" "LTC6090CFE#PBF"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "LTC3896EFE#PBF"
-				(at 31.75 -594.92 0)
+			(property "ki_fp_filters" "TSSOP-16_FE/BA_LIT TSSOP-16_FE/BA_LIT-M TSSOP-16_FE/BA_LIT-L"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "584-LTC3896EFE#PBF"
-				(at 31.75 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "LTC6090CFE-PBF_0_1"
+				(polyline
+					(pts
+						(xy 7.62 -22.86) (xy 38.1 -22.86)
 					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC3896EFEPBF?qs=oahfZPh6IAIYB3Kp6X%252BPyQ%3D%3D"
-				(at 31.75 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "LTC3896EFE#PBF"
-				(at 31.75 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltc3896efepbf/analog-devices?region=nac"
-				(at 31.75 -994.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "LTC3896EFE#PBF_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 30.48 -58.42)
 					(stroke
-						(width 0.254)
+						(width 0.127)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
 					)
 				)
-				(pin passive line
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -22.86)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -22.86) (xy 38.1 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
 					(at 0 0 0)
-					(length 5.08)
-					(name "OVLO"
+					(length 7.62)
+					(name "COM"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2100,10 +2094,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -22.86 0)
-					(length 5.08)
-					(name "VOUT-_2"
+				(pin unspecified line
+					(at 45.72 -15.24 180)
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2118,10 +2112,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -25.4 0)
-					(length 5.08)
-					(name "CLKOUT"
+				(pin unspecified line
+					(at 45.72 -12.7 180)
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2136,10 +2130,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -27.94 0)
-					(length 5.08)
-					(name "GND_1"
+				(pin output line
+					(at 45.72 -10.16 180)
+					(length 7.62)
+					(name "OUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2154,10 +2148,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -30.48 0)
-					(length 5.08)
-					(name "PLLIN"
+				(pin unspecified line
+					(at 45.72 -7.62 180)
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2172,10 +2166,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -33.02 0)
-					(length 5.08)
-					(name "PGOOD"
+				(pin power_in line
+					(at 45.72 -5.08 180)
+					(length 7.62)
+					(name "V+"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2190,10 +2184,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -35.56 0)
-					(length 5.08)
-					(name "VOUT-_3"
+				(pin unspecified line
+					(at 45.72 -2.54 180)
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2208,10 +2202,10 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at 0 -38.1 0)
-					(length 5.08)
-					(name "NC"
+				(pin output line
+					(at 45.72 0 180)
+					(length 7.62)
+					(name "*OD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2226,64 +2220,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -40.64 0)
-					(length 5.08)
-					(name "FREQ"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -43.18 0)
-					(length 5.08)
-					(name "DRVSET"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -45.72 0)
-					(length 5.08)
-					(name "DRVUV"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
+				(pin unspecified line
 					(at 0 -2.54 0)
-					(length 5.08)
-					(name "VPRG"
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2298,190 +2238,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 35.56 -45.72 180)
-					(length 5.08)
-					(name "TG"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -43.18 180)
-					(length 5.08)
-					(name "SW"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -40.64 180)
-					(length 5.08)
-					(name "BOOST"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -38.1 180)
-					(length 5.08)
-					(name "NP_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -35.56 180)
-					(length 5.08)
-					(name "BG"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -33.02 180)
-					(length 5.08)
-					(name "NP_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -30.48 180)
-					(length 5.08)
-					(name "DRVCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -27.94 180)
-					(length 5.08)
-					(name "NP_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -25.4 180)
-					(length 5.08)
-					(name "NDRV"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -22.86 180)
-					(length 5.08)
-					(name "NP_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
+				(pin unspecified line
 					(at 0 -5.08 0)
-					(length 5.08)
-					(name "SENSE+"
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2496,190 +2256,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 35.56 -20.32 180)
-					(length 5.08)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -17.78 180)
-					(length 5.08)
-					(name "NP_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -15.24 180)
-					(length 5.08)
-					(name "EXTVCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -12.7 180)
-					(length 5.08)
-					(name "NP_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "33"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -10.16 180)
-					(length 5.08)
-					(name "RUN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "34"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -7.62 180)
-					(length 5.08)
-					(name "NP_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -5.08 180)
-					(length 5.08)
-					(name "PHASMD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "36"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -2.54 180)
-					(length 5.08)
-					(name "ILIM"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 0 180)
-					(length 5.08)
-					(name "INTVCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 17.78 -63.5 90)
-					(length 5.08)
-					(name "GND_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
+				(pin input line
 					(at 0 -7.62 0)
-					(length 5.08)
-					(name "SENSE-"
+					(length 7.62)
+					(name "-IN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2694,10 +2274,10 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin input line
 					(at 0 -10.16 0)
-					(length 5.08)
-					(name "SS"
+					(length 7.62)
+					(name "+IN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2712,10 +2292,10 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin unspecified line
 					(at 0 -12.7 0)
-					(length 5.08)
-					(name "VFB"
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2730,10 +2310,10 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin unspecified line
 					(at 0 -15.24 0)
-					(length 5.08)
-					(name "ITH"
+					(length 7.62)
+					(name "GUARD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2748,10 +2328,10 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin power_in line
 					(at 0 -17.78 0)
-					(length 5.08)
-					(name "MODE"
+					(length 7.62)
+					(name "V-"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2766,10 +2346,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -20.32 0)
-					(length 5.08)
-					(name "VOUT-_1"
+				(pin output line
+					(at 45.72 -17.78 180)
+					(length 7.62)
+					(name "*TFLAG"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8433,257 +8013,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LTC3896EFE#PBF:LTC3896EFE#PBF")
-		(at 228.6 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53e44f28-1bdb-437d-994c-502618006904")
-		(property "Reference" "IC1"
-			(at 246.38 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LTC3896EFE#PBF"
-			(at 246.38 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SOP50P640X120-39N"
-			(at 260.35 150.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3896f.pdf"
-			(at 260.35 250.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "LINEAR TECHNOLOGY - LTC3896EFE#PBF - DC/DC CTRL, INVERTING, 900KHZ, TSSOP-38"
-			(at 228.6 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.2"
-			(at 260.35 450.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Analog Devices"
-			(at 260.35 550.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "LTC3896EFE#PBF"
-			(at 260.35 650.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "584-LTC3896EFE#PBF"
-			(at 260.35 750.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC3896EFEPBF?qs=oahfZPh6IAIYB3Kp6X%252BPyQ%3D%3D"
-			(at 260.35 850.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "LTC3896EFE#PBF"
-			(at 260.35 950.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltc3896efepbf/analog-devices?region=nac"
-			(at 260.35 1050.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "38"
-			(uuid "5af0b209-9d06-440e-9215-afada311b809")
-		)
-		(pin "11"
-			(uuid "86a81124-d429-4b98-9ce8-6212199a61af")
-		)
-		(pin "6"
-			(uuid "254473d0-95ad-43a5-aada-da48386b7c66")
-		)
-		(pin "8"
-			(uuid "4e5da503-9334-43cc-9ef9-756df547c57f")
-		)
-		(pin "14"
-			(uuid "8f546ae8-501f-47da-aa52-5e618be9cf74")
-		)
-		(pin "37"
-			(uuid "15f625b1-68de-4293-89f4-3fc40d839b39")
-		)
-		(pin "9"
-			(uuid "6ad27348-1a57-44e4-8142-8f34745aa669")
-		)
-		(pin "35"
-			(uuid "1587601e-9a2e-4f42-ad3a-f8573fe9a23f")
-		)
-		(pin "34"
-			(uuid "9a639872-dd81-4851-920a-1df443817024")
-		)
-		(pin "22"
-			(uuid "2676fe15-0e67-4844-a6d6-6adc95120856")
-		)
-		(pin "23"
-			(uuid "762f6048-8f6e-4620-96a9-eff1741ab720")
-		)
-		(pin "24"
-			(uuid "9a649124-3815-4800-b2f1-fa6ca0fcc807")
-		)
-		(pin "21"
-			(uuid "6c0ec50f-4a67-4a28-bf04-5e62b80a5ea1")
-		)
-		(pin "15"
-			(uuid "d165131d-e600-4544-89bd-b3dcae7ad0fb")
-		)
-		(pin "31"
-			(uuid "3b413992-7144-45d9-afd3-d0708cafc7ec")
-		)
-		(pin "27"
-			(uuid "08df677a-1a70-4a28-92f5-1094b7ffb6f6")
-		)
-		(pin "30"
-			(uuid "187f8143-94dd-45f0-beb8-0d13c5e08177")
-		)
-		(pin "10"
-			(uuid "524fbfe4-1bab-41ce-acbf-56034a43a864")
-		)
-		(pin "39"
-			(uuid "661d997a-a2c8-4b80-8089-7cf715a5d41c")
-		)
-		(pin "29"
-			(uuid "b495a0f2-a373-4bcf-ba05-de0b65d96843")
-		)
-		(pin "18"
-			(uuid "9235766e-e3d7-47c9-a580-aa9f3b4a244b")
-		)
-		(pin "3"
-			(uuid "0e1225ff-d1e4-4288-a58a-4ccb67bcc0d1")
-		)
-		(pin "36"
-			(uuid "c7ef545d-af7f-41ec-86f8-a516e90c195f")
-		)
-		(pin "25"
-			(uuid "0a031e22-fba9-41ad-ade2-f97dbc45e5f7")
-		)
-		(pin "26"
-			(uuid "c110b00f-fa5a-4c5c-8b7e-df16849bac73")
-		)
-		(pin "1"
-			(uuid "d3d762e0-0bdf-48ef-b4ac-709d1ff30b26")
-		)
-		(pin "33"
-			(uuid "30fce4d6-15e7-41dd-a7b9-b646fd71890a")
-		)
-		(pin "17"
-			(uuid "8f794bde-0653-4eeb-b711-24c6df7657b9")
-		)
-		(pin "32"
-			(uuid "dae8eca5-9dc6-4b78-bb0d-d5f69e6e0b5b")
-		)
-		(pin "16"
-			(uuid "60ac6d1b-0f07-45cb-95f7-a9cabcff5901")
-		)
-		(pin "4"
-			(uuid "92c52b74-5b45-4be1-bcde-bd42175af7b3")
-		)
-		(pin "13"
-			(uuid "820936c4-1415-4966-ad24-c473aeabb1e7")
-		)
-		(pin "20"
-			(uuid "de1d58a1-84eb-4858-a1c5-2bce5ac23bb0")
-		)
-		(pin "5"
-			(uuid "bf5a590f-fc3f-4039-8912-1867575be63f")
-		)
-		(pin "12"
-			(uuid "cffa4c6a-c075-4e13-bfd5-ef6b0f74bcfa")
-		)
-		(pin "28"
-			(uuid "e915eb82-197a-4657-b45e-f745e33cd587")
-		)
-		(pin "7"
-			(uuid "70013e9e-966d-453c-a865-5f1361864242")
-		)
-		(pin "2"
-			(uuid "e68364d9-5232-4c83-afc2-53e4a2f2452a")
-		)
-		(pin "19"
-			(uuid "34098b63-c8fb-404d-96a1-a60dbbf4a207")
-		)
-		(instances
-			(project ""
-				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
-					(reference "IC1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 120.65 34.29 0)
 		(unit 1)
@@ -11217,6 +10546,118 @@
 		)
 	)
 	(symbol
+		(lib_id "LTC6090CFE_PBF:LTC6090CFE-PBF")
+		(at 218.44 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef8b9317-9c71-49bd-8e6a-fe0682d96869")
+		(property "Reference" "U4"
+			(at 241.3 87.63 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "LTC6090CFE-PBF"
+			(at 241.3 90.17 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "TSSOP-16_FE/BA_LIT"
+			(at 218.44 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "LTC6090CFE-PBF"
+			(at 218.44 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 218.44 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "15"
+			(uuid "31aa0155-956c-4008-8783-19e99c2eae9d")
+		)
+		(pin "12"
+			(uuid "20ea51c2-8f94-48e3-8f13-89a67b3a4c4a")
+		)
+		(pin "2"
+			(uuid "857960bf-ba1c-434d-8a6f-4cdfe3310c94")
+		)
+		(pin "9"
+			(uuid "892d3075-c96c-4351-aee5-0e756271c9df")
+		)
+		(pin "11"
+			(uuid "ea0b37b5-0b3b-4032-8ead-076a3b32ac41")
+		)
+		(pin "8"
+			(uuid "bbdc1aa9-eac9-4f1c-9891-f6c12adea6ed")
+		)
+		(pin "16"
+			(uuid "71305137-254f-44c3-94b0-ee137ef1263b")
+		)
+		(pin "4"
+			(uuid "38c3c099-e659-4823-9ebf-dfdfbec032e1")
+		)
+		(pin "3"
+			(uuid "d273c265-b853-4966-a169-9d06a528c0fa")
+		)
+		(pin "6"
+			(uuid "fad876f6-42ae-47d8-b6c8-d4e6b5043688")
+		)
+		(pin "5"
+			(uuid "4cc464e8-c9ec-4c57-88f2-475e539e495f")
+		)
+		(pin "14"
+			(uuid "b0a572c4-8e38-4a72-8e93-2cd047d6be83")
+		)
+		(pin "13"
+			(uuid "132f20cf-7107-4570-9c72-bc2342b9f4f7")
+		)
+		(pin "1"
+			(uuid "8c7574a7-1370-4cdc-a07e-648f97ca3ecb")
+		)
+		(pin "10"
+			(uuid "ba2fe98d-965d-450e-8b26-d33f5ceae978")
+		)
+		(pin "7"
+			(uuid "b01fb9b8-ccd1-4969-9bc8-5bd892ec1888")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 86.36 29.21 0)
 		(unit 1)
@@ -11505,7 +10946,7 @@
 		)
 	)
 	(sheet
-		(at 215.9 140.97)
+		(at 224.79 46.99)
 		(size 49.53 16.51)
 		(fields_autoplaced yes)
 		(stroke
@@ -11517,7 +10958,7 @@
 		)
 		(uuid "a3eb3db4-c7b2-4849-bf82-00fa117eef72")
 		(property "Sheetname" "DCDC_inverter"
-			(at 215.9 140.2584 0)
+			(at 224.79 46.2784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11526,7 +10967,7 @@
 			)
 		)
 		(property "Sheetfile" "DCDC_inverter.kicad_sch"
-			(at 215.9 158.0646 0)
+			(at 224.79 64.0846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11535,7 +10976,7 @@
 			)
 		)
 		(instances
-			(project "AC_EF"
+			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
 					(page "2")
 				)

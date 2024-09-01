@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSC082N10LSGATMA1
+D BSC082N10LSGATMA1 N-Channel MOSFET, 100 A, 100 V OptiMOS 2, 8-Pin TDSON Infineon
+K
+F https://www.infineon.com/dgdl/Infineon-BSC082N10LS-DS-v01_07-en.pdf?fileId=db3a3043163797a6011647faad240719
+$ENDCMP
+#
+#End Doc Library

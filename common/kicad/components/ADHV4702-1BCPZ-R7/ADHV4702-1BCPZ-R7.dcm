@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADHV4702-1BCPZ-R7
+D 24 V to 220 V Precision Operational Amplifier
+K
+F https://www.analog.com/ADHV4702-1/datasheet
+$ENDCMP
+#
+#End Doc Library
