@@ -1,6 +1,5 @@
-# Ion Concentration Biomodulator (v5)
+# Ion Concentration Biomodulator
+The Ion Concentration Biomodulator can precisely alter the ionic composition of extracellular fluid to modulate the $$V_{mem}$$ of cells.
 
-The purpose of the chip is to enable an incubator to dispense ions over a cellular culture within the incubator. 
-
-
-![alt text](icbm_v7.jpg)
+### Links
+- [Parts list](https://docs.google.com/spreadsheets/d/1BXY7yvE0v-gVbK3v_EXQUiAxz3EebexK3CFEh7COzpo/edit?usp=sharing) (non-PCB)
