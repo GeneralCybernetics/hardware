@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5122BCPZ10-RL7
+D Dual Channel, 128-Position, SPI, Nonvolatile Digital Potentiometer
+K
+F https://www.analog.com/AD5122/datasheet
+$ENDCMP
+#
+#End Doc Library

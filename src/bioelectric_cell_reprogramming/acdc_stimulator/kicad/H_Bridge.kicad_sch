@@ -1,0 +1,3271 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "15af76ca-4262-4fc1-b97d-3cb745052568")
+	(paper "A4")
+	(lib_symbols
+		(symbol "BSZ096N10LS5ATMA1:BSZ096N10LS5ATMA1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 21.59 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "BSZ096N10LS5ATMA1"
+				(at 21.59 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "BSZ060NE2LS"
+				(at 21.59 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSZ096N10LS5-DS-v02_01-EN.pdf?fileId=5546d4625696ed760156e6c1828027cf"
+				(at 21.59 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "OptiMOSTM5Power-Transistor,100V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 21.59 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Infineon"
+				(at 21.59 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "BSZ096N10LS5ATMA1"
+				(at 21.59 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "726-BSZ096N10LS5ATMA"
+				(at 21.59 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
+				(at 21.59 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "BSZ096N10LS5ATMA1"
+				(at 21.59 -894.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/bsz096n10ls5atma1/infineon-technologies-ag"
+				(at 21.59 -994.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "BSZ096N10LS5ATMA1_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 20.32 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "S_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "S_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "S_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "D_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "D_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -5.08 180)
+					(length 5.08)
+					(name "D_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -7.62 180)
+					(length 5.08)
+					(name "D_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:R"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "IPB320P10LMATMA1:IPB320P10LMATMA1"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 11.43 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "IPB320P10LMATMA1"
+				(at 11.43 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "IPB320P10LMATMA1"
+				(at 11.43 -98.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IPB320P10LM-DataSheet-v02_00-EN.pdf?fileId=8ac78c8c7bb971ed017bc9660ea34edc"
+				(at 11.43 -198.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "P-Channel 100 V 6.5A (Ta), 63A (Tc) 3.8W (Ta), 300W (Tc) Surface Mount PG-TO263-3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "4.82"
+				(at 11.43 -398.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Infineon"
+				(at 11.43 -498.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "IPB320P10LMATMA1"
+				(at 11.43 -598.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 11.43 -698.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 11.43 -798.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 11.43 -898.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 11.43 -998.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "IPB320P10LMATMA1_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 5.08) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 -0.508) (xy 5.842 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 2.032) (xy 5.842 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 5.588) (xy 5.842 4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 5.842 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 5.842 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 6.604 3.048) (xy 6.604 2.032) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 6.35 2.54)
+					(radius 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 10.16 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 220.98 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01786493-0fce-47f6-b822-bd4c5e49c278")
+	)
+	(junction
+		(at 165.1 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0996de2c-e7fe-487c-aeac-6ea82b978ec1")
+	)
+	(junction
+		(at 86.36 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11126cf2-7da2-44ad-bbe1-ac64fe0df574")
+	)
+	(junction
+		(at 140.97 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "139bca87-b92f-408d-9be6-c67a5ed62179")
+	)
+	(junction
+		(at 116.84 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16602272-1d35-44c3-a688-cb1cf587ec45")
+	)
+	(junction
+		(at 195.58 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c0e44af-b0ea-49f4-bd8c-b1f430f4832e")
+	)
+	(junction
+		(at 195.58 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ffbfd25-b2a3-4a07-9460-e9e2499bba69")
+	)
+	(junction
+		(at 176.53 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39f75e4d-e20b-4444-b983-a56a79a2e707")
+	)
+	(junction
+		(at 189.23 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3dbe10f0-3ba5-4bbe-b467-b54adb337a92")
+	)
+	(junction
+		(at 189.23 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "411e0c8f-64c0-44e9-bfa7-393b1e6d6c79")
+	)
+	(junction
+		(at 91.44 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49c3b4a7-479e-4c32-a518-0cd86862de8b")
+	)
+	(junction
+		(at 165.1 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d67e68e-6f6c-4a02-b7ea-7c319cfb3d9b")
+	)
+	(junction
+		(at 116.84 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e59a30e-63ac-45be-9f11-2dd53baca50f")
+	)
+	(junction
+		(at 104.14 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "64f9d8e5-b3e2-44e4-8c76-d48422a6862d")
+	)
+	(junction
+		(at 91.44 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ac99134-3d07-4e8e-a357-7a1c614a2d11")
+	)
+	(junction
+		(at 116.84 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87a7d95a-0b95-41f2-afa4-ea1a54d5bc9d")
+	)
+	(junction
+		(at 116.84 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "893e2705-3557-46cd-85b0-9e99e4ce1fba")
+	)
+	(junction
+		(at 59.69 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c2e1f34-d5c0-4b93-85a5-613f455881f8")
+	)
+	(junction
+		(at 91.44 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aab398af-88a3-45eb-b3bc-1bb76d466d9d")
+	)
+	(junction
+		(at 165.1 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "acafe704-5c35-4f51-8ca8-9072b73ba32c")
+	)
+	(junction
+		(at 165.1 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af80d17d-d905-4a42-9015-cecdafc5f1d2")
+	)
+	(junction
+		(at 165.1 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4284b38-8e23-41ea-a2d0-82b692b6b54d")
+	)
+	(junction
+		(at 86.36 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c495b7ed-bb70-4144-a76d-ccc06785cc03")
+	)
+	(junction
+		(at 189.23 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7944a73-fb40-408c-862e-2e6c17391c96")
+	)
+	(junction
+		(at 116.84 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfc965c1-4532-442a-82ae-a716a5a8342a")
+	)
+	(junction
+		(at 220.98 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3938c75-cf09-4f14-aa50-c7e5e92d9e93")
+	)
+	(junction
+		(at 59.69 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e62230ea-fdfa-4824-8fa2-f98ada0dd8eb")
+	)
+	(wire
+		(pts
+			(xy 58.42 101.6) (xy 58.42 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "007e15c6-6168-4540-8d71-37c1175618f7")
+	)
+	(wire
+		(pts
+			(xy 165.1 69.85) (xy 176.53 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02f2d7a1-198c-4c50-8894-f3ba067af8d9")
+	)
+	(wire
+		(pts
+			(xy 203.2 124.46) (xy 203.2 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "031e6f48-8b17-406c-b4b7-8d4cb2fd7827")
+	)
+	(wire
+		(pts
+			(xy 88.9 130.81) (xy 86.36 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0822f4bd-4957-4701-ae1c-8ad402b9954e")
+	)
+	(wire
+		(pts
+			(xy 116.84 123.19) (xy 116.84 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ef8c910-a243-4fd9-b4cf-3d27d842c91d")
+	)
+	(wire
+		(pts
+			(xy 165.1 99.06) (xy 165.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "175f67ce-c6cc-45dd-bcb8-a5c3f883cc2f")
+	)
+	(wire
+		(pts
+			(xy 87.63 93.98) (xy 91.44 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1767e1c1-b419-4b81-87f9-97ef261909d7")
+	)
+	(wire
+		(pts
+			(xy 109.22 88.9) (xy 104.14 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b85658c-d9bc-4328-ae33-eac531d7d159")
+	)
+	(wire
+		(pts
+			(xy 193.04 93.98) (xy 189.23 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c12e2a9-e257-4aaa-900e-069abb78a80c")
+	)
+	(wire
+		(pts
+			(xy 104.14 69.85) (xy 116.84 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ce2a818-4763-4a46-9561-a7a8aafac443")
+	)
+	(wire
+		(pts
+			(xy 114.3 128.27) (xy 116.84 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29407400-1ed2-43a2-84a9-02e323040757")
+	)
+	(wire
+		(pts
+			(xy 91.44 99.06) (xy 91.44 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2af0b860-9127-48d5-9c8d-27cf0f36b3f7")
+	)
+	(wire
+		(pts
+			(xy 165.1 129.54) (xy 165.1 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c7740c6-9b33-4f0b-8c7c-efbd253236b3")
+	)
+	(wire
+		(pts
+			(xy 86.36 125.73) (xy 88.9 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "341136ef-9025-4a07-bee7-eb1b5ae1b3ee")
+	)
+	(wire
+		(pts
+			(xy 195.58 132.08) (xy 195.58 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3457114c-17ae-4f2d-a39d-af95a1101e8f")
+	)
+	(wire
+		(pts
+			(xy 78.74 123.19) (xy 86.36 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3916d21b-a73d-41c6-a90e-bdae2dd35ba9")
+	)
+	(wire
+		(pts
+			(xy 114.3 123.19) (xy 116.84 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "396e2816-4620-4a73-a9ac-20907aee59d1")
+	)
+	(wire
+		(pts
+			(xy 86.36 128.27) (xy 88.9 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d293d5a-9d60-48f9-a32e-9bbf1387bd3e")
+	)
+	(wire
+		(pts
+			(xy 116.84 109.22) (xy 116.84 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "411d3c13-e54d-4870-ba0c-293bf063ae68")
+	)
+	(wire
+		(pts
+			(xy 195.58 127) (xy 193.04 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "417601b0-cb48-48fd-9229-9512fbcd4220")
+	)
+	(wire
+		(pts
+			(xy 165.1 109.22) (xy 165.1 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "420e8a82-773d-42e9-b972-823e64e9826b")
+	)
+	(wire
+		(pts
+			(xy 176.53 69.85) (xy 176.53 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45abed8d-dd1c-4480-88d9-be325bbdc537")
+	)
+	(wire
+		(pts
+			(xy 140.97 69.85) (xy 165.1 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "470f6f8b-37c4-4d52-94fd-0093f52755de")
+	)
+	(wire
+		(pts
+			(xy 220.98 96.52) (xy 218.44 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "515a63a4-492c-4d8c-9013-ff322ef02c58")
+	)
+	(wire
+		(pts
+			(xy 59.69 96.52) (xy 59.69 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5177bb6e-ae90-400b-a820-5456a6fff10d")
+	)
+	(wire
+		(pts
+			(xy 195.58 129.54) (xy 193.04 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "558705f6-b665-4bfc-bd30-d002b33b8b78")
+	)
+	(wire
+		(pts
+			(xy 193.04 96.52) (xy 189.23 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dc9c1f8-e86b-4f76-93a7-9386c3f855a4")
+	)
+	(wire
+		(pts
+			(xy 59.69 93.98) (xy 59.69 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef501a3-28e8-401a-9b56-39909a2b43e1")
+	)
+	(wire
+		(pts
+			(xy 104.14 76.2) (xy 104.14 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f5e1199-4477-4893-8f6c-c8fbf14dbac0")
+	)
+	(wire
+		(pts
+			(xy 114.3 125.73) (xy 116.84 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65af8320-3c35-4c0a-bf2e-5a3b6418f462")
+	)
+	(wire
+		(pts
+			(xy 52.07 93.98) (xy 59.69 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66b58b09-49e4-4312-8a4d-292b8c32102a")
+	)
+	(wire
+		(pts
+			(xy 91.44 96.52) (xy 91.44 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6967cb4f-516b-47eb-a672-22eb55b30055")
+	)
+	(wire
+		(pts
+			(xy 91.44 88.9) (xy 91.44 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ac21f2f-911b-43e0-b152-08a4d994e2b2")
+	)
+	(wire
+		(pts
+			(xy 189.23 101.6) (xy 193.04 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ae55d07-2b6d-489b-b749-130f3a00ba49")
+	)
+	(wire
+		(pts
+			(xy 62.23 93.98) (xy 59.69 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b518db2-8657-4c3f-be2a-f408bd2e3416")
+	)
+	(wire
+		(pts
+			(xy 218.44 101.6) (xy 220.98 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e6ba3d2-89f9-4a66-aedc-2998b8878833")
+	)
+	(wire
+		(pts
+			(xy 87.63 96.52) (xy 91.44 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76721878-1b38-4b45-8065-453246d016fd")
+	)
+	(wire
+		(pts
+			(xy 195.58 124.46) (xy 203.2 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bb7a415-abff-4693-9ecd-56949ff4e417")
+	)
+	(wire
+		(pts
+			(xy 91.44 88.9) (xy 104.14 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff7ee1b-7a7f-477e-9049-f2d18acb16d0")
+	)
+	(wire
+		(pts
+			(xy 189.23 88.9) (xy 176.53 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81760d2f-173f-4784-9162-7ecaa1f70cba")
+	)
+	(wire
+		(pts
+			(xy 189.23 99.06) (xy 189.23 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "892e344e-2654-43d5-9228-d2bee99032fd")
+	)
+	(wire
+		(pts
+			(xy 116.84 128.27) (xy 116.84 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d59268b-5d7a-47ae-902d-dea50ba33c66")
+	)
+	(wire
+		(pts
+			(xy 116.84 109.22) (xy 125.73 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fa1b892-f4a3-435e-904a-1b5aa6b57e68")
+	)
+	(wire
+		(pts
+			(xy 228.6 93.98) (xy 220.98 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9411cd97-678b-4635-a95a-d09690030728")
+	)
+	(wire
+		(pts
+			(xy 165.1 132.08) (xy 167.64 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98b519fc-f775-4e2f-a004-8d3d6cc4ab05")
+	)
+	(wire
+		(pts
+			(xy 78.74 123.19) (xy 78.74 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aa40f58-0647-4122-abd6-f0b3fbbe4f92")
+	)
+	(wire
+		(pts
+			(xy 189.23 88.9) (xy 189.23 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4a08063-18f4-4970-9b2a-a12c3ff81e1d")
+	)
+	(wire
+		(pts
+			(xy 140.97 63.5) (xy 140.97 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a564d358-1dfe-4cd0-8070-b93cd5be9e49")
+	)
+	(wire
+		(pts
+			(xy 156.21 109.22) (xy 165.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6ec3afd-80f9-4d60-9a5a-4ae9ba134b84")
+	)
+	(wire
+		(pts
+			(xy 116.84 83.82) (xy 116.84 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a90210d6-72ed-44bf-a720-bf115014b8aa")
+	)
+	(wire
+		(pts
+			(xy 176.53 88.9) (xy 172.72 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa5fe9f2-5d02-4c7c-a8f6-859288a01bad")
+	)
+	(wire
+		(pts
+			(xy 176.53 83.82) (xy 176.53 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac4bb93a-8bd1-4202-ad06-2fccbd951992")
+	)
+	(wire
+		(pts
+			(xy 91.44 101.6) (xy 87.63 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acbd2b53-bff6-4a11-87c4-b8fadd2f93ba")
+	)
+	(wire
+		(pts
+			(xy 218.44 93.98) (xy 220.98 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b08063a7-fce4-48c4-aea9-87f448bbb8b0")
+	)
+	(wire
+		(pts
+			(xy 193.04 132.08) (xy 195.58 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b36c9c9b-40e0-4a87-8122-1a88c4a51de5")
+	)
+	(wire
+		(pts
+			(xy 104.14 88.9) (xy 104.14 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4d65499-b0aa-4403-9003-4cece5adc7b7")
+	)
+	(wire
+		(pts
+			(xy 52.07 93.98) (xy 52.07 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b614c4e7-63dc-42f9-848d-9b13db3e39ef")
+	)
+	(wire
+		(pts
+			(xy 86.36 125.73) (xy 86.36 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b94998bd-8c35-4f17-8a4c-3fd02a1184bd")
+	)
+	(wire
+		(pts
+			(xy 189.23 96.52) (xy 189.23 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b99cca33-15be-4bd2-b4e7-f674b037bcbb")
+	)
+	(wire
+		(pts
+			(xy 220.98 93.98) (xy 220.98 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9e03943-4a29-4b01-8061-a5db2ed2abd8")
+	)
+	(wire
+		(pts
+			(xy 62.23 101.6) (xy 58.42 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd4f3d5c-8ff1-4d5d-80c0-97b3087ce55d")
+	)
+	(wire
+		(pts
+			(xy 165.1 69.85) (xy 165.1 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be2002c2-c3ea-4901-b82d-7cb0b076cbac")
+	)
+	(wire
+		(pts
+			(xy 88.9 123.19) (xy 86.36 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c030a0ab-1268-493a-b7d3-c68c9957f5c5")
+	)
+	(wire
+		(pts
+			(xy 195.58 127) (xy 195.58 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1074f08-5515-4bf5-9f26-39b8de36ecff")
+	)
+	(wire
+		(pts
+			(xy 116.84 99.06) (xy 116.84 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c11d4162-d8b3-4706-b61d-d2e1c9ace14f")
+	)
+	(wire
+		(pts
+			(xy 86.36 130.81) (xy 86.36 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c43a82e5-31a9-4d73-986b-1998bf9912ee")
+	)
+	(wire
+		(pts
+			(xy 116.84 125.73) (xy 116.84 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5cc9733-c3a3-48d6-a103-c420f7c512bf")
+	)
+	(wire
+		(pts
+			(xy 59.69 96.52) (xy 62.23 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6aeeefc-e503-4e0a-9d85-cb948f28252e")
+	)
+	(wire
+		(pts
+			(xy 220.98 99.06) (xy 218.44 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf9589b0-c0c3-4fb4-ae31-d42c057112b2")
+	)
+	(wire
+		(pts
+			(xy 220.98 96.52) (xy 220.98 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e026d89f-8fb5-4db6-b406-cc458f5f0a63")
+	)
+	(wire
+		(pts
+			(xy 167.64 124.46) (xy 165.1 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e06fc15e-9e2d-477b-b47c-eb5e285e459c")
+	)
+	(wire
+		(pts
+			(xy 195.58 124.46) (xy 195.58 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e38f30ff-b354-4996-95ea-0794cade251e")
+	)
+	(wire
+		(pts
+			(xy 220.98 101.6) (xy 220.98 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e48c3675-fb79-423c-b390-f01a0c727455")
+	)
+	(wire
+		(pts
+			(xy 86.36 125.73) (xy 86.36 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea2e0afc-2117-4806-99d5-1528ab324d4b")
+	)
+	(wire
+		(pts
+			(xy 167.64 129.54) (xy 165.1 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb03253a-573b-430c-9fb7-3239e936dcaf")
+	)
+	(wire
+		(pts
+			(xy 228.6 93.98) (xy 228.6 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec42d8b3-0de4-4f01-8d04-cc6f1ec90314")
+	)
+	(wire
+		(pts
+			(xy 167.64 127) (xy 165.1 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecfc5be9-e392-4870-b915-88f15bba6170")
+	)
+	(wire
+		(pts
+			(xy 87.63 99.06) (xy 91.44 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed496fee-f2d9-4962-84d6-4d0a6ff56fae")
+	)
+	(wire
+		(pts
+			(xy 59.69 99.06) (xy 62.23 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0f69607-ddf2-4a66-be3f-d7812a1eaf1a")
+	)
+	(wire
+		(pts
+			(xy 165.1 124.46) (xy 165.1 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f313b789-0953-4114-90ac-fc8ea2c02b65")
+	)
+	(wire
+		(pts
+			(xy 193.04 124.46) (xy 195.58 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f33275a5-022b-450a-aece-292cdfcb5558")
+	)
+	(wire
+		(pts
+			(xy 116.84 69.85) (xy 140.97 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f554716a-c029-4969-8569-1b65c8257090")
+	)
+	(wire
+		(pts
+			(xy 193.04 99.06) (xy 189.23 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8339b4b-59d1-4c03-8091-32714239818d")
+	)
+	(wire
+		(pts
+			(xy 116.84 130.81) (xy 114.3 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f99a58e9-4c87-4025-a49d-b7aa8b0d9231")
+	)
+	(wire
+		(pts
+			(xy 189.23 93.98) (xy 189.23 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb66adcc-8515-4aeb-b2ac-1642898e600b")
+	)
+	(wire
+		(pts
+			(xy 165.1 127) (xy 165.1 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fba0fab8-c666-4c9b-a46a-418fb3de2155")
+	)
+	(wire
+		(pts
+			(xy 91.44 93.98) (xy 91.44 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fda25d8f-2da7-413a-bd4d-b2941f651070")
+	)
+	(hierarchical_label "OUT1"
+		(shape input)
+		(at 125.73 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35a10df7-de1a-453a-873b-1da88defc201")
+	)
+	(hierarchical_label "IN2"
+		(shape input)
+		(at 86.36 135.89 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "626a804d-8dcb-48c2-bd2b-873b89669aa8")
+	)
+	(hierarchical_label "IN1"
+		(shape input)
+		(at 58.42 106.68 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8657db8c-726c-41a7-8652-126d139742f4")
+	)
+	(hierarchical_label "IN2"
+		(shape input)
+		(at 220.98 106.68 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8dc67642-afd3-4597-9e42-4451105ebb18")
+	)
+	(hierarchical_label "OUT2"
+		(shape input)
+		(at 156.21 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b0cb440b-b0f4-4538-ab95-c669c292185a")
+	)
+	(hierarchical_label "Vin"
+		(shape input)
+		(at 140.97 63.5 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6c63c5e-074b-4d38-ad99-a2b26c207f9e")
+	)
+	(hierarchical_label "IN1"
+		(shape input)
+		(at 195.58 137.16 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7b80ed3-5d08-4121-a202-8eedaea0fa70")
+	)
+	(symbol
+		(lib_id "BSZ096N10LS5ATMA1:BSZ096N10LS5ATMA1")
+		(at 88.9 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "039c5ba8-4d72-4e64-b977-93b9e8939c43")
+		(property "Reference" "Q6"
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSZ096N10LS5ATMA1"
+			(at 101.6 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BSZ060NE2LS"
+			(at 110.49 218.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSZ096N10LS5-DS-v02_01-EN.pdf?fileId=5546d4625696ed760156e6c1828027cf"
+			(at 110.49 318.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "OptiMOSTM5Power-Transistor,100V"
+			(at 88.9 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 110.49 518.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 110.49 618.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BSZ096N10LS5ATMA1"
+			(at 110.49 718.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-BSZ096N10LS5ATMA"
+			(at 110.49 818.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
+			(at 110.49 918.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "BSZ096N10LS5ATMA1"
+			(at 110.49 1018.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/bsz096n10ls5atma1/infineon-technologies-ag"
+			(at 110.49 1118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "d2d3320d-e635-47b3-8aa2-4685dd4382a2")
+		)
+		(pin "6"
+			(uuid "4df1823c-7a7b-485c-a2f7-ca3389020a42")
+		)
+		(pin "3"
+			(uuid "bddb97b4-3051-41c6-9b83-1c31a255d577")
+		)
+		(pin "2"
+			(uuid "c7bbcfeb-3105-4d92-a809-3e288b517600")
+		)
+		(pin "5"
+			(uuid "c90cac5a-5ca4-45df-b71e-2ecb39979921")
+		)
+		(pin "4"
+			(uuid "6da43463-2693-4bb0-ac89-02e7486db7b9")
+		)
+		(pin "1"
+			(uuid "fe29d0a2-527c-49a6-9293-6debe1a79d38")
+		)
+		(pin "7"
+			(uuid "93a0e7b4-a067-40fe-9446-33e1401d925c")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 104.14 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27e44835-ba4c-4e38-a650-1a3d6d247ee2")
+		(property "Reference" "R13"
+			(at 106.68 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 106.68 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.362 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 104.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f6e06cc-4fef-4261-981d-320cfb77da48")
+		)
+		(pin "2"
+			(uuid "55627343-798a-4091-9dca-6fd0c2ce4cc4")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 78.74 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "312e0f3b-bce7-45a3-ac51-c323c56db23b")
+		(property "Reference" "#PWR045"
+			(at 78.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 78.74 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 78.74 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "198a4ae1-8b1d-4c2b-801f-9c6f2a8173ff")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 228.6 96.52 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6623f2f8-67b2-4535-b087-8aa18aae7dec")
+		(property "Reference" "#PWR048"
+			(at 228.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 228.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09a6a4bf-b78a-47ce-a021-92049722be28")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BSZ096N10LS5ATMA1:BSZ096N10LS5ATMA1")
+		(at 62.23 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "79b95e66-6e78-4f6c-893a-9b65ac71e976")
+		(property "Reference" "Q8"
+			(at 74.93 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSZ096N10LS5ATMA1"
+			(at 74.93 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BSZ060NE2LS"
+			(at 83.82 188.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSZ096N10LS5-DS-v02_01-EN.pdf?fileId=5546d4625696ed760156e6c1828027cf"
+			(at 83.82 288.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "OptiMOSTM5Power-Transistor,100V"
+			(at 62.23 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 83.82 488.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 83.82 588.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BSZ096N10LS5ATMA1"
+			(at 83.82 688.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-BSZ096N10LS5ATMA"
+			(at 83.82 788.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
+			(at 83.82 888.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "BSZ096N10LS5ATMA1"
+			(at 83.82 988.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/bsz096n10ls5atma1/infineon-technologies-ag"
+			(at 83.82 1088.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "c457af21-da08-4ec9-aaf3-1109588af696")
+		)
+		(pin "6"
+			(uuid "ec5686a7-0ead-4459-9b0b-95abc0a7d300")
+		)
+		(pin "3"
+			(uuid "0463c017-003a-47ae-8ac0-b3cd23d7b09a")
+		)
+		(pin "2"
+			(uuid "f126c99c-ab14-4d82-838e-e02ab5fc76e0")
+		)
+		(pin "5"
+			(uuid "3bd6d718-5f84-4abc-a64b-768cab17dbdc")
+		)
+		(pin "4"
+			(uuid "fe6353f7-94f9-48ec-a295-b05dddcf6f94")
+		)
+		(pin "1"
+			(uuid "0ac54a5a-2e05-49d0-a8c1-8fbcc9c4e942")
+		)
+		(pin "7"
+			(uuid "9014552a-af0a-4aa4-8f5b-a61c0db3e28d")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "Q8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 52.07 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a84a717f-7001-4bfe-8507-e39d50f91e2c")
+		(property "Reference" "#PWR047"
+			(at 52.07 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 52.07 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11657f9f-f485-41c4-9dcf-d760ebc57f75")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 203.2 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0b54b02-18f9-4c76-b403-936a91e1c822")
+		(property "Reference" "#PWR046"
+			(at 203.2 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 203.2 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 203.2 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2de7e5fe-0640-4aa7-9376-89fe70bc087b")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 176.53 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9321f62-d2be-4d89-b6fd-c6c063d424d7")
+		(property "Reference" "R14"
+			(at 179.07 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 179.07 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 174.752 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 176.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f6cd1b5-b887-4ae6-8041-0d8d55915310")
+		)
+		(pin "2"
+			(uuid "35fa369e-f260-40d1-a0fc-37dae440cffe")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BSZ096N10LS5ATMA1:BSZ096N10LS5ATMA1")
+		(at 193.04 124.46 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf4ec79f-f5b7-4843-a5da-7226ddef9e51")
+		(property "Reference" "Q4"
+			(at 180.34 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSZ096N10LS5ATMA1"
+			(at 180.34 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BSZ060NE2LS"
+			(at 171.45 219.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSZ096N10LS5-DS-v02_01-EN.pdf?fileId=5546d4625696ed760156e6c1828027cf"
+			(at 171.45 319.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "OptiMOSTM5Power-Transistor,100V"
+			(at 193.04 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 171.45 519.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 171.45 619.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BSZ096N10LS5ATMA1"
+			(at 171.45 719.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-BSZ096N10LS5ATMA"
+			(at 171.45 819.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
+			(at 171.45 919.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "BSZ096N10LS5ATMA1"
+			(at 171.45 1019.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/bsz096n10ls5atma1/infineon-technologies-ag"
+			(at 171.45 1119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "daec93cd-76a4-441f-8292-02aadce93aef")
+		)
+		(pin "6"
+			(uuid "1bc92b54-1859-444f-9f3a-d3471f1b62f7")
+		)
+		(pin "3"
+			(uuid "d247cc35-d2ff-4846-bdbc-637fc32b19b5")
+		)
+		(pin "2"
+			(uuid "2539b330-f89a-4166-ac86-312cf964f8ac")
+		)
+		(pin "5"
+			(uuid "743530db-03d3-4a25-8189-fff82125edbf")
+		)
+		(pin "4"
+			(uuid "e476e629-0d7f-4cb9-a894-a012586656d0")
+		)
+		(pin "1"
+			(uuid "50458939-9066-4bf3-8f48-db3e577ffbf7")
+		)
+		(pin "7"
+			(uuid "e90f43a3-1628-43c5-b636-0397bb49018f")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BSZ096N10LS5ATMA1:BSZ096N10LS5ATMA1")
+		(at 218.44 93.98 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5b58538-061f-4627-890d-60c680d4c947")
+		(property "Reference" "Q9"
+			(at 205.74 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSZ096N10LS5ATMA1"
+			(at 205.74 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BSZ060NE2LS"
+			(at 196.85 188.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSZ096N10LS5-DS-v02_01-EN.pdf?fileId=5546d4625696ed760156e6c1828027cf"
+			(at 196.85 288.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "OptiMOSTM5Power-Transistor,100V"
+			(at 218.44 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 196.85 488.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 196.85 588.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BSZ096N10LS5ATMA1"
+			(at 196.85 688.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-BSZ096N10LS5ATMA"
+			(at 196.85 788.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
+			(at 196.85 888.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "BSZ096N10LS5ATMA1"
+			(at 196.85 988.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/bsz096n10ls5atma1/infineon-technologies-ag"
+			(at 196.85 1088.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "a79d6932-2848-4f8e-b958-a4787edaa466")
+		)
+		(pin "6"
+			(uuid "e57622cc-3f1f-411d-9a58-3d10f5e0b857")
+		)
+		(pin "3"
+			(uuid "a13c77e9-c520-40d3-8b7d-d5938f4ec072")
+		)
+		(pin "2"
+			(uuid "c6ff7eb1-7cc7-42ab-a6c9-88afdb18ce75")
+		)
+		(pin "5"
+			(uuid "86cc6c57-9c83-439f-a2a7-1ac22391074f")
+		)
+		(pin "4"
+			(uuid "9feeeb97-d711-4d99-b5b5-ac4f36a00ef7")
+		)
+		(pin "1"
+			(uuid "7cc060ac-1390-45eb-baf4-f7036ce702ec")
+		)
+		(pin "7"
+			(uuid "b76c5283-9e63-414c-a2bb-035eef8ce6b3")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "Q9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IPB320P10LMATMA1:IPB320P10LMATMA1")
+		(at 172.72 88.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e42e78c6-fa83-4fda-b349-dda37161f958")
+		(property "Reference" "Q5"
+			(at 161.29 92.7101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IPB320P10LMATMA1"
+			(at 161.29 90.1701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "IPB320P10LMATMA1"
+			(at 161.29 -9.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IPB320P10LM-DataSheet-v02_00-EN.pdf?fileId=8ac78c8c7bb971ed017bc9660ea34edc"
+			(at 161.29 -109.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "P-Channel 100 V 6.5A (Ta), 63A (Tc) 3.8W (Ta), 300W (Tc) Surface Mount PG-TO263-3"
+			(at 172.72 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "4.82"
+			(at 161.29 -309.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 161.29 -409.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IPB320P10LMATMA1"
+			(at 161.29 -509.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 161.29 -609.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 161.29 -709.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 161.29 -809.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 161.29 -909.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e66508b6-e58d-440c-8d5f-18813572a534")
+		)
+		(pin "1"
+			(uuid "9525e889-9502-488e-8ebf-09b0726592ba")
+		)
+		(pin "2"
+			(uuid "40ef48bd-6024-4ab9-ae19-07e88aa125de")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IPB320P10LMATMA1:IPB320P10LMATMA1")
+		(at 109.22 88.9 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc17414b-3a6f-4ff2-899c-a09c01cc499f")
+		(property "Reference" "Q7"
+			(at 120.65 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IPB320P10LMATMA1"
+			(at 120.65 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "IPB320P10LMATMA1"
+			(at 120.65 -9.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IPB320P10LM-DataSheet-v02_00-EN.pdf?fileId=8ac78c8c7bb971ed017bc9660ea34edc"
+			(at 120.65 -109.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "P-Channel 100 V 6.5A (Ta), 63A (Tc) 3.8W (Ta), 300W (Tc) Surface Mount PG-TO263-3"
+			(at 109.22 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "4.82"
+			(at 120.65 -309.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 120.65 -409.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IPB320P10LMATMA1"
+			(at 120.65 -509.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 120.65 -609.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 120.65 -709.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 120.65 -809.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 120.65 -909.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "663c478b-3e37-4b22-b1ee-e6c43166309c")
+		)
+		(pin "1"
+			(uuid "f2a40c1f-8eb2-46e9-93c8-21ad16a0d881")
+		)
+		(pin "2"
+			(uuid "db9548bf-97ea-4f18-ae56-0e32a9f015c7")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/ea1d9750-8e7d-4025-a446-b33892bad04a"
+					(reference "Q7")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

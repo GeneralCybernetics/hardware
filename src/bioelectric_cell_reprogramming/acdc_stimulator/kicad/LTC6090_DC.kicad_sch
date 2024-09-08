@@ -1,0 +1,692 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e3f8ad69-38b6-4e3a-88e8-dcdc4a92edf8")
+	(paper "A4")
+	(lib_symbols
+		(symbol "LTC6090CFE_PBF:LTC6090CFE-PBF"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 22.86 10.16 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "LTC6090CFE-PBF"
+				(at 22.86 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "TSSOP-16_FE/BA_LIT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "LTC6090CFE-PBF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LTC6090CFE#PBF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TSSOP-16_FE/BA_LIT TSSOP-16_FE/BA_LIT-M TSSOP-16_FE/BA_LIT-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LTC6090CFE-PBF_0_1"
+				(polyline
+					(pts
+						(xy 7.62 -22.86) (xy 38.1 -22.86)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -22.86)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -22.86) (xy 38.1 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 7.62)
+					(name "COM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 45.72 -15.24 180)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 45.72 -12.7 180)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 45.72 -10.16 180)
+					(length 7.62)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 45.72 -7.62 180)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 45.72 -5.08 180)
+					(length 7.62)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 45.72 -2.54 180)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 45.72 0 180)
+					(length 7.62)
+					(name "*OD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 -7.62 0)
+					(length 7.62)
+					(name "-IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 -10.16 0)
+					(length 7.62)
+					(name "+IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -12.7 0)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -15.24 0)
+					(length 7.62)
+					(name "GUARD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -17.78 0)
+					(length 7.62)
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 45.72 -17.78 180)
+					(length 7.62)
+					(name "*TFLAG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(no_connect
+		(at 110.49 73.66)
+		(uuid "41df292e-330f-4650-93c3-4b298e50a8fe")
+	)
+	(no_connect
+		(at 110.49 78.74)
+		(uuid "578e7312-79f9-4a81-a00e-037dc9e18edf")
+	)
+	(no_connect
+		(at 110.49 88.9)
+		(uuid "59c436e1-ac15-491e-88bf-35a1ec26491f")
+	)
+	(no_connect
+		(at 156.21 88.9)
+		(uuid "7e8464f6-ab39-462d-aed3-1a8c99be9dc5")
+	)
+	(no_connect
+		(at 156.21 73.66)
+		(uuid "8e73532b-b92c-4a93-9d39-fb6ea1bb0c65")
+	)
+	(no_connect
+		(at 156.21 91.44)
+		(uuid "91ae54d6-9a35-407f-9c78-984437bd605b")
+	)
+	(no_connect
+		(at 156.21 86.36)
+		(uuid "a33baf7f-7cae-4f8d-ae65-de5e390b914c")
+	)
+	(no_connect
+		(at 110.49 86.36)
+		(uuid "bd32361d-8a41-4e6e-be98-ba5c68ab8d04")
+	)
+	(no_connect
+		(at 156.21 81.28)
+		(uuid "bdc57af8-0bd3-4e13-9910-82874779b27f")
+	)
+	(no_connect
+		(at 110.49 76.2)
+		(uuid "d92aa7d4-acb6-4632-99d5-b583176b0b26")
+	)
+	(no_connect
+		(at 156.21 76.2)
+		(uuid "df87f9ce-eaab-4f6a-aad4-66a241897f31")
+	)
+	(wire
+		(pts
+			(xy 99.06 81.28) (xy 110.49 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c579886-b1f7-48c6-a4d9-f9bd5b4ace90")
+	)
+	(wire
+		(pts
+			(xy 156.21 83.82) (xy 163.83 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2438cec4-f0e6-411b-bb07-83b3aa9cba5b")
+	)
+	(wire
+		(pts
+			(xy 99.06 91.44) (xy 110.49 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "370319c4-523d-4171-8a8b-32b4cf06a1f7")
+	)
+	(wire
+		(pts
+			(xy 99.06 83.82) (xy 110.49 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "882c4d62-2495-46f9-b0d7-5e83971d9c5a")
+	)
+	(wire
+		(pts
+			(xy 156.21 78.74) (xy 163.83 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd06250b-fc54-4ebe-a91f-96d3aa29b5dd")
+	)
+	(hierarchical_label "V+"
+		(shape input)
+		(at 163.83 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0d908800-f942-48fe-ba0d-54518de49a4d")
+	)
+	(hierarchical_label "+IN"
+		(shape input)
+		(at 99.06 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "57a556db-4328-4ab1-924f-d24f45780101")
+	)
+	(hierarchical_label "-IN"
+		(shape input)
+		(at 99.06 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6b59f93e-2576-413d-b018-4f0203d66696")
+	)
+	(hierarchical_label "V-"
+		(shape input)
+		(at 99.06 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aae5ba20-5fad-4469-8984-8a2c3a95be7d")
+	)
+	(hierarchical_label "OUT"
+		(shape output)
+		(at 163.83 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fec654b6-804a-459a-8125-a292182dcfab")
+	)
+	(symbol
+		(lib_id "LTC6090CFE_PBF:LTC6090CFE-PBF")
+		(at 110.49 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2ba55069-5941-44ad-874a-5a3682335b6d")
+		(property "Reference" "U4"
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "LTC6090CFE-PBF"
+			(at 133.35 66.04 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "TSSOP-16_FE/BA_LIT"
+			(at 110.49 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "LTC6090CFE-PBF"
+			(at 110.49 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 110.49 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b7397e2b-ae2c-4b1a-89d3-db8d5c65613e")
+		)
+		(pin "12"
+			(uuid "74541b46-cab4-4012-aea3-351fb69c5548")
+		)
+		(pin "8"
+			(uuid "ca19154d-dbbe-45d3-a5f2-5c1ba5cb4f42")
+		)
+		(pin "7"
+			(uuid "de30e088-58d8-4dd7-93d1-071a932f6cfd")
+		)
+		(pin "3"
+			(uuid "96b50a23-3985-429e-b8e8-54e2e62d2dda")
+		)
+		(pin "15"
+			(uuid "0242acc9-80fd-4804-bdb2-06e6b84920a8")
+		)
+		(pin "14"
+			(uuid "820d6014-8f5f-4c38-a999-42e960cc220a")
+		)
+		(pin "16"
+			(uuid "c32b1d52-de46-4e27-a4c7-050d360a2d08")
+		)
+		(pin "10"
+			(uuid "caf892be-f1ca-43a7-8ee3-6e4a93c439ca")
+		)
+		(pin "9"
+			(uuid "e7403803-f73f-4dae-800a-ea263da1849d")
+		)
+		(pin "4"
+			(uuid "666c904d-7e13-4370-85b1-b1f394e51d96")
+		)
+		(pin "2"
+			(uuid "3866055d-3b87-4e27-bfa8-e21e4a14ff6b")
+		)
+		(pin "13"
+			(uuid "1698b31c-3cb8-43a9-8cc7-4ae0f10622aa")
+		)
+		(pin "6"
+			(uuid "3de40d29-5ca5-4bb1-8e63-6392c521e31b")
+		)
+		(pin "5"
+			(uuid "1645b9a2-ca7a-4ec3-b027-2a3a1cc52ea0")
+		)
+		(pin "11"
+			(uuid "952ea554-a516-4b18-bf52-8459cadfa7f8")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/5802e87b-47f9-4308-a638-d428408ef5d8"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

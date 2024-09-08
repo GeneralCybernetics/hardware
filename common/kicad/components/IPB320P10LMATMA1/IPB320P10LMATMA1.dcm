@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPB320P10LMATMA1
+D P-Channel 100 V 6.5A (Ta), 63A (Tc) 3.8W (Ta), 300W (Tc) Surface Mount PG-TO263-3
+K
+F https://www.infineon.com/dgdl/Infineon-IPB320P10LM-DataSheet-v02_00-EN.pdf?fileId=8ac78c8c7bb971ed017bc9660ea34edc
+$ENDCMP
+#
+#End Doc Library

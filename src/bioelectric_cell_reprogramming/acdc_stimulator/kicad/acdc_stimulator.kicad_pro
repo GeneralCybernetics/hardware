@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AC_EF.kicad_pro",
+    "filename": "acdc_stimulator.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -390,6 +390,18 @@
     [
       "a3eb3db4-c7b2-4849-bf82-00fa117eef72",
       "DCDC_inverter"
+    ],
+    [
+      "5802e87b-47f9-4308-a638-d428408ef5d8",
+      "LTC6090_DC"
+    ],
+    [
+      "ea1d9750-8e7d-4025-a446-b33892bad04a",
+      "H_Bridge"
+    ],
+    [
+      "eb25741d-d11f-4b90-8ca4-d19bbe2fc1cb",
+      "LTC6090_AC"
     ]
   ],
   "text_variables": {}
