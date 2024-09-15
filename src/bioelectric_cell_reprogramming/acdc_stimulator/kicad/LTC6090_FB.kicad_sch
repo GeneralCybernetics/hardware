@@ -587,7 +587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ba55069-5941-44ad-874a-5a3682335b6d")
-		(property "Reference" "U4"
+		(property "Reference" "U1"
 			(at 133.35 63.5 0)
 			(effects
 				(font
@@ -682,8 +682,8 @@
 		)
 		(instances
 			(project "acdc_stimulator"
-				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/5802e87b-47f9-4308-a638-d428408ef5d8"
-					(reference "U4")
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/adb33657-b159-4fcc-a216-5a35a6d2483a"
+					(reference "U1")
 					(unit 1)
 				)
 			)

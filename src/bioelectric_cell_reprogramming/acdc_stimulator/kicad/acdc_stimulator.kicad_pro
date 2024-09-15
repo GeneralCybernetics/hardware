@@ -402,6 +402,10 @@
     [
       "eb25741d-d11f-4b90-8ca4-d19bbe2fc1cb",
       "LTC6090_AC"
+    ],
+    [
+      "adb33657-b159-4fcc-a216-5a35a6d2483a",
+      "LTC6090_FB"
     ]
   ],
   "text_variables": {}
