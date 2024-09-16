@@ -406,6 +406,22 @@
     [
       "adb33657-b159-4fcc-a216-5a35a6d2483a",
       "LTC6090_FB"
+    ],
+    [
+      "11a8d4e0-78e7-4188-a9b7-04c70194bc2d",
+      "pelt_cooler"
+    ],
+    [
+      "cf0126de-2a37-4fca-bf65-f8dc79cc90bd",
+      "60_to_12V_converter"
+    ],
+    [
+      "96d91c0a-dca3-4e1e-85a2-01b86266cb17",
+      "60_to_5V_converter"
+    ],
+    [
+      "e479d02d-ff3f-46f9-af62-0bc7155bcaaf",
+      "60_to_3V3_converter"
     ]
   ],
   "text_variables": {}
