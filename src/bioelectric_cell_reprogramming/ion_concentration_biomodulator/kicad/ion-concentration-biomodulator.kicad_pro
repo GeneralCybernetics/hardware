@@ -691,6 +691,10 @@
     [
       "d00a1c36-08f1-42bb-994d-12073bc9bf7e",
       "peltier_coolers"
+    ],
+    [
+      "93f4a868-c866-4a2d-9c6f-f9cdc200e31b",
+      "stm32"
     ]
   ],
   "text_variables": {}
