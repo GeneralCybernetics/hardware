@@ -502,7 +502,7 @@
       "idf": "",
       "netlist": "",
       "plot": "mfg/",
-      "pos_files": "mfg/",
+      "pos_files": "../../../../../../Downloads/",
       "specctra_dsn": "",
       "step": "ion-concentration-biomodulator.step",
       "svg": "",
