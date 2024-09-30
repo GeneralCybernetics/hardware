@@ -141,308 +141,6 @@
 				)
 			)
 		)
-		(symbol "Device:D_Schottky"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "D_Schottky"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Schottky diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode Schottky"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "D_Schottky_0_1"
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Schottky_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Device:L"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "L"
-				(at -1.27 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "L"
-				(at 1.905 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "inductor choke coil reactor magnetic"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "L_0_1"
-				(arc
-					(start 0 -2.54)
-					(mid 0.6323 -1.905)
-					(end 0 -1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -1.27)
-					(mid 0.6323 -0.635)
-					(end 0 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 0)
-					(mid 0.6323 0.635)
-					(end 0 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 1.27)
-					(mid 0.6323 1.905)
-					(end 0 2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "L_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:R"
 			(pin_numbers hide)
 			(pin_names
@@ -933,6 +631,472 @@
 				)
 			)
 		)
+		(symbol "MBR2100:MBR2100"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "MBR2100"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "DIOAD1910W86L670D310"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.panjit.com.tw/en/Product/downloadPDF/MBR2100"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power Schottky (IF1A) - MBR2100 , Standard, 100V, 2A, DO-15"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "PANJIT"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "MBR2100"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "MBR2100_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.604 -1.524) (xy 6.604 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 6.604 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 8.636 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.636 1.524) (xy 8.636 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 0) (xy 15.24 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 12.7 2.54) (xy 12.7 -2.54) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "SRP1270-100M:SRP1270-100M"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at 16.51 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "SRP1270-100M"
+				(at 16.51 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "INDPM137137X700N"
+				(at 16.51 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.bourns.com/pdfs/SRP1270.pdf"
+				(at 16.51 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Bourns SRP1270 Series Type 1270 Shielded Wire-wound SMD Inductor with a Iron Core, 10 uH +/-20% Wire-Wound 16A Idc"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "7"
+				(at 16.51 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Bourns"
+				(at 16.51 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "SRP1270-100M"
+				(at 16.51 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "652-SRP1270-100M"
+				(at 16.51 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/SRP1270-100M?qs=s%252BX%2FYkvGCpE5rFNaoMUDIw%3D%3D"
+				(at 16.51 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "SRP1270-100M"
+				(at 16.51 -896.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/srp1270-100m/bourns?region=nac"
+				(at 16.51 -996.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "SRP1270-100M_1_1"
+				(arc
+					(start 7.62 0)
+					(mid 6.35 1.219)
+					(end 5.08 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 10.16 0)
+					(mid 8.89 1.219)
+					(end 7.62 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 12.7 0)
+					(mid 11.43 1.219)
+					(end 10.16 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 15.24 0)
+					(mid 13.97 1.219)
+					(end 12.7 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+12V"
 			(power)
 			(pin_numbers hide)
@@ -1301,16 +1465,10 @@
 		(uuid "4af64a4d-dd2c-4563-95ff-c05b5dbfc2d0")
 	)
 	(junction
-		(at 179.07 82.55)
+		(at 198.12 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "504e75fe-be52-4a8c-b3b2-2fc1c008ffba")
-	)
-	(junction
-		(at 156.21 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5e778ff0-4191-4c2b-8f75-4c2f6f51f402")
 	)
 	(junction
 		(at 154.94 69.85)
@@ -1319,7 +1477,7 @@
 		(uuid "76e10e91-87a3-4f3c-8ab2-a3cb6ce9ab2e")
 	)
 	(junction
-		(at 170.18 97.79)
+		(at 189.23 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "819b4c67-0dbd-46d8-8e42-1e14f987e103")
@@ -1337,10 +1495,16 @@
 		(uuid "ad66735c-99e1-409e-9b39-1cf8c83a157f")
 	)
 	(junction
-		(at 170.18 82.55)
+		(at 189.23 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ebaf9a50-f0dd-4c57-a715-ab4ca9e1f413")
+		(uuid "afe30eed-aa9b-418d-8e24-a913cee10c9c")
+	)
+	(junction
+		(at 156.21 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0278e62-ad6f-4c50-aa9d-5867d8f84098")
 	)
 	(no_connect
 		(at 110.49 85.09)
@@ -1362,7 +1526,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 82.55) (xy 186.69 82.55)
+			(xy 198.12 82.55) (xy 205.74 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1372,23 +1536,13 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 92.71) (xy 179.07 95.25)
+			(xy 198.12 92.71) (xy 198.12 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0b45357a-94a3-49a0-ba1d-0c8da727460c")
-	)
-	(wire
-		(pts
-			(xy 158.75 82.55) (xy 156.21 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c76c6f3-3037-485e-95eb-996845539845")
 	)
 	(wire
 		(pts
@@ -1422,7 +1576,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 82.55) (xy 146.05 82.55)
+			(xy 146.05 82.55) (xy 156.21 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1442,7 +1596,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 110.49) (xy 143.51 110.49)
+			(xy 143.51 110.49) (xy 156.21 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1482,7 +1636,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 109.22) (xy 170.18 110.49)
+			(xy 189.23 109.22) (xy 189.23 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1492,7 +1646,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 82.55) (xy 170.18 83.82)
+			(xy 189.23 82.55) (xy 189.23 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1502,23 +1656,23 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 96.52) (xy 156.21 110.49)
+			(xy 156.21 82.55) (xy 162.56 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4a4943f5-f71c-4a4f-b67c-6836479c4530")
+		(uuid "4730a0e2-2ae5-4d89-ac6b-29d15e95cb7b")
 	)
 	(wire
 		(pts
-			(xy 170.18 82.55) (xy 166.37 82.55)
+			(xy 156.21 110.49) (xy 189.23 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "516dd30f-5d76-4271-9b5c-afb54bb5cd2a")
+		(uuid "506edad4-176e-405a-b73b-cbda023e6e71")
 	)
 	(wire
 		(pts
@@ -1529,6 +1683,36 @@
 			(type default)
 		)
 		(uuid "53ab0139-58ce-4068-b066-33d723871fc1")
+	)
+	(wire
+		(pts
+			(xy 140.97 97.79) (xy 189.23 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58a80e17-1930-48d4-aea4-6ebda3512bb8")
+	)
+	(wire
+		(pts
+			(xy 156.21 82.55) (xy 156.21 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63a2b556-b466-4446-8248-369a5f2a0e8a")
+	)
+	(wire
+		(pts
+			(xy 182.88 82.55) (xy 189.23 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64189e74-45f7-4034-ae0a-5cdb62f78df6")
 	)
 	(wire
 		(pts
@@ -1552,7 +1736,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 82.55) (xy 179.07 85.09)
+			(xy 198.12 82.55) (xy 198.12 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1562,7 +1746,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 82.55) (xy 179.07 82.55)
+			(xy 189.23 82.55) (xy 198.12 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1592,17 +1776,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 82.55) (xy 156.21 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88751481-5ca4-41f8-af79-b60210389041")
-	)
-	(wire
-		(pts
-			(xy 170.18 97.79) (xy 170.18 101.6)
+			(xy 189.23 97.79) (xy 189.23 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1642,23 +1816,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 91.44) (xy 170.18 97.79)
+			(xy 189.23 91.44) (xy 189.23 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "aac00d00-a914-481c-b425-616cd65b30f8")
-	)
-	(wire
-		(pts
-			(xy 170.18 110.49) (xy 156.21 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b02ff0de-eda7-41c1-b80c-403681ad2d76")
 	)
 	(wire
 		(pts
@@ -1722,7 +1886,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 80.01) (xy 186.69 82.55)
+			(xy 205.74 80.01) (xy 205.74 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1762,16 +1926,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 97.79) (xy 170.18 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0c93467-360d-460f-8476-bae996b0147f")
-	)
-	(wire
-		(pts
 			(xy 140.97 95.25) (xy 143.51 95.25)
 		)
 		(stroke
@@ -1779,6 +1933,16 @@
 			(type default)
 		)
 		(uuid "f9b6894f-3890-426f-b70e-2df96890686d")
+	)
+	(wire
+		(pts
+			(xy 156.21 101.6) (xy 156.21 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa94fec2-ed74-42ac-a310-f40047721a4a")
 	)
 	(wire
 		(pts
@@ -1801,8 +1965,147 @@
 		(uuid "ff473569-84f3-4f32-a7f9-2e3b0c188df5")
 	)
 	(symbol
+		(lib_id "SRP1270-100M:SRP1270-100M")
+		(at 162.56 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0cf0543f-d577-43eb-a1ea-4fefb9796313")
+		(property "Reference" "L6"
+			(at 172.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10u"
+			(at 172.72 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SRP1270-100M:INDPM137137X700N"
+			(at 179.07 178.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/pdfs/SRP1270.pdf"
+			(at 179.07 278.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bourns SRP1270 Series Type 1270 Shielded Wire-wound SMD Inductor with a Iron Core, 10 uH +/-20% Wire-Wound 16A Idc"
+			(at 162.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "7"
+			(at 179.07 478.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns"
+			(at 179.07 578.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SRP1270-100M"
+			(at 179.07 678.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "652-SRP1270-100M"
+			(at 179.07 778.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/SRP1270-100M?qs=s%252BX%2FYkvGCpE5rFNaoMUDIw%3D%3D"
+			(at 179.07 878.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "SRP1270-100M"
+			(at 179.07 978.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/srp1270-100m/bourns?region=nac"
+			(at 179.07 1078.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "49654995-cc8f-4e0a-9cc7-21e142bb3e30")
+		)
+		(pin "2"
+			(uuid "02a8f7cf-3c87-4fa2-b6de-ecd3f2e90177")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
+					(reference "L6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 179.07 95.25 0)
+		(at 198.12 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1811,7 +2114,7 @@
 		(fields_autoplaced yes)
 		(uuid "1effbe72-f0a1-48bc-9a18-50f718308f5b")
 		(property "Reference" "#PWR092"
-			(at 179.07 101.6 0)
+			(at 198.12 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1820,7 +2123,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 179.07 100.33 0)
+			(at 198.12 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1828,7 +2131,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 95.25 0)
+			(at 198.12 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1837,7 +2140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 95.25 0)
+			(at 198.12 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1846,7 +2149,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 179.07 95.25 0)
+			(at 198.12 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1868,7 +2171,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 186.69 80.01 0)
+		(at 205.74 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1877,7 +2180,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b131977-c5e5-43e6-9f21-1608f37535fa")
 		(property "Reference" "#PWR093"
-			(at 186.69 83.82 0)
+			(at 205.74 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1885,8 +2188,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 186.69 74.93 0)
+		(property "Value" "+3.3V"
+			(at 205.74 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1894,7 +2197,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 80.01 0)
+			(at 205.74 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1903,7 +2206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 80.01 0)
+			(at 205.74 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1912,7 +2215,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 186.69 80.01 0)
+			(at 205.74 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1934,7 +2237,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 179.07 88.9 0)
+		(at 198.12 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1942,7 +2245,7 @@
 		(dnp no)
 		(uuid "4483106c-907a-4c0f-a3ec-1c1618d52daf")
 		(property "Reference" "C57"
-			(at 180.086 86.36 0)
+			(at 199.136 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1951,7 +2254,7 @@
 			)
 		)
 		(property "Value" "47u"
-			(at 180.086 91.948 0)
+			(at 199.136 91.948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1959,8 +2262,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 180.0352 92.71 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 199.0852 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1969,7 +2272,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 88.9 0)
+			(at 198.12 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1978,7 +2281,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 179.07 88.9 0)
+			(at 198.12 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2029,7 +2332,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 165.1 70.8152 0)
 			(effects
 				(font
@@ -2072,34 +2375,55 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:L")
-		(at 162.56 82.55 270)
-		(mirror x)
+		(lib_id "MBR2100:MBR2100")
+		(at 156.21 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7c794e70-f800-40c2-a719-3a3a3b8853f3")
-		(property "Reference" "L7"
-			(at 162.56 77.47 90)
+		(uuid "77cc305c-cccf-49b1-9a02-cdef068d4e05")
+		(property "Reference" "D4"
+			(at 160.02 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "10u"
-			(at 162.56 80.01 90)
+		(property "Value" "MBR2100"
+			(at 160.02 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 162.56 82.55 0)
+		(property "Footprint" "MBR2100:DIOAD1910W86L670D310"
+			(at 62.56 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.panjit.com.tw/en/Product/downloadPDF/MBR2100"
+			(at -37.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power Schottky (IF1A) - MBR2100 , Standard, 100V, 2A, DO-15"
+			(at 156.21 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2107,34 +2431,86 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 162.56 82.55 0)
+		(property "Height" ""
+			(at -237.44 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
-			(at 162.56 82.55 0)
+		(property "Manufacturer_Name" "PANJIT"
+			(at -337.44 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "1fd13dbe-b140-429e-8af3-00ff3f57f24f")
+		(property "Manufacturer_Part_Number" "MBR2100"
+			(at -437.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at -537.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at -637.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at -737.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at -837.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "a4f729d9-94c8-4777-acd6-d916d66e8990")
+			(uuid "5265fb55-a8ac-4f7a-9a90-d1c610bb181b")
+		)
+		(pin "2"
+			(uuid "7e6a8efd-5fae-43ff-ae34-a39db5749f5c")
 		)
 		(instances
-			(project "acdc_stimulator"
+			(project ""
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "L7")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2142,7 +2518,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 170.18 87.63 0)
+		(at 189.23 87.63 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2151,7 +2527,7 @@
 		(dnp no)
 		(uuid "a6f61c87-d86c-47c2-bb3c-ad119c3887f9")
 		(property "Reference" "R33"
-			(at 169.926 84.074 0)
+			(at 188.976 84.074 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2160,7 +2536,7 @@
 			)
 		)
 		(property "Value" "31.25k"
-			(at 169.672 91.44 0)
+			(at 188.722 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2168,8 +2544,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 171.958 87.63 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 191.008 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2178,7 +2554,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 87.63 0)
+			(at 189.23 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2187,7 +2563,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 170.18 87.63 0)
+			(at 189.23 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2272,77 +2648,6 @@
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
 					(reference "#PWR090")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 156.21 92.71 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b0b3f689-d9aa-4f01-9468-c62df63002d4")
-		(property "Reference" "D4"
-			(at 153.67 91.1224 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D_Schottky"
-			(at 153.67 93.6624 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 156.21 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4165ad44-51a9-40b9-b558-9f03dfe701c4")
-		)
-		(pin "1"
-			(uuid "e4532c4e-3255-4ef6-abc3-5683578b6690")
-		)
-		(instances
-			(project "acdc_stimulator"
-				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2483,7 +2788,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 170.18 105.41 0)
+		(at 189.23 105.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2492,7 +2797,7 @@
 		(dnp no)
 		(uuid "e0b67982-b62b-4c9b-b641-d97a5faa2e44")
 		(property "Reference" "R34"
-			(at 169.926 101.854 0)
+			(at 188.976 101.854 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2501,7 +2806,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 169.672 109.22 0)
+			(at 188.722 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2509,8 +2814,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 171.958 105.41 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 191.008 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2519,7 +2824,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 105.41 0)
+			(at 189.23 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2528,7 +2833,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 170.18 105.41 0)
+			(at 189.23 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2578,7 +2883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LTC3637IMSEPBF"
+		(property "Footprint" "LTC3637IMSE#PBF:LTC3637IMSEPBF"
 			(at 114.3 177.47 0)
 			(effects
 				(font
