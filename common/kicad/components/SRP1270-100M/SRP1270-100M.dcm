@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP1270-100M
+D Bourns SRP1270 Series Type 1270 Shielded Wire-wound SMD Inductor with a Iron Core, 10 uH +/-20% Wire-Wound 16A Idc
+K
+F https://www.bourns.com/pdfs/SRP1270.pdf
+$ENDCMP
+#
+#End Doc Library

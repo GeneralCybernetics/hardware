@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBR2100
+D Power Schottky (IF1A) - MBR2100 , Standard, 100V, 2A, DO-15
+K
+F https://www.panjit.com.tw/en/Product/downloadPDF/MBR2100
+$ENDCMP
+#
+#End Doc Library

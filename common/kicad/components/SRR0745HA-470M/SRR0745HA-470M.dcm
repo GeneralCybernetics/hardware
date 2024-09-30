@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRR0745HA-470M
+D Ind,7.3x7.3x4.5,47uH+/-20%,1.05A,shd
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRR0745HA.pdf
+$ENDCMP
+#
+#End Doc Library

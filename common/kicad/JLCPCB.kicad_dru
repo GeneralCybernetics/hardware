@@ -92,7 +92,7 @@
 (rule "Annular ring width (via and PTH)"
 	(layer outer)
 	(condition "A.isPlated()")
-	(constraint annular_width (min 0.05	mm))
+	(constraint annular_width (min 0.05mm))
 )
 
 (rule "Clearance: hole to hole (perimeter), different nets"

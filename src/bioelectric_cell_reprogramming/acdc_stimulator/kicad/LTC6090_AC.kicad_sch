@@ -603,7 +603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSSOP-16_FE/BA_LIT"
+		(property "Footprint" "LTC6090CFE_PBF:TSSOP-16_FE&slash_BA_LIT"
 			(at 115.57 81.28 0)
 			(effects
 				(font
