@@ -527,7 +527,7 @@
 			)
 			(justify left)
 		)
-		(uuid "0d908800-f942-48fe-ba0d-54518de49a4d")
+		(uuid "29ae1f7e-24ff-4c80-8719-3aea53a3eaa4")
 	)
 	(hierarchical_label "+IN"
 		(shape input)
@@ -539,19 +539,7 @@
 			)
 			(justify right)
 		)
-		(uuid "57a556db-4328-4ab1-924f-d24f45780101")
-	)
-	(hierarchical_label "-IN"
-		(shape input)
-		(at 99.06 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6b59f93e-2576-413d-b018-4f0203d66696")
+		(uuid "40421c83-0773-4ae6-a15b-f5241911c4eb")
 	)
 	(hierarchical_label "V-"
 		(shape input)
@@ -563,7 +551,7 @@
 			)
 			(justify right)
 		)
-		(uuid "aae5ba20-5fad-4469-8984-8a2c3a95be7d")
+		(uuid "77c48b59-1989-4038-b8fd-a119b1e523da")
 	)
 	(hierarchical_label "OUT"
 		(shape output)
@@ -575,7 +563,19 @@
 			)
 			(justify left)
 		)
-		(uuid "fec654b6-804a-459a-8125-a292182dcfab")
+		(uuid "cef00a79-91a0-45b4-9e8e-fa0375d3abf9")
+	)
+	(hierarchical_label "-IN"
+		(shape input)
+		(at 99.06 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d1c6efe6-368e-4ef6-a7b7-d550526a37df")
 	)
 	(symbol
 		(lib_id "LTC6090CFE_PBF:LTC6090CFE-PBF")
@@ -586,7 +586,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2ba55069-5941-44ad-874a-5a3682335b6d")
+		(uuid "049efb61-edf2-4095-81ed-1ba0faffbfd3")
 		(property "Reference" "U4"
 			(at 133.35 63.5 0)
 			(effects

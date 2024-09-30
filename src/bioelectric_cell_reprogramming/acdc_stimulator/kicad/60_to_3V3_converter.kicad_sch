@@ -1973,7 +1973,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0cf0543f-d577-43eb-a1ea-4fefb9796313")
-		(property "Reference" "L6"
+		(property "Reference" "L7"
 			(at 172.72 76.2 0)
 			(effects
 				(font
@@ -2097,7 +2097,7 @@
 		(instances
 			(project ""
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "L6")
+					(reference "L7")
 					(unit 1)
 				)
 			)
@@ -2113,7 +2113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1effbe72-f0a1-48bc-9a18-50f718308f5b")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR097"
 			(at 198.12 101.6 0)
 			(effects
 				(font
@@ -2163,7 +2163,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "#PWR092")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -2179,7 +2179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b131977-c5e5-43e6-9f21-1608f37535fa")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR098"
 			(at 205.74 83.82 0)
 			(effects
 				(font
@@ -2229,7 +2229,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "#PWR093")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -2244,7 +2244,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4483106c-907a-4c0f-a3ec-1c1618d52daf")
-		(property "Reference" "C57"
+		(property "Reference" "C58"
 			(at 199.136 86.36 0)
 			(effects
 				(font
@@ -2298,7 +2298,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "C57")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -2314,7 +2314,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "71c3a3b1-ca0f-44a5-9e95-fe3ebab7acf1")
-		(property "Reference" "C13"
+		(property "Reference" "C57"
 			(at 158.75 70.104 0)
 			(effects
 				(font
@@ -2368,7 +2368,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "C13")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -2526,7 +2526,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a6f61c87-d86c-47c2-bb3c-ad119c3887f9")
-		(property "Reference" "R33"
+		(property "Reference" "R32"
 			(at 188.976 84.074 0)
 			(effects
 				(font
@@ -2580,7 +2580,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "R33")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -2597,7 +2597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9975c7a-000d-477c-972f-2f197a9ac4c0")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR095"
 			(at 156.21 118.11 0)
 			(effects
 				(font
@@ -2647,7 +2647,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "#PWR090")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -2664,7 +2664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b88ce6c6-28f2-4850-a60f-2dd38a8248e8")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR096"
 			(at 172.72 69.85 0)
 			(effects
 				(font
@@ -2714,7 +2714,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "#PWR091")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -2730,7 +2730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8deeff7-22d9-446f-9b6b-b35eb4b1a9fa")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR094"
 			(at 154.94 72.39 0)
 			(effects
 				(font
@@ -2780,7 +2780,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "#PWR089")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -2796,7 +2796,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0b67982-b62b-4c9b-b641-d97a5faa2e44")
-		(property "Reference" "R34"
+		(property "Reference" "R33"
 			(at 188.976 101.854 0)
 			(effects
 				(font
@@ -2850,7 +2850,7 @@
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/e479d02d-ff3f-46f9-af62-0bc7155bcaaf"
-					(reference "R34")
+					(reference "R33")
 					(unit 1)
 				)
 			)
