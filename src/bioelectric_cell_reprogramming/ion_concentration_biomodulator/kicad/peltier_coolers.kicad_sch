@@ -3584,7 +3584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "1x02_socket_66200211122.pretty:66200211122"
+		(property "Footprint" "6620XX11122_66200211122:66200211122"
 			(at 156.21 128.27 0)
 			(effects
 				(font
@@ -4182,7 +4182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSZ070N08LS5ATMA1:TSDSON-8-FL_INF"
+		(property "Footprint" "TSDSON-8-FL_INF"
 			(at 99.06 77.47 0)
 			(effects
 				(font
@@ -5214,7 +5214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "1x02_socket_66200211122.pretty:66200211122"
+		(property "Footprint" "6620XX11122_66200211122:66200211122"
 			(at 144.78 72.39 0)
 			(effects
 				(font
