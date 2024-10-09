@@ -3418,10 +3418,6 @@
 		(uuid "69b481d7-8ffd-4226-ac89-0ac14425ca23")
 	)
 	(no_connect
-		(at 133.35 130.81)
-		(uuid "6a073381-62fd-48ac-85d4-35b9444be35a")
-	)
-	(no_connect
 		(at 87.63 146.05)
 		(uuid "7155bf6d-c643-4cb4-9c30-1c11d3977c35")
 	)
@@ -3556,10 +3552,6 @@
 	(no_connect
 		(at 87.63 135.89)
 		(uuid "de029ed2-8eaa-4b6a-8d8c-cbdfb783ef9d")
-	)
-	(no_connect
-		(at 133.35 128.27)
-		(uuid "e3136645-ed71-4f79-9d0e-36e60c417db6")
 	)
 	(no_connect
 		(at 133.35 102.87)
@@ -4005,6 +3997,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 130.81) (xy 133.35 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e6c2516-2d40-49ff-be0a-e067b5e4636c")
+	)
+	(wire
+		(pts
 			(xy 134.62 158.75) (xy 133.35 158.75)
 		)
 		(stroke
@@ -4315,6 +4317,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 128.27) (xy 133.35 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc237196-0554-4a3a-b603-883a7230c553")
+	)
+	(wire
+		(pts
 			(xy 76.2 33.02) (xy 68.58 33.02)
 		)
 		(stroke
@@ -4613,6 +4625,17 @@
 		)
 		(uuid "6ebd1ed6-f2fb-4e0a-99c9-82c8af14bbf0")
 	)
+	(label "USART2_RX"
+		(at 144.78 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "86edfd34-751e-40e9-8450-2af09d95f85a")
+	)
 	(label "I2C_SCK"
 		(at 71.12 119.38 0)
 		(fields_autoplaced yes)
@@ -4689,6 +4712,17 @@
 			(justify left bottom)
 		)
 		(uuid "dd53eac8-1ab2-4b0b-86b5-643eda0b05c2")
+	)
+	(label "USART2_TX"
+		(at 144.78 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "de8828a0-1773-487b-b481-ea22c77fc16f")
 	)
 	(label "SOL4"
 		(at 77.47 158.75 0)
@@ -4855,6 +4889,18 @@
 		)
 		(uuid "4bb80654-d9cc-4eb6-89d3-83de6a2cd728")
 	)
+	(hierarchical_label "USART2_RX"
+		(shape input)
+		(at 144.78 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "59e44756-6fce-414b-83ea-d4ae0c9700ce")
+	)
 	(hierarchical_label "SOL2"
 		(shape input)
 		(at 77.47 153.67 180)
@@ -4890,6 +4936,18 @@
 			(justify right)
 		)
 		(uuid "7c91ce73-89b4-41a5-b02d-301cd5fa0353")
+	)
+	(hierarchical_label "USART2_TX"
+		(shape input)
+		(at 144.78 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "86d05979-787a-445f-b6e1-8369dcd4a3fb")
 	)
 	(hierarchical_label "H_BRIDGE_FAULT"
 		(shape input)
