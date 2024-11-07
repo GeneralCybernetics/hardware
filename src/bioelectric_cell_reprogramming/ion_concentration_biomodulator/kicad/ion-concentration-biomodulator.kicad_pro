@@ -56,6 +56,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.127,
+          "via_gap": 0.0,
+          "width": 0.2
         }
       ],
       "drc_exclusions": [],
@@ -502,7 +507,7 @@
       "idf": "",
       "netlist": "",
       "plot": "mfg/",
-      "pos_files": "../../../../../../Downloads/",
+      "pos_files": "mfg/",
       "specctra_dsn": "",
       "step": "ion-concentration-biomodulator.step",
       "svg": "",
