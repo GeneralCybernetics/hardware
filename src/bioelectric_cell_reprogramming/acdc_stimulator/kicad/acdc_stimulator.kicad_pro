@@ -56,11 +56,6 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
-        },
-        {
-          "gap": 0.2032,
-          "via_gap": 0.5,
-          "width": 0.2583
         }
       ],
       "drc_exclusions": [],
@@ -121,21 +116,21 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.16,
-        "min_connection": 0.16,
-        "min_copper_edge_clearance": 0.3,
-        "min_hole_clearance": 0.26,
-        "min_hole_to_hole": 0.26,
+        "min_clearance": 0.0,
+        "min_connection": 0.0,
+        "min_copper_edge_clearance": 0.5,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.25,
-        "min_track_width": 0.16,
-        "min_via_annular_width": 0.16,
-        "min_via_diameter": 0.65,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.0,
+        "min_via_annular_width": 0.1,
+        "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -229,10 +224,6 @@
         {
           "diameter": 0.7,
           "drill": 0.3
-        },
-        {
-          "diameter": 0.9,
-          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": false
@@ -584,14 +575,14 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.375,
+      "label_size_ratio": 0.25,
       "operating_point_overlay_i_precision": 3,
       "operating_point_overlay_i_range": "~A",
       "operating_point_overlay_v_precision": 3,
       "operating_point_overlay_v_range": "~V",
       "overbar_offset_ratio": 1.23,
-      "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.15
+      "pin_symbol_size": 0.0,
+      "text_offset_ratio": 0.08
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -610,43 +601,6 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [
-    [
-      "ec70e9f6-566f-44ea-8141-5580f51beca4",
-      "Root"
-    ],
-    [
-      "a3eb3db4-c7b2-4849-bf82-00fa117eef72",
-      "DCDC_inverter"
-    ],
-    [
-      "5802e87b-47f9-4308-a638-d428408ef5d8",
-      "LTC6090_DC"
-    ],
-    [
-      "ea1d9750-8e7d-4025-a446-b33892bad04a",
-      "H_Bridge"
-    ],
-    [
-      "eb25741d-d11f-4b90-8ca4-d19bbe2fc1cb",
-      "LTC6090_AC"
-    ],
-    [
-      "11a8d4e0-78e7-4188-a9b7-04c70194bc2d",
-      "pelt_cooler"
-    ],
-    [
-      "cf0126de-2a37-4fca-bf65-f8dc79cc90bd",
-      "60_to_12V_converter"
-    ],
-    [
-      "96d91c0a-dca3-4e1e-85a2-01b86266cb17",
-      "60_to_5V_converter"
-    ],
-    [
-      "e479d02d-ff3f-46f9-af62-0bc7155bcaaf",
-      "60_to_3V3_converter"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {}
 }
