@@ -8701,8 +8701,8 @@
 			(uuid "bdccba06-75ce-4d5f-8756-85af6666e016")
 		)
 		(pad "2" smd roundrect
-			(at 0.32 0 270)
-			(size 0.46 0.4)
+			(at 0.34 0 270)
+			(size 0.44 0.4)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 137 "Net-(U7-IPROPI2)")
@@ -12683,7 +12683,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at -1.88 0 90)
+			(at -2.08 0.3 90)
 			(layer "F.SilkS")
 			(uuid "aab60115-b65c-4478-b333-12126880cae3")
 			(effects
@@ -13109,7 +13109,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C45"
-			(at 0.3425 0.83 0)
+			(at -2.5075 0.005 0)
 			(layer "F.SilkS")
 			(uuid "18b35c57-1bb3-4c03-a12e-eb079ed35ccc")
 			(effects
@@ -13748,7 +13748,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R21"
-			(at -0.305 0.9875 -90)
+			(at -0.055 1.9875 0)
 			(layer "F.SilkS")
 			(uuid "21a637fb-13e9-431c-ab24-aa579aed6e82")
 			(effects
@@ -14387,7 +14387,7 @@
 		(descr "PG-TSDSON-8 fused")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q1"
-			(at 0.173 0 180)
+			(at -2.3575 -3.67464 180)
 			(layer "F.SilkS")
 			(uuid "62c93c5c-5e83-4c51-b94d-80692f882b97")
 			(effects
@@ -14834,7 +14834,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0.5425 -0.86 0)
+			(at 0.0675 -1.135 0)
 			(layer "F.SilkS")
 			(uuid "c7d680e2-aafc-491e-8d69-c3caf06b043b")
 			(effects
@@ -16961,7 +16961,7 @@
 		(descr "PG-TSDSON-8 fused")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q11"
-			(at 0.173 0 90)
+			(at 1.745 -3.65 90)
 			(layer "F.SilkS")
 			(uuid "b13e914d-f0e3-4ac6-9dda-224e4af747e9")
 			(effects
@@ -21367,7 +21367,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C41"
-			(at -0.32 -0.8375 90)
+			(at -1.745 -0.6125 0)
 			(layer "F.SilkS")
 			(uuid "46d1544f-9594-4a00-8b1d-41816dd2e614")
 			(effects
@@ -29941,7 +29941,7 @@
 		(descr "PG-TSDSON-8 fused")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q10"
-			(at 0.173 0 90)
+			(at 1.945 -3.6 90)
 			(layer "F.SilkS")
 			(uuid "babee9a7-214a-439b-8ea7-984694125a7a")
 			(effects
@@ -30814,7 +30814,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C48"
-			(at 2.625 -0.0055 0)
+			(at 3.275 0.0445 0)
 			(layer "F.SilkS")
 			(uuid "f28aa8f7-95be-4225-bb88-79479b839e6f")
 			(effects
@@ -33266,8 +33266,8 @@
 			(uuid "0b87c50f-71b8-41bb-a4d4-50c56b4b8a92")
 		)
 		(pad "2" smd roundrect
-			(at 0.32 0 270)
-			(size 0.46 0.4)
+			(at 0.34 0 270)
+			(size 0.44 0.4)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 136 "Net-(U7-IPROPI1)")
@@ -34556,8 +34556,8 @@
 			(uuid "abdd1dcb-88e3-446a-bbea-3f56bdff2af6")
 		)
 		(pad "2" smd roundrect
-			(at 0.32 0 270)
-			(size 0.46 0.4)
+			(at 0.34 0 270)
+			(size 0.44 0.4)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 74 "/pelt_cooler/NSLEEP")
@@ -34945,7 +34945,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at -1.8125 0.35 90)
+			(at 3.7375 1.75 180)
 			(layer "F.SilkS")
 			(uuid "af5929e5-70a4-4946-9502-fd3932dd9acc")
 			(effects
@@ -35158,7 +35158,7 @@
 		(descr "PG-TDSON-8-5_1")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q4"
-			(at 3.255 0.15 180)
+			(at -1.745 -5.075 -90)
 			(layer "F.SilkS")
 			(uuid "da9bb3d3-3003-49a2-881c-b2ce8e235112")
 			(effects
@@ -35990,7 +35990,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C49"
-			(at 2.655 -0.0555 0)
+			(at 0.155 1.2445 0)
 			(layer "F.SilkS")
 			(uuid "4ee0576c-4ca3-4375-b67a-4f6ed1b61432")
 			(effects
@@ -36199,7 +36199,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "b5df0d67-1502-4df7-ad6a-022548b8a733")
-		(at 81.2 47.975)
+		(at 82 48)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -39089,8 +39089,8 @@
 			(uuid "93f10d05-3b05-4a88-9433-04bbec485f74")
 		)
 		(pad "2" smd roundrect
-			(at 0.32 0 270)
-			(size 0.46 0.4)
+			(at 0.34 0 270)
+			(size 0.44 0.4)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 135 "Net-(U7-DISABLE)")
@@ -41942,7 +41942,7 @@
 		(descr "PG-TSDSON-8 fused")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q6"
-			(at 0.173 0 90)
+			(at -2.165 -3.65 90)
 			(layer "F.SilkS")
 			(uuid "fb9e6e86-cafd-458f-b963-fffc1e3c2f9c")
 			(effects
@@ -43441,7 +43441,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0.785 0.54 0)
+			(at 2.7875 -0.035 0)
 			(layer "F.SilkS")
 			(uuid "701fec05-5b28-4471-b06a-2d059a705d0c")
 			(effects
@@ -45882,7 +45882,7 @@
 		(descr "PG-TDSON-8-5_1")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q3"
-			(at 3.28 -2.45 180)
+			(at -2.745 -5.175 -90)
 			(layer "F.SilkS")
 			(uuid "9ecfb809-3576-4b72-9109-2cba2474302e")
 			(effects
@@ -46366,7 +46366,7 @@
 		(uuid "dc908029-8c58-4a13-8c4b-b3a20d8df488")
 	)
 	(gr_text "AC/DC Stimulator"
-		(at 74.75 36.5 0)
+		(at 74.75 35 0)
 		(layer "F.SilkS")
 		(uuid "48d33334-cb5c-41e3-b8ea-4c9ee95b389d")
 		(effects
@@ -46378,8 +46378,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Anush Mutyala\n"
-		(at 74.775 38.75 0)
+	(gr_text "Anush Mutyala\n01/01/25"
+		(at 75 39 0)
 		(layer "F.SilkS")
 		(uuid "ea738072-1a36-4457-8563-0c402f3ab59f")
 		(effects
@@ -57700,20 +57700,28 @@
 		(uuid "460afbae-648b-4a14-bd81-e65d49e864a1")
 	)
 	(segment
-		(start 97.925 116.8595)
+		(start 97.925 116.8795)
+		(end 98.025 116.7795)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 135)
+		(uuid "523e030b-1856-4169-a2e2-2539018d7dfd")
+	)
+	(segment
+		(start 98.025 116.7795)
 		(end 98.025 116.7595)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 135)
-		(uuid "498fa956-6d75-4dd7-9022-c2f347a09e11")
+		(uuid "84015577-9bd7-4953-9d96-36492c944d97")
 	)
 	(segment
 		(start 97.925 118.7445)
-		(end 97.925 116.8595)
+		(end 97.925 116.8795)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 135)
-		(uuid "eef03c56-d666-4fba-a2af-1a4457e1642e")
+		(uuid "ae6a131e-ed22-44e8-931f-39edacaa42a8")
 	)
 	(segment
 		(start 97.274999 118.7445)
@@ -58261,20 +58269,20 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 98.171674 114.921674) (xy 98.403326 115.153326) (xy 98.425 115.205652) (xy 98.425 116.212109)
-				(xy 98.403326 116.264435) (xy 98.351 116.286109) (xy 98.317405 116.278044) (xy 98.250304 116.243854)
-				(xy 98.250302 116.243853) (xy 98.250301 116.243853) (xy 98.156519 116.229) (xy 97.89348 116.229)
-				(xy 97.799695 116.243853) (xy 97.799693 116.243854) (xy 97.686657 116.30145) (xy 97.664826 116.323282)
-				(xy 97.6125 116.344956) (xy 97.569913 116.327316) (xy 97.568055 116.329874) (xy 97.563345 116.326452)
-				(xy 97.563342 116.32645) (xy 97.450304 116.268854) (xy 97.450302 116.268853) (xy 97.450301 116.268853)
-				(xy 97.356519 116.254) (xy 97.09348 116.254) (xy 96.999695 116.268853) (xy 96.999693 116.268854)
-				(xy 96.886657 116.32645) (xy 96.795282 116.417826) (xy 96.742956 116.4395) (xy 96.495481 116.4395)
-				(xy 96.443155 116.417826) (xy 96.429547 116.399096) (xy 96.428049 116.396157) (xy 96.338343 116.306451)
-				(xy 96.338342 116.30645) (xy 96.225304 116.248854) (xy 96.225302 116.248853) (xy 96.225301 116.248853)
-				(xy 96.131519 116.234) (xy 95.86848 116.234) (xy 95.774695 116.248853) (xy 95.774691 116.248855)
-				(xy 95.68955 116.292237) (xy 95.633088 116.296681) (xy 95.603629 116.278629) (xy 95.596674 116.271674)
-				(xy 95.575 116.219348) (xy 95.575 115.155652) (xy 95.596674 115.103326) (xy 95.778326 114.921674)
-				(xy 95.830652 114.9) (xy 98.119348 114.9)
+				(xy 98.171674 114.921674) (xy 98.403326 115.153326) (xy 98.425 115.205652) (xy 98.425 116.242109)
+				(xy 98.403326 116.294435) (xy 98.351 116.316109) (xy 98.317405 116.308044) (xy 98.290696 116.294435)
+				(xy 98.250304 116.273854) (xy 98.250302 116.273853) (xy 98.250301 116.273853) (xy 98.156519 116.259)
+				(xy 97.89348 116.259) (xy 97.799695 116.273853) (xy 97.799693 116.273854) (xy 97.686657 116.33145)
+				(xy 97.664826 116.353282) (xy 97.6125 116.374956) (xy 97.569913 116.357316) (xy 97.568055 116.359874)
+				(xy 97.563345 116.356452) (xy 97.563342 116.35645) (xy 97.450304 116.298854) (xy 97.450302 116.298853)
+				(xy 97.450301 116.298853) (xy 97.356519 116.284) (xy 97.09348 116.284) (xy 96.999695 116.298853)
+				(xy 96.999693 116.298854) (xy 96.886657 116.35645) (xy 96.825282 116.417826) (xy 96.772956 116.4395)
+				(xy 96.472044 116.4395) (xy 96.419718 116.417826) (xy 96.338343 116.336451) (xy 96.338342 116.33645)
+				(xy 96.225304 116.278854) (xy 96.225302 116.278853) (xy 96.225301 116.278853) (xy 96.131519 116.264)
+				(xy 95.86848 116.264) (xy 95.774695 116.278853) (xy 95.774693 116.278854) (xy 95.709425 116.312111)
+				(xy 95.652962 116.316555) (xy 95.623503 116.298503) (xy 95.596674 116.271674) (xy 95.575 116.219348)
+				(xy 95.575 115.155652) (xy 95.596674 115.103326) (xy 95.778326 114.921674) (xy 95.830652 114.9)
+				(xy 98.119348 114.9)
 			)
 		)
 	)
