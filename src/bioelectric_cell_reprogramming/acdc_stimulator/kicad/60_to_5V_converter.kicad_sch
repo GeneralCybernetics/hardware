@@ -2197,7 +2197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/panjit-international-inc/MBR2100-R2-00001/15801106"
 			(at 167.64 86.36 0)
 			(effects
 				(font
@@ -2206,7 +2206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panjit International Inc."
 			(at 167.64 86.36 0)
 			(effects
 				(font
@@ -2215,7 +2215,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "MBR2100_R2_00001"
+			(at 167.64 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 167.64 86.36 0)
 			(effects
 				(font
@@ -2365,7 +2374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/AnalogDevices-LTC3637IMSEPBF/C580783"
 			(at 152.4 85.09 0)
 			(effects
 				(font
@@ -2374,7 +2383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices"
 			(at 152.4 85.09 0)
 			(effects
 				(font
@@ -2383,7 +2392,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "LTC3637IMSE#PBF"
+			(at 152.4 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 152.4 85.09 0)
 			(effects
 				(font
@@ -2467,7 +2485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 213.0552 95.25 0)
 			(effects
 				(font
@@ -2494,7 +2512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/183737-1206X476M160NT/C172351"
 			(at 212.09 91.44 0)
 			(effects
 				(font
@@ -2503,7 +2521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 212.09 91.44 0)
 			(effects
 				(font
@@ -2512,7 +2530,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "1206X476M160NT"
+			(at 212.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 212.09 91.44 0)
 			(effects
 				(font
@@ -2794,7 +2821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Bourns/SRP1270-100M?qs=s%252BX%2FYkvGCpE5rFNaoMUDIw%3D%3D"
 			(at 173.99 85.09 0)
 			(effects
 				(font
@@ -2803,7 +2830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Bourns"
 			(at 173.99 85.09 0)
 			(effects
 				(font
@@ -2812,7 +2839,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "SRP1270-100M"
+			(at 173.99 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 173.99 85.09 0)
 			(effects
 				(font
@@ -2918,6 +2954,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 203.2 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34803996-d139-4b6b-a0c4-06ee53bdc10b")
 		)
@@ -2988,7 +3033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/3409988-GRM21BD72A225KE01L/C2981733"
 			(at 172.72 72.39 0)
 			(effects
 				(font
@@ -2997,7 +3042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" " Murata Electronics"
 			(at 172.72 72.39 0)
 			(effects
 				(font
@@ -3006,7 +3051,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM21BD72A225KE01L"
+			(at 172.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 172.72 72.39 0)
 			(effects
 				(font
@@ -3171,6 +3225,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 203.2 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 203.2 90.17 0)
 			(effects
 				(font

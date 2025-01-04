@@ -2065,7 +2065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
 			(at 88.9 123.19 0)
 			(effects
 				(font
@@ -2074,7 +2074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies "
 			(at 88.9 123.19 0)
 			(effects
 				(font
@@ -2083,7 +2083,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSZ096N10LS5ATMA1"
+			(at 88.9 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 88.9 123.19 0)
 			(effects
 				(font
@@ -2199,6 +2208,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "NQ02WGJ0103TCE"
+			(at 104.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 104.14 80.01 0)
 			(effects
 				(font
@@ -2480,7 +2498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
 			(at 62.23 93.98 0)
 			(effects
 				(font
@@ -2489,7 +2507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies "
 			(at 62.23 93.98 0)
 			(effects
 				(font
@@ -2498,7 +2516,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSZ096N10LS5ATMA1"
+			(at 62.23 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 62.23 93.98 0)
 			(effects
 				(font
@@ -2754,6 +2781,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 176.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f6cd1b5-b887-4ae6-8041-0d8d55915310")
 		)
@@ -2895,7 +2931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
 			(at 193.04 124.46 0)
 			(effects
 				(font
@@ -2904,7 +2940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies "
 			(at 193.04 124.46 0)
 			(effects
 				(font
@@ -2913,7 +2949,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSZ096N10LS5ATMA1"
+			(at 193.04 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 193.04 124.46 0)
 			(effects
 				(font
@@ -3081,7 +3126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
 			(at 218.44 93.98 0)
 			(effects
 				(font
@@ -3090,7 +3135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies "
 			(at 218.44 93.98 0)
 			(effects
 				(font
@@ -3099,7 +3144,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSZ096N10LS5ATMA1"
+			(at 218.44 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 218.44 93.98 0)
 			(effects
 				(font
@@ -3267,7 +3321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/3852120-IPB320P10LMATMA1/C3289219"
 			(at 172.72 88.9 0)
 			(effects
 				(font
@@ -3276,7 +3330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies"
 			(at 172.72 88.9 0)
 			(effects
 				(font
@@ -3285,7 +3339,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C3289219"
+			(at 172.72 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 172.72 88.9 0)
 			(effects
 				(font
@@ -3439,7 +3502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/3852120-IPB320P10LMATMA1/C3289219"
 			(at 109.22 88.9 0)
 			(effects
 				(font
@@ -3448,7 +3511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies"
 			(at 109.22 88.9 0)
 			(effects
 				(font
@@ -3457,7 +3520,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C3289219"
+			(at 109.22 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 109.22 88.9 0)
 			(effects
 				(font

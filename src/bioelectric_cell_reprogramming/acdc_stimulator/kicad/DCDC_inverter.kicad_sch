@@ -5118,7 +5118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/InfineonTechnologies-BSC520N15NS3G/C386368"
 			(at 52.07 119.38 0)
 			(effects
 				(font
@@ -5127,7 +5127,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies"
 			(at 52.07 119.38 0)
 			(effects
 				(font
@@ -5136,7 +5136,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSC520N15NS3G"
+			(at 52.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 52.07 119.38 0)
 			(effects
 				(font
@@ -5255,6 +5264,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 240.03 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 240.03 58.42 0)
 			(effects
 				(font
@@ -5400,7 +5418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/3409988-GRM21BD72A225KE01L/C2981733"
 			(at 223.52 92.71 0)
 			(effects
 				(font
@@ -5409,7 +5427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" " Murata Electronics"
 			(at 223.52 92.71 0)
 			(effects
 				(font
@@ -5418,7 +5436,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM21BD72A225KE01L"
+			(at 223.52 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 223.52 92.71 0)
 			(effects
 				(font
@@ -5516,6 +5543,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 240.03 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 240.03 67.31 0)
 			(effects
 				(font
@@ -5730,7 +5766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/InfineonTechnologies-BSC520N15NS3G/C386368"
 			(at 95.25 119.38 0)
 			(effects
 				(font
@@ -5739,7 +5775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies"
 			(at 95.25 119.38 0)
 			(effects
 				(font
@@ -5748,7 +5784,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSC520N15NS3G"
+			(at 95.25 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 95.25 119.38 0)
 			(effects
 				(font
@@ -5848,7 +5893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/173559-GRM155R62A104KE14D/C162178"
 			(at 227.33 127 0)
 			(effects
 				(font
@@ -5857,7 +5902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 227.33 127 0)
 			(effects
 				(font
@@ -5866,7 +5911,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 227.33 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 227.33 127 0)
 			(effects
 				(font
@@ -5964,6 +6018,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 210.82 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 210.82 92.71 0)
 			(effects
 				(font
@@ -6215,7 +6278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 135.5852 132.08 0)
 			(effects
 				(font
@@ -6242,7 +6305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 134.62 128.27 0)
 			(effects
 				(font
@@ -6251,7 +6314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 134.62 128.27 0)
 			(effects
 				(font
@@ -6260,7 +6323,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 134.62 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 134.62 128.27 0)
 			(effects
 				(font
@@ -6312,7 +6384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 167.3352 132.08 0)
 			(effects
 				(font
@@ -6339,7 +6411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 166.37 128.27 0)
 			(effects
 				(font
@@ -6348,7 +6420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 166.37 128.27 0)
 			(effects
 				(font
@@ -6357,7 +6429,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 166.37 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 166.37 128.27 0)
 			(effects
 				(font
@@ -6436,7 +6517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/173559-GRM155R62A104KE14D/C162178"
 			(at 237.49 127 0)
 			(effects
 				(font
@@ -6445,7 +6526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 237.49 127 0)
 			(effects
 				(font
@@ -6454,7 +6535,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 237.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 237.49 127 0)
 			(effects
 				(font
@@ -6533,7 +6623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/173559-GRM155R62A104KE14D/C162178"
 			(at 180.34 43.18 0)
 			(effects
 				(font
@@ -6542,7 +6632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 180.34 43.18 0)
 			(effects
 				(font
@@ -6551,7 +6641,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 180.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 180.34 43.18 0)
 			(effects
 				(font
@@ -6657,6 +6756,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 99.06 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23dbf6d5-5d62-4736-bfc5-dbc1b477c5ac")
 		)
@@ -6727,7 +6835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/173559-GRM155R62A104KE14D/C162178"
 			(at 217.17 127 0)
 			(effects
 				(font
@@ -6736,7 +6844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 217.17 127 0)
 			(effects
 				(font
@@ -6745,7 +6853,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 217.17 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 217.17 127 0)
 			(effects
 				(font
@@ -6824,7 +6941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/3409988-GRM21BD72A225KE01L/C2981733"
 			(at 236.22 92.71 0)
 			(effects
 				(font
@@ -6833,7 +6950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" " Murata Electronics"
 			(at 236.22 92.71 0)
 			(effects
 				(font
@@ -6842,7 +6959,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM21BD72A225KE01L"
+			(at 236.22 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 236.22 92.71 0)
 			(effects
 				(font
@@ -7012,6 +7138,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 173.99 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42737881-4574-41c2-b8ed-136f256bc755")
 		)
@@ -7099,6 +7234,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 160.02 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 160.02 73.66 0)
 			(effects
 				(font
@@ -7216,7 +7360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 187.6552 132.08 0)
 			(effects
 				(font
@@ -7243,7 +7387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 186.69 128.27 0)
 			(effects
 				(font
@@ -7252,7 +7396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 186.69 128.27 0)
 			(effects
 				(font
@@ -7261,7 +7405,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 186.69 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 186.69 128.27 0)
 			(effects
 				(font
@@ -7379,7 +7532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 251.1552 143.51 0)
 			(effects
 				(font
@@ -7406,7 +7559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 250.19 139.7 0)
 			(effects
 				(font
@@ -7415,7 +7568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 250.19 139.7 0)
 			(effects
 				(font
@@ -7424,7 +7577,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 250.19 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 250.19 139.7 0)
 			(effects
 				(font
@@ -7530,6 +7692,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 227.33 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2063cb7c-8f55-4f81-b89d-13a5cc9a409f")
 		)
@@ -7573,7 +7744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 113.9952 132.08 0)
 			(effects
 				(font
@@ -7600,7 +7771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 113.03 128.27 0)
 			(effects
 				(font
@@ -7609,7 +7780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 113.03 128.27 0)
 			(effects
 				(font
@@ -7618,7 +7789,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 113.03 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 113.03 128.27 0)
 			(effects
 				(font
@@ -7796,6 +7976,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 257.81 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf51076e-aa44-4575-bcf9-133237278e94")
 		)
@@ -7842,7 +8031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 125.4252 132.08 0)
 			(effects
 				(font
@@ -7869,7 +8058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 124.46 128.27 0)
 			(effects
 				(font
@@ -7878,7 +8067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 124.46 128.27 0)
 			(effects
 				(font
@@ -7887,7 +8076,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 124.46 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 124.46 128.27 0)
 			(effects
 				(font
@@ -7966,7 +8164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/173559-GRM155R62A104KE14D/C162178"
 			(at 54.61 147.32 0)
 			(effects
 				(font
@@ -7975,7 +8173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 54.61 147.32 0)
 			(effects
 				(font
@@ -7984,7 +8182,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 54.61 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 54.61 147.32 0)
 			(effects
 				(font
@@ -8152,6 +8359,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 146.05 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 146.05 40.64 0)
 			(effects
 				(font
@@ -8440,6 +8656,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 64.77 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3e4161a3-49c3-4588-b474-081d2daa15c5")
 		)
@@ -8529,6 +8754,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 110.49 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 110.49 168.91 0)
 			(effects
 				(font
@@ -8978,7 +9212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 177.4952 132.08 0)
 			(effects
 				(font
@@ -9005,7 +9239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 176.53 128.27 0)
 			(effects
 				(font
@@ -9014,7 +9248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 176.53 128.27 0)
 			(effects
 				(font
@@ -9023,7 +9257,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 176.53 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 176.53 128.27 0)
 			(effects
 				(font
@@ -9141,7 +9384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 155.9052 132.08 0)
 			(effects
 				(font
@@ -9168,7 +9411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 154.94 128.27 0)
 			(effects
 				(font
@@ -9177,7 +9420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 154.94 128.27 0)
 			(effects
 				(font
@@ -9186,7 +9429,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 154.94 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 154.94 128.27 0)
 			(effects
 				(font
@@ -9292,6 +9544,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 227.33 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4c0ca08-592c-426a-bb7f-ae12d23968ec")
 		)
@@ -9335,7 +9596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 145.7452 132.08 0)
 			(effects
 				(font
@@ -9362,7 +9623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/236748-GRM31CC72A475KE11L/C237304"
 			(at 144.78 128.27 0)
 			(effects
 				(font
@@ -9371,7 +9632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 144.78 128.27 0)
 			(effects
 				(font
@@ -9380,7 +9641,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM31CC72A475KE11L"
+			(at 144.78 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 144.78 128.27 0)
 			(effects
 				(font
@@ -9550,6 +9820,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 238.76 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9b3812c0-23d6-4122-996b-c8ea86911b9b")
 		)
@@ -9620,7 +9899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/173559-GRM155R62A104KE14D/C162178"
 			(at 99.06 33.02 0)
 			(effects
 				(font
@@ -9629,7 +9908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 99.06 33.02 0)
 			(effects
 				(font
@@ -9638,7 +9917,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 99.06 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 99.06 33.02 0)
 			(effects
 				(font

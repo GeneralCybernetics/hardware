@@ -3661,6 +3661,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 109.22 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "21"
 			(uuid "c4b0a543-c2b7-4a6f-9f80-6c2ef6b7a348")
 		)
@@ -3889,6 +3898,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 182.88 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dcc445b6-f7a8-4a26-97e6-8d9b90a9d5fe")
 		)
@@ -3978,6 +3996,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 111.76 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 111.76 71.12 0)
 			(effects
 				(font
@@ -4402,7 +4429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/66200211122/4322246"
 			(at 180.34 121.92 0)
 			(effects
 				(font
@@ -4411,7 +4438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Würth Elektronik"
 			(at 180.34 121.92 0)
 			(effects
 				(font
@@ -4420,7 +4447,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "66200211122"
+			(at 180.34 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 180.34 121.92 0)
 			(effects
 				(font
@@ -4627,7 +4663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071K5L/C155737"
 			(at 104.14 129.54 0)
 			(effects
 				(font
@@ -4636,7 +4672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 104.14 129.54 0)
 			(effects
 				(font
@@ -4645,7 +4681,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0201FR-071K5L"
+			(at 104.14 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 104.14 129.54 0)
 			(effects
 				(font
@@ -4743,6 +4788,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 189.23 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 189.23 135.89 0)
 			(effects
 				(font
@@ -4914,6 +4968,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 161.29 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a04db35e-3ecd-40f4-a68a-e04c268ac85e")
 		)
@@ -5047,7 +5110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071K5L/C155737"
 			(at 104.14 124.46 0)
 			(effects
 				(font
@@ -5056,7 +5119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 104.14 124.46 0)
 			(effects
 				(font
@@ -5065,7 +5128,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0201FR-071K5L"
+			(at 104.14 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 104.14 124.46 0)
 			(effects
 				(font
@@ -5143,7 +5215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/30018-CL05A105KO5NNNC/C29266"
 			(at 102.87 99.06 0)
 			(effects
 				(font
@@ -5152,7 +5224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 102.87 99.06 0)
 			(effects
 				(font
@@ -5161,7 +5233,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL05A105KO5NNNC"
+			(at 102.87 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 102.87 99.06 0)
 			(effects
 				(font
@@ -5371,7 +5452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/66200211122/4322246"
 			(at 157.48 66.04 0)
 			(effects
 				(font
@@ -5380,7 +5461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Würth Elektronik"
 			(at 157.48 66.04 0)
 			(effects
 				(font
@@ -5389,7 +5470,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "66200211122"
+			(at 157.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 157.48 66.04 0)
 			(effects
 				(font
@@ -5467,7 +5557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/30018-CL05A105KO5NNNC/C29266"
 			(at 182.88 111.76 0)
 			(effects
 				(font
@@ -5476,7 +5566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 182.88 111.76 0)
 			(effects
 				(font
@@ -5485,7 +5575,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL05A105KO5NNNC"
+			(at 182.88 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 182.88 111.76 0)
 			(effects
 				(font
@@ -5654,6 +5753,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 92.71 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "33f08ed7-53f4-4d30-ac0e-d6bb2204dce9")
 		)
@@ -5750,6 +5858,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 175.26 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db30c5a0-83af-4d49-8702-df0279916484")
 		)
@@ -5836,6 +5953,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 104.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 104.14 121.92 0)
 			(effects
 				(font

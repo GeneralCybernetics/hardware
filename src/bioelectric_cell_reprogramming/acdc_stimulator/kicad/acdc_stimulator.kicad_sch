@@ -13238,7 +13238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/30018-CL05A105KO5NNNC/C29266"
 			(at 34.29 181.61 0)
 			(effects
 				(font
@@ -13247,7 +13247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 34.29 181.61 0)
 			(effects
 				(font
@@ -13256,7 +13256,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL05A105KO5NNNC"
+			(at 34.29 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 34.29 181.61 0)
 			(effects
 				(font
@@ -13427,6 +13436,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 224.79 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2fe10a48-c1d9-47ca-8fe5-65c549e407de")
 		)
@@ -13588,6 +13606,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 208.28 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B6"
 			(uuid "1e236579-9ac1-4bac-8ec7-493096cd32b3")
 		)
@@ -13713,7 +13740,7 @@
 		(at 175.26 118.11 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13727,7 +13754,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.5"
+		(property "Value" "0"
 			(at 176.53 119.3799 0)
 			(effects
 				(font
@@ -13782,6 +13809,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 175.26 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 175.26 118.11 0)
 			(effects
 				(font
@@ -13860,7 +13896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/30018-CL05A105KO5NNNC/C29266"
 			(at 143.51 163.83 0)
 			(effects
 				(font
@@ -13869,7 +13905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 143.51 163.83 0)
 			(effects
 				(font
@@ -13878,7 +13914,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL05A105KO5NNNC"
+			(at 143.51 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 143.51 163.83 0)
 			(effects
 				(font
@@ -14050,6 +14095,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 24.13 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e45efb44-8b66-4f91-804e-cf7f35b67bcc")
 		)
@@ -14137,6 +14191,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 60.96 72.39 0)
 			(effects
 				(font
@@ -14254,7 +14317,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 46.6852 220.98 0)
 			(effects
 				(font
@@ -14281,7 +14344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/358687-GRM0335C1H300GA01D/C384981"
 			(at 45.72 217.17 0)
 			(effects
 				(font
@@ -14290,7 +14353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 45.72 217.17 0)
 			(effects
 				(font
@@ -14299,7 +14362,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM0335C1H300GA01D"
+			(at 45.72 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 45.72 217.17 0)
 			(effects
 				(font
@@ -14460,6 +14532,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 26.67 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 26.67 36.83 0)
 			(effects
 				(font
@@ -14696,6 +14777,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 382.27 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
@@ -14778,6 +14868,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 179.07 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 179.07 189.23 0)
 			(effects
 				(font
@@ -14942,6 +15041,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 110.49 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 110.49 219.71 0)
 			(effects
 				(font
@@ -15298,6 +15406,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 158.75 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3584da5-6ddd-4c09-939e-aa42508b62db")
 		)
@@ -15371,7 +15488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/samtec-inc/IPL1-102-01-L-S-K/3728693"
 			(at 331.47 223.52 0)
 			(effects
 				(font
@@ -15380,7 +15497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 331.47 223.52 0)
 			(effects
 				(font
@@ -15389,7 +15506,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "IPL1-102-01-L-S-K"
+			(at 331.47 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 331.47 223.52 0)
 			(effects
 				(font
@@ -15505,7 +15631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 185.42 196.088 90)
 			(effects
 				(font
@@ -15532,7 +15658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RC0201JR075K1L/C163490"
 			(at 185.42 194.31 0)
 			(effects
 				(font
@@ -15541,7 +15667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 185.42 194.31 0)
 			(effects
 				(font
@@ -15550,7 +15676,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0201JR-075K1L"
+			(at 185.42 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 185.42 194.31 0)
 			(effects
 				(font
@@ -15719,6 +15854,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 334.01 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5e567808-e4b6-414d-8dad-9271a0c89dc5")
 		)
@@ -15816,6 +15960,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 76.2 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "612fd4b4-c8c8-42e1-b9ca-b7b122d3ff27")
 		)
@@ -15902,6 +16055,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 53.34 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 53.34 207.01 0)
 			(effects
 				(font
@@ -16005,6 +16167,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 67.31 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 67.31 165.1 0)
 			(effects
 				(font
@@ -16169,6 +16340,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 58.42 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 58.42 190.5 0)
 			(effects
 				(font
@@ -16540,6 +16720,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 382.27 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
@@ -16740,7 +16929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
 			(at 102.87 96.52 0)
 			(effects
 				(font
@@ -16749,7 +16938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies "
 			(at 102.87 96.52 0)
 			(effects
 				(font
@@ -16758,7 +16947,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSZ096N10LS5ATMA1"
+			(at 102.87 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 102.87 96.52 0)
 			(effects
 				(font
@@ -16872,6 +17070,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 154.94 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 154.94 160.02 0)
 			(effects
 				(font
@@ -17017,7 +17224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/6133-CL21A226MQQNNNE/C5674"
 			(at 278.13 33.02 0)
 			(effects
 				(font
@@ -17026,7 +17233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 278.13 33.02 0)
 			(effects
 				(font
@@ -17035,7 +17242,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL21A226MQQNNNE"
+			(at 278.13 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 278.13 33.02 0)
 			(effects
 				(font
@@ -17085,7 +17301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 185.42 198.628 90)
 			(effects
 				(font
@@ -17112,7 +17328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RC0201JR075K1L/C163490"
 			(at 185.42 196.85 0)
 			(effects
 				(font
@@ -17121,7 +17337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 185.42 196.85 0)
 			(effects
 				(font
@@ -17130,7 +17346,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0201JR-075K1L"
+			(at 185.42 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 185.42 196.85 0)
 			(effects
 				(font
@@ -17226,6 +17451,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 266.7 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 266.7 26.67 0)
 			(effects
 				(font
@@ -17334,6 +17568,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 140.97 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be2552bd-cd9c-4b84-b3ab-8bc1c832d38f")
 		)
@@ -17404,7 +17647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691"
 			(at 176.53 68.58 0)
 			(effects
 				(font
@@ -17413,7 +17656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 176.53 68.58 0)
 			(effects
 				(font
@@ -17422,7 +17665,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL10A106MQ8NNNC"
+			(at 176.53 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 176.53 68.58 0)
 			(effects
 				(font
@@ -17517,7 +17769,7 @@
 		(at 166.37 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17530,7 +17782,7 @@
 				)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "0"
 			(at 166.37 105.41 90)
 			(effects
 				(font
@@ -17584,6 +17836,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 166.37 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 166.37 110.49 0)
 			(effects
 				(font
@@ -17729,7 +17990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/30018-CL05A105KO5NNNC/C29266"
 			(at 163.83 165.1 0)
 			(effects
 				(font
@@ -17738,7 +17999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 163.83 165.1 0)
 			(effects
 				(font
@@ -17747,7 +18008,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL05A105KO5NNNC"
+			(at 163.83 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 163.83 165.1 0)
 			(effects
 				(font
@@ -17976,6 +18246,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 85.09 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 85.09 165.1 0)
 			(effects
 				(font
@@ -18410,6 +18689,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 287.02 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "88e793b4-6eac-457a-a40e-58f687c52d4b")
 		)
@@ -18744,7 +19032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61E103KA12D/C76938"
 			(at 133.35 163.83 0)
 			(effects
 				(font
@@ -18753,7 +19041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 133.35 163.83 0)
 			(effects
 				(font
@@ -18762,7 +19050,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM033R61E103KA12D"
+			(at 133.35 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 133.35 163.83 0)
 			(effects
 				(font
@@ -18844,7 +19141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/samtec-inc/IPL1-102-01-L-S-K/3728693"
 			(at 321.31 173.99 0)
 			(effects
 				(font
@@ -18853,7 +19150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 321.31 173.99 0)
 			(effects
 				(font
@@ -18862,7 +19159,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "IPL1-102-01-L-S-K"
+			(at 321.31 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 321.31 173.99 0)
 			(effects
 				(font
@@ -18941,7 +19247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/6133-CL21A226MQQNNNE/C5674"
 			(at 252.73 33.02 0)
 			(effects
 				(font
@@ -18950,7 +19256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 252.73 33.02 0)
 			(effects
 				(font
@@ -18959,7 +19265,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL21A226MQQNNNE"
+			(at 252.73 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 252.73 33.02 0)
 			(effects
 				(font
@@ -19054,6 +19369,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 26.67 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 26.67 30.48 0)
 			(effects
 				(font
@@ -19220,6 +19544,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 118.11 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -19474,7 +19807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61E103KA12D/C76938"
 			(at 39.37 30.48 0)
 			(effects
 				(font
@@ -19483,7 +19816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 39.37 30.48 0)
 			(effects
 				(font
@@ -19492,7 +19825,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM033R61E103KA12D"
+			(at 39.37 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 39.37 30.48 0)
 			(effects
 				(font
@@ -19591,6 +19933,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 308.61 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 308.61 220.98 0)
 			(effects
 				(font
@@ -19754,6 +20105,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 26.67 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 26.67 43.18 0)
 			(effects
 				(font
@@ -19981,7 +20341,7 @@
 		(at 361.95 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19995,7 +20355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "2.5"
+		(property "Value" "0"
 			(at 361.95 95.25 90)
 			(effects
 				(font
@@ -20049,6 +20409,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 361.95 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 361.95 97.79 0)
 			(effects
 				(font
@@ -20144,6 +20513,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 254 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -20288,7 +20666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/173559-GRM155R62A104KE14D/C162178"
 			(at 163.83 68.58 0)
 			(effects
 				(font
@@ -20297,7 +20675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 163.83 68.58 0)
 			(effects
 				(font
@@ -20306,7 +20684,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 163.83 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 163.83 68.58 0)
 			(effects
 				(font
@@ -20542,6 +20929,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 49.53 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b059e224-9b43-4fd2-a668-beb0d372bc02")
 		)
@@ -20612,7 +21008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Altech/30.602-BLUE?qs=2fvx9pefDzbP2w4iMOUUhw%3D%3D"
 			(at 220.98 35.56 0)
 			(effects
 				(font
@@ -20621,7 +21017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Altech"
 			(at 220.98 35.56 0)
 			(effects
 				(font
@@ -20630,7 +21026,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" " 30.602/BLUE"
+			(at 220.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 220.98 35.56 0)
 			(effects
 				(font
@@ -20726,7 +21131,7 @@
 		(at 370.84 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20740,7 +21145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "0"
 			(at 374.65 115.5699 0)
 			(effects
 				(font
@@ -20795,6 +21200,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 370.84 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 370.84 114.3 0)
 			(effects
 				(font
@@ -21033,6 +21447,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 146.05 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f9d25de-5ec3-4052-80ab-48ad36c72c4d")
 		)
@@ -21122,6 +21545,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "GRM155R62A104KE14D"
+			(at 95.25 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 95.25 165.1 0)
 			(effects
 				(font
@@ -21297,6 +21729,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 40.64 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "53b17cb7-e2c3-478b-a9d1-ff043c317896")
 		)
@@ -21418,6 +21859,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 252.73 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "09944ce0-9cec-48d3-84f1-6270a43c012b")
 		)
@@ -21487,7 +21937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691"
 			(at 49.53 165.1 0)
 			(effects
 				(font
@@ -21496,7 +21946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 49.53 165.1 0)
 			(effects
 				(font
@@ -21505,7 +21955,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL10A106MQ8NNNC"
+			(at 49.53 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 49.53 165.1 0)
 			(effects
 				(font
@@ -21534,7 +21993,7 @@
 		(at 361.95 105.41 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21547,7 +22006,7 @@
 				)
 			)
 		)
-		(property "Value" "2.5"
+		(property "Value" "0"
 			(at 361.95 102.87 90)
 			(effects
 				(font
@@ -21601,6 +22060,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 361.95 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 361.95 105.41 0)
 			(effects
 				(font
@@ -21852,7 +22320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 64.4652 220.98 0)
 			(effects
 				(font
@@ -21879,7 +22347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/358687-GRM0335C1H300GA01D/C384981"
 			(at 63.5 217.17 0)
 			(effects
 				(font
@@ -21888,7 +22356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 63.5 217.17 0)
 			(effects
 				(font
@@ -21897,7 +22365,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM0335C1H300GA01D"
+			(at 63.5 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 63.5 217.17 0)
 			(effects
 				(font
@@ -21996,6 +22473,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 275.59 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 275.59 168.91 0)
 			(effects
 				(font
@@ -22164,6 +22650,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" "NQ02WGJ0103TCE"
+			(at 24.13 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 24.13 105.41 0)
 			(effects
 				(font
@@ -22402,6 +22897,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 140.97 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f5f1f41-9640-4a24-9f36-d0cbbf32e08c")
 		)
@@ -22566,6 +23070,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 58.42 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4f8dde2-328f-4ddd-b00e-a6a61ceed68f")
 		)
@@ -22653,6 +23166,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 44.45 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 44.45 72.39 0)
 			(effects
 				(font
@@ -22822,6 +23344,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 170.18 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "60f3301a-6751-4803-ad39-c6b6d6cc200f")
 		)
@@ -22914,6 +23445,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 299.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 299.72 33.02 0)
 			(effects
 				(font
@@ -23150,6 +23690,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 146.05 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ff6d5214-2648-4594-83d6-9dd89019c43d")
 		)
@@ -23239,6 +23788,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 177.8 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 177.8 237.49 0)
 			(effects
 				(font
@@ -23460,7 +24018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Altech/30.602-BLUE?qs=2fvx9pefDzbP2w4iMOUUhw%3D%3D"
 			(at 378.46 100.33 0)
 			(effects
 				(font
@@ -23469,7 +24027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Altech"
 			(at 378.46 100.33 0)
 			(effects
 				(font
@@ -23478,7 +24036,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" " 30.602/BLUE"
+			(at 378.46 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 378.46 100.33 0)
 			(effects
 				(font
@@ -23583,6 +24150,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 24.13 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d0eba2fe-e083-419a-b7a9-08e22cf9baf9")
 		)
@@ -23675,6 +24251,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 167.64 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 167.64 204.47 0)
 			(effects
 				(font
@@ -23792,6 +24377,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 382.27 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
@@ -23875,6 +24469,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 382.27 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 382.27 35.56 0)
 			(effects
 				(font

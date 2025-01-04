@@ -704,6 +704,12 @@
           "label": "Distributor Link",
           "name": "Distributor Link",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
+          "show": false
         }
       ],
       "filter_string": "",

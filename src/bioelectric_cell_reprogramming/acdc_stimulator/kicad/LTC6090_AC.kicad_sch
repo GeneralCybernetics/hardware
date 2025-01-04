@@ -632,7 +632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/analog-devices-inc/LTC"
 			(at 115.57 81.28 0)
 			(effects
 				(font
@@ -641,7 +641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 115.57 81.28 0)
 			(effects
 				(font
@@ -650,7 +650,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "LTC6090CFE#PBF"
+			(at 115.57 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 115.57 81.28 0)
 			(effects
 				(font
