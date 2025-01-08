@@ -4769,7 +4769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Fosan-FVH050ADA100M0554/C7469956"
 			(at 189.23 135.89 0)
 			(effects
 				(font
@@ -4778,7 +4778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FOSAN"
 			(at 189.23 135.89 0)
 			(effects
 				(font
@@ -4787,7 +4787,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "FVH050ADA100M0554"
 			(at 189.23 135.89 0)
 			(effects
 				(font

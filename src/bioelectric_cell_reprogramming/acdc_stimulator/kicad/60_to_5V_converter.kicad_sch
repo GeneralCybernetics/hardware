@@ -2821,7 +2821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Bourns/SRP1270-100M?qs=s%252BX%2FYkvGCpE5rFNaoMUDIw%3D%3D"
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Bourns-SRP1270100M/C2042024"
 			(at 173.99 85.09 0)
 			(effects
 				(font
@@ -2830,7 +2830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Bourns"
+		(property "Manufacturer" "BOURNS"
 			(at 173.99 85.09 0)
 			(effects
 				(font
@@ -3170,7 +3170,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "42.5k"
+		(property "Value" "17.8k"
 			(at 202.692 93.98 0)
 			(effects
 				(font

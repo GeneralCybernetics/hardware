@@ -14513,7 +14513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Fosan-FVH050ADA100M0554/C7469956"
 			(at 26.67 36.83 0)
 			(effects
 				(font
@@ -14522,7 +14522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FOSAN"
 			(at 26.67 36.83 0)
 			(effects
 				(font
@@ -14531,7 +14531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "FVH050ADA100M0554"
 			(at 26.67 36.83 0)
 			(effects
 				(font
@@ -20902,7 +20902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/ck-KMR231GLFS/C99271"
 			(at 49.53 186.69 0)
 			(effects
 				(font
@@ -20911,7 +20911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "C&K"
 			(at 49.53 186.69 0)
 			(effects
 				(font
@@ -20920,7 +20920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "KMR231GLFS"
 			(at 49.53 186.69 0)
 			(effects
 				(font
@@ -20929,7 +20929,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" ""
+		(property "JLCPCB Part #" "C99271"
 			(at 49.53 186.69 0)
 			(effects
 				(font
