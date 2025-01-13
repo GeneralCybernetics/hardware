@@ -33,3 +33,8 @@ fp-info-cache
 
 # macos malware
 .DS_Store
+
+# symlinked tables
+src/**/sym-lib-table
+src/**/fp-lib-table
+
