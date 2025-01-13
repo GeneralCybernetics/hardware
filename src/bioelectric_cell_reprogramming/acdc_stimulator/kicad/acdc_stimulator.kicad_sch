@@ -16929,7 +16929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Infineon-Technologies/BSZ096N10LS5ATMA1?qs=Qyx3PVvfm65D5XP%2FZXFciQ%3D%3D"
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/InfineonTechnologies-BSZ096N10LS5/C534695"
 			(at 102.87 96.52 0)
 			(effects
 				(font
@@ -16947,7 +16947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "BSZ096N10LS5ATMA1"
+		(property "Manufacturer Part Number" "BSZ096N10LS5"
 			(at 102.87 96.52 0)
 			(effects
 				(font
