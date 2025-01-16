@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5160BRJZ10-RL7
+D 256-Position SPI-Compatible Digital Potentiometer
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5160.pdf
+$ENDCMP
+#
+#End Doc Library
