@@ -2627,12 +2627,6 @@
 		(uuid "798a6f54-d435-423c-96d0-0bb1b8eb2015")
 	)
 	(junction
-		(at 99.06 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7b8d7479-18c2-4a0a-b0b4-f494767097a4")
-	)
-	(junction
 		(at 154.94 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2805,12 +2799,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e81a9512-343d-4496-b753-0333e62c1589")
-	)
-	(junction
-		(at 99.06 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9075a14-45a0-479e-b065-58da089e2893")
 	)
 	(junction
 		(at 227.33 110.49)
@@ -3048,7 +3036,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 163.83) (xy 99.06 163.83)
+			(xy 90.17 163.83) (xy 110.49 163.83)
 		)
 		(stroke
 			(width 0)
@@ -3175,16 +3163,6 @@
 			(type default)
 		)
 		(uuid "29b968ac-b718-4bd6-94c4-2675d3413b51")
-	)
-	(wire
-		(pts
-			(xy 99.06 172.72) (xy 99.06 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29bf243f-9f34-439a-80b4-80a279a45010")
 	)
 	(wire
 		(pts
@@ -3838,7 +3816,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 175.26) (xy 110.49 175.26)
+			(xy 90.17 175.26) (xy 110.49 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4018,7 +3996,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 29.21) (xy 250.19 29.21)
+			(xy 252.73 29.21) (xy 260.35 29.21)
 		)
 		(stroke
 			(width 0)
@@ -4228,16 +4206,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 175.26) (xy 99.06 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b767f6ef-9a2a-4a43-8cb2-bc48f1af7178")
-	)
-	(wire
-		(pts
 			(xy 227.33 110.49) (xy 227.33 123.19)
 		)
 		(stroke
@@ -4268,17 +4236,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 163.83) (xy 99.06 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c02248dd-1db4-488f-a270-61639542eed3")
-	)
-	(wire
-		(pts
-			(xy 250.19 29.21) (xy 250.19 31.75)
+			(xy 260.35 29.21) (xy 260.35 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4368,6 +4326,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 29.21) (xy 245.11 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7aaa9b1-d09a-4333-bdf1-685ffa6db4fb")
+	)
+	(wire
+		(pts
 			(xy 149.86 81.28) (xy 146.05 81.28)
 		)
 		(stroke
@@ -4445,16 +4413,6 @@
 			(type default)
 		)
 		(uuid "ce8284f6-37e9-4fd0-854e-52de6e96767b")
-	)
-	(wire
-		(pts
-			(xy 99.06 163.83) (xy 110.49 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf1c4e03-fd3b-48bb-b669-3b6dd6c1f7df")
 	)
 	(wire
 		(pts
@@ -4705,6 +4663,16 @@
 			(type default)
 		)
 		(uuid "fa7ab15f-e2da-4302-a294-651a86da3e58")
+	)
+	(text "Vout = -0.8(1+R1/R2)\n"
+		(exclude_from_sim no)
+		(at 247.904 41.656 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "340aafa5-16b5-4463-a13a-1fa3049ebf8b")
 	)
 	(label "SW"
 		(at 99.06 83.82 0)
@@ -5245,7 +5213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Koa_SpeerElec-RK73H1ETTP4991F/C173338"
 			(at 240.03 58.42 0)
 			(effects
 				(font
@@ -5254,7 +5222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KOA Speer Elec"
 			(at 240.03 58.42 0)
 			(effects
 				(font
@@ -5263,7 +5231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RK73H1ETTP4991F"
 			(at 240.03 58.42 0)
 			(effects
 				(font
@@ -5497,7 +5465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 240.9952 71.12 0)
 			(effects
 				(font
@@ -5524,7 +5492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/25060-0805B153K101NT/C24320"
 			(at 240.03 67.31 0)
 			(effects
 				(font
@@ -5533,7 +5501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 240.03 67.31 0)
 			(effects
 				(font
@@ -5542,7 +5510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0805B153K101NT"
 			(at 240.03 67.31 0)
 			(effects
 				(font
@@ -5972,7 +5940,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10"
 			(at 211.7852 96.52 0)
 			(effects
 				(font
@@ -5999,7 +5967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Lelon-VEJ470M2ATR1010/C134777"
 			(at 210.82 92.71 0)
 			(effects
 				(font
@@ -6008,7 +5976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Lelon"
 			(at 210.82 92.71 0)
 			(effects
 				(font
@@ -6017,7 +5985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "VEJ470M2ATR-1010"
 			(at 210.82 92.71 0)
 			(effects
 				(font
@@ -6045,6 +6013,101 @@
 			(project ""
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/a3eb3db4-c7b2-4849-bf82-00fa117eef72"
 					(reference "C38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 238.76 29.21 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "403ecc1a-3668-455f-b2aa-75723f810ae8")
+		(property "Reference" "R20"
+			(at 238.76 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "370k"
+			(at 238.76 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 238.76 30.988 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 238.76 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 238.76 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Vo-SCR1206J370K/C3018094"
+			(at 238.76 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "VO"
+			(at 238.76 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SCR1206J370K"
+			(at 238.76 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1836434-6167-409a-8441-6e6fa415c94c")
+		)
+		(pin "2"
+			(uuid "2a313758-7237-42c5-b3ce-c7b4e2fc526f")
+		)
+		(instances
+			(project ""
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/a3eb3db4-c7b2-4849-bf82-00fa117eef72"
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -6676,112 +6739,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 99.06 168.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d7052f3-8e39-4867-9af9-0936ac8607e2")
-		(property "Reference" "C28"
-			(at 102.87 167.6399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1n"
-			(at 102.87 170.1799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 100.0252 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" ""
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" ""
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "23dbf6d5-5d62-4736-bfc5-dbc1b477c5ac")
-		)
-		(pin "1"
-			(uuid "4ddea98b-30cd-4772-9274-a03975fdb9ca")
-		)
-		(instances
-			(project ""
-				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/a3eb3db4-c7b2-4849-bf82-00fa117eef72"
-					(reference "C28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 217.17 127 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7111,7 +7068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Ralec-RTT033013FTP/C103522"
 			(at 173.99 50.8 0)
 			(effects
 				(font
@@ -7120,7 +7077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "RALEC"
 			(at 173.99 50.8 0)
 			(effects
 				(font
@@ -7129,7 +7086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RTT033013FTP"
 			(at 173.99 50.8 0)
 			(effects
 				(font
@@ -7215,7 +7172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RC0603FR07100KL/C14675"
 			(at 160.02 73.66 0)
 			(effects
 				(font
@@ -7224,7 +7181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 160.02 73.66 0)
 			(effects
 				(font
@@ -7233,7 +7190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07100KL"
 			(at 160.02 73.66 0)
 			(effects
 				(font
@@ -7638,7 +7595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 228.2952 64.77 0)
 			(effects
 				(font
@@ -7665,7 +7622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/38435-0805CG101J101NT/C37456"
 			(at 227.33 60.96 0)
 			(effects
 				(font
@@ -7674,7 +7631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 227.33 60.96 0)
 			(effects
 				(font
@@ -7683,7 +7640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0805CG101J101NT"
 			(at 227.33 60.96 0)
 			(effects
 				(font
@@ -7949,7 +7906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/InfineonTechnologies-IPD320N20N3G/C501515"
 			(at 257.81 123.19 0)
 			(effects
 				(font
@@ -7958,7 +7915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies"
 			(at 257.81 123.19 0)
 			(effects
 				(font
@@ -7967,7 +7924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "IPD320N20N3G"
 			(at 257.81 123.19 0)
 			(effects
 				(font
@@ -8340,7 +8297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/AnalogDevices-LTC3896EFEPBF/C687039"
 			(at 146.05 40.64 0)
 			(effects
 				(font
@@ -8349,7 +8306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices"
 			(at 146.05 40.64 0)
 			(effects
 				(font
@@ -8358,7 +8315,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "LTC3896EFE#PBF"
 			(at 146.05 40.64 0)
 			(effects
 				(font
@@ -8629,7 +8586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Bourns-SRR0745A470M/C17667599"
 			(at 64.77 177.8 0)
 			(effects
 				(font
@@ -8638,7 +8595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "BOURNS"
 			(at 64.77 177.8 0)
 			(effects
 				(font
@@ -8647,7 +8604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "SRR0745A-470M"
 			(at 64.77 177.8 0)
 			(effects
 				(font
@@ -8708,7 +8665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 108.712 168.91 90)
 			(effects
 				(font
@@ -8735,7 +8692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/RohmSemicon-PMR18EZPFU10L0/C308574"
 			(at 110.49 168.91 0)
 			(effects
 				(font
@@ -8744,7 +8701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "ROHM Semicon"
 			(at 110.49 168.91 0)
 			(effects
 				(font
@@ -8753,7 +8710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "PMR18EZPFU10L0"
 			(at 110.49 168.91 0)
 			(effects
 				(font
@@ -8854,6 +8811,101 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 248.92 29.21 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c55ec0f7-85ad-4fac-abd9-f5e968cae0c0")
+		(property "Reference" "R34"
+			(at 248.92 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "370k"
+			(at 248.92 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 248.92 30.988 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Vo-SCR1206J370K/C3018094"
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "VO"
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SCR1206J370K"
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e58e4891-ba74-41e2-b197-5013e67ae6b0")
+		)
+		(pin "2"
+			(uuid "09e152b6-6582-48c6-aa7f-5a2482585d74")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/a3eb3db4-c7b2-4849-bf82-00fa117eef72"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:-48V")
 		(at 237.49 152.4 180)
 		(unit 1)
@@ -8921,7 +8973,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 250.19 31.75 0)
+		(at 260.35 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8930,7 +8982,7 @@
 		(fields_autoplaced yes)
 		(uuid "c972bf33-7727-4991-a371-407a6f59a6ec")
 		(property "Reference" "#PWR068"
-			(at 250.19 38.1 0)
+			(at 260.35 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8939,7 +8991,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 250.19 36.83 0)
+			(at 260.35 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8947,7 +8999,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 31.75 0)
+			(at 260.35 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8956,7 +9008,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 31.75 0)
+			(at 260.35 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8965,7 +9017,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 250.19 31.75 0)
+			(at 260.35 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9735,110 +9787,6 @@
 			(project ""
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/a3eb3db4-c7b2-4849-bf82-00fa117eef72"
 					(reference "#PWR063")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 238.76 29.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f935b1db-1a4a-40bc-a3cd-f42efc707150")
-		(property "Reference" "R20"
-			(at 238.76 22.86 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "740k"
-			(at 238.76 25.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 238.76 30.988 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 238.76 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 238.76 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 238.76 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 238.76 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" ""
-			(at 238.76 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" ""
-			(at 238.76 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9b3812c0-23d6-4122-996b-c8ea86911b9b")
-		)
-		(pin "1"
-			(uuid "eb36176c-5836-4eaf-a36d-e834dc01feb5")
-		)
-		(instances
-			(project ""
-				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4/a3eb3db4-c7b2-4849-bf82-00fa117eef72"
-					(reference "R20")
 					(unit 1)
 				)
 			)

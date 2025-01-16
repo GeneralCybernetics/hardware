@@ -3634,7 +3634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/TexasInstruments-DRV8873HPWPR/C2150604"
 			(at 109.22 101.6 0)
 			(effects
 				(font
@@ -3643,7 +3643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 109.22 101.6 0)
 			(effects
 				(font
@@ -3652,7 +3652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "DRV8873HPWPR"
 			(at 109.22 101.6 0)
 			(effects
 				(font
@@ -3871,7 +3871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/MurataElectronics-GRM155R71C473KA01D/C77012"
 			(at 182.88 102.87 0)
 			(effects
 				(font
@@ -3880,7 +3880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 182.88 102.87 0)
 			(effects
 				(font
@@ -3889,7 +3889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM155R71C473KA01D"
 			(at 182.88 102.87 0)
 			(effects
 				(font
@@ -3977,7 +3977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/InfineonTechnologies-BSZ070N08LS5/C534678"
 			(at 111.76 71.12 0)
 			(effects
 				(font
@@ -3986,7 +3986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Infineon Technologies"
 			(at 111.76 71.12 0)
 			(effects
 				(font
@@ -3995,7 +3995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BSZ070N08LS5"
 			(at 111.76 71.12 0)
 			(effects
 				(font
@@ -5726,7 +5726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Ralec-RTT01103JTH/C102690"
 			(at 92.71 127 0)
 			(effects
 				(font
@@ -5735,7 +5735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "RALEC"
 			(at 92.71 127 0)
 			(effects
 				(font
@@ -5744,7 +5744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RTT01103JTH"
 			(at 92.71 127 0)
 			(effects
 				(font
@@ -5934,7 +5934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/LizElec-CR0201FH1001G/C100125"
 			(at 104.14 121.92 0)
 			(effects
 				(font
@@ -5943,7 +5943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "LIZ Elec"
 			(at 104.14 121.92 0)
 			(effects
 				(font
@@ -5952,7 +5952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CR0201FH1001G"
 			(at 104.14 121.92 0)
 			(effects
 				(font

@@ -13552,7 +13552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11"
 			(at 204.47 204.47 0)
 			(effects
 				(font
@@ -13579,7 +13579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/XkbConnection-U262_161N4BVC11/C319148"
 			(at 208.28 204.47 0)
 			(effects
 				(font
@@ -13588,7 +13588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "XKB Connection"
 			(at 208.28 204.47 0)
 			(effects
 				(font
@@ -13597,7 +13597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "U262-161N-4BVC11"
 			(at 208.28 204.47 0)
 			(effects
 				(font
@@ -14172,7 +14172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/18087-0805W8F1804T5E/C17399"
 			(at 60.96 72.39 0)
 			(effects
 				(font
@@ -14181,7 +14181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 60.96 72.39 0)
 			(effects
 				(font
@@ -14190,7 +14190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0805W8F1804T5E"
 			(at 60.96 72.39 0)
 			(effects
 				(font
@@ -14308,7 +14308,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "10p"
 			(at 49.53 218.4399 0)
 			(effects
 				(font
@@ -14849,7 +14849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/21501-SMD0603P050TF/C20789"
 			(at 179.07 189.23 0)
 			(effects
 				(font
@@ -14858,7 +14858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "RUILON(Shenzhen Ruilongyuan Elec)"
 			(at 179.07 189.23 0)
 			(effects
 				(font
@@ -14867,7 +14867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "SMD0603P050TF"
 			(at 179.07 189.23 0)
 			(effects
 				(font
@@ -15022,7 +15022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Stmicroelectronics-STM32G473RCT6/C529361"
 			(at 110.49 219.71 0)
 			(effects
 				(font
@@ -15031,7 +15031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 110.49 219.71 0)
 			(effects
 				(font
@@ -15040,7 +15040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "STM32G473RCT6"
 			(at 110.49 219.71 0)
 			(effects
 				(font
@@ -16036,7 +16036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/TxcCorp-7M16000024/C90905"
 			(at 53.34 207.01 0)
 			(effects
 				(font
@@ -16045,7 +16045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TXC Corp"
 			(at 53.34 207.01 0)
 			(effects
 				(font
@@ -16054,7 +16054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "7M16000024"
 			(at 53.34 207.01 0)
 			(effects
 				(font
@@ -17051,7 +17051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/MurataElectronics-BLM18PG121SN1D/C14709"
 			(at 154.94 160.02 0)
 			(effects
 				(font
@@ -17060,7 +17060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 154.94 160.02 0)
 			(effects
 				(font
@@ -17069,7 +17069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "BLM18PG121SN1D"
 			(at 154.94 160.02 0)
 			(effects
 				(font
@@ -17432,7 +17432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186"
 			(at 266.7 26.67 0)
 			(effects
 				(font
@@ -17441,7 +17441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" " Advanced Monolithic Systems"
 			(at 266.7 26.67 0)
 			(effects
 				(font
@@ -17450,7 +17450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "AMS1117-3.3"
 			(at 266.7 26.67 0)
 			(effects
 				(font
@@ -18662,7 +18662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/EverlightElec-16_213SDRC_S530_A3TR8/C71911"
 			(at 287.02 26.67 0)
 			(effects
 				(font
@@ -18671,7 +18671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Everlight Elec"
 			(at 287.02 26.67 0)
 			(effects
 				(font
@@ -18680,7 +18680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "16-213SDRC/S530-A3/TR8"
 			(at 287.02 26.67 0)
 			(effects
 				(font
@@ -19914,7 +19914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Onsemi-NDT3055L/C274612"
 			(at 308.61 220.98 0)
 			(effects
 				(font
@@ -19923,7 +19923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 308.61 220.98 0)
 			(effects
 				(font
@@ -19932,7 +19932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "NDT3055L"
 			(at 308.61 220.98 0)
 			(effects
 				(font
@@ -20494,7 +20494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RT0603BRD07172KL/C861162"
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -20503,7 +20503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -20512,7 +20512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RT0603BRD07172KL"
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -21384,7 +21384,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "10k"
 			(at 148.59 104.1399 0)
 			(effects
 				(font
@@ -21393,7 +21393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 144.272 102.87 90)
 			(effects
 				(font
@@ -21420,7 +21420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Ever_OhmsTech-QR0805J10K0P05Z/C149881"
 			(at 146.05 102.87 0)
 			(effects
 				(font
@@ -21429,7 +21429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Ever Ohms Tech"
 			(at 146.05 102.87 0)
 			(effects
 				(font
@@ -21438,7 +21438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "QR0805J10K0P05Z"
 			(at 146.05 102.87 0)
 			(effects
 				(font
@@ -21702,7 +21702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/AnalogDevices-AD9833BRMZREEL7/C9652"
 			(at 40.64 40.64 0)
 			(effects
 				(font
@@ -21711,7 +21711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices"
 			(at 40.64 40.64 0)
 			(effects
 				(font
@@ -21720,7 +21720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "AD9833BRMZ-REEL7"
 			(at 40.64 40.64 0)
 			(effects
 				(font
@@ -22311,7 +22311,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "10p"
 			(at 67.31 218.4399 0)
 			(effects
 				(font
@@ -22454,7 +22454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Jst-S4B_PH_SM4_TB_LF_SN/C265102"
 			(at 275.59 168.91 0)
 			(effects
 				(font
@@ -22463,7 +22463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "JST"
 			(at 275.59 168.91 0)
 			(effects
 				(font
@@ -22472,7 +22472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "S4B-PH-SM4-TB(LF)(SN)"
 			(at 275.59 168.91 0)
 			(effects
 				(font
@@ -23147,7 +23147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/18202-0805W8F1004T5E/C17514"
 			(at 44.45 72.39 0)
 			(effects
 				(font
@@ -23156,7 +23156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 44.45 72.39 0)
 			(effects
 				(font
@@ -23165,7 +23165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0805W8F1004T5E"
 			(at 44.45 72.39 0)
 			(effects
 				(font
@@ -23317,7 +23317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/ck-PCM12SMTR/C221841"
 			(at 170.18 264.16 0)
 			(effects
 				(font
@@ -23326,7 +23326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "C&K"
 			(at 170.18 264.16 0)
 			(effects
 				(font
@@ -23335,7 +23335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "PCM12SMTR"
 			(at 170.18 264.16 0)
 			(effects
 				(font
@@ -23426,7 +23426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 299.72 33.02 0)
 			(effects
 				(font
@@ -23435,7 +23435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 299.72 33.02 0)
 			(effects
 				(font
@@ -23444,7 +23444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0402WGF1001TCE"
 			(at 299.72 33.02 0)
 			(effects
 				(font
@@ -23627,7 +23627,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100"
 			(at 148.59 119.3799 0)
 			(effects
 				(font
@@ -23636,7 +23636,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 144.272 118.11 90)
 			(effects
 				(font
@@ -23663,7 +23663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://jlcpcb.com/partdetail/259901-NQ02WGJ0103TCE/C270371"
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/18096-0805W8F1000T5E/C17408"
 			(at 146.05 118.11 0)
 			(effects
 				(font
@@ -23681,7 +23681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "NQ02WGJ0103TCE"
+		(property "Manufacturer Part Number" "0805W8F1000T5E"
 			(at 146.05 118.11 0)
 			(effects
 				(font
@@ -24232,7 +24232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Stmicroelectronics-USBLC62SC6/C7519"
 			(at 167.64 204.47 0)
 			(effects
 				(font
@@ -24241,7 +24241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 167.64 204.47 0)
 			(effects
 				(font
@@ -24250,7 +24250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "USBLC6-2SC6"
 			(at 167.64 204.47 0)
 			(effects
 				(font

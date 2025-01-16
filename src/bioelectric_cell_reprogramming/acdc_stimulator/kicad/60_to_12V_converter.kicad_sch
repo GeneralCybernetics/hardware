@@ -1938,6 +1938,26 @@
 		)
 		(uuid "fda8888d-4f07-4087-b0df-8b1ae24dd2f0")
 	)
+	(text "VFB (internal feedback voltage) is 1.8V when both Vprg are tied to SS\n"
+		(exclude_from_sim no)
+		(at 169.672 124.968 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "36641e72-3389-46cc-bdf9-ee765c889412")
+	)
+	(text "Vout = 1.8(1+R1/R2)"
+		(exclude_from_sim no)
+		(at 188.722 98.298 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "76cd5670-369c-400c-8344-631d98825d34")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 172.72 72.39 90)
@@ -2387,7 +2407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 202.438 107.95 90)
 			(effects
 				(font
@@ -2414,7 +2434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/23754-0603WAF3572T5E/C23027"
 			(at 200.66 107.95 0)
 			(effects
 				(font
@@ -2423,7 +2443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 200.66 107.95 0)
 			(effects
 				(font
@@ -2432,7 +2452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0603WAF3572T5E"
 			(at 200.66 107.95 0)
 			(effects
 				(font
@@ -3139,7 +3159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/26554-0603WAF2003T5E/C25811"
 			(at 200.66 90.17 0)
 			(effects
 				(font
@@ -3148,7 +3168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 200.66 90.17 0)
 			(effects
 				(font
@@ -3157,7 +3177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0603WAF2003T5E"
 			(at 200.66 90.17 0)
 			(effects
 				(font

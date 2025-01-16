@@ -1938,6 +1938,26 @@
 		)
 		(uuid "fd751f27-e890-4b66-b1ca-bfbc47d4ab95")
 	)
+	(text "VFB (internal feedback voltage) is 1.8V when both Vprg are tied to SS\n"
+		(exclude_from_sim no)
+		(at 170.942 125.476 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "67b0577d-9ec1-433d-a698-e2f627e2d714")
+	)
+	(text "Vout = 1.8(1+R1/R2)"
+		(exclude_from_sim no)
+		(at 192.024 98.298 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f79b9e51-d460-4783-bf14-c191226481dc")
+	)
 	(symbol
 		(lib_id "power:+12V")
 		(at 219.71 82.55 0)
@@ -3206,7 +3226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Resi-PTFR0402B17K8N9/C2693055"
 			(at 203.2 90.17 0)
 			(effects
 				(font
@@ -3215,7 +3235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "RESI"
 			(at 203.2 90.17 0)
 			(effects
 				(font
@@ -3224,7 +3244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "PTFR0402B17K8N9"
 			(at 203.2 90.17 0)
 			(effects
 				(font

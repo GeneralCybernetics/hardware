@@ -1938,6 +1938,26 @@
 		)
 		(uuid "fef9547c-809a-479e-b19e-0713056c8b4b")
 	)
+	(text "VFB (internal feedback voltage) is 1.8V when both Vprg are tied to SS\n"
+		(exclude_from_sim no)
+		(at 157.226 124.206 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3efa26d5-1485-4153-b419-063aa53bc5e1")
+	)
+	(text "Vout = 1.8(1+R1/R2)"
+		(exclude_from_sim no)
+		(at 177.8 99.568 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5cf7ab41-2257-4806-bbcf-5b419644c26d")
+	)
 	(symbol
 		(lib_id "SRP1270-100M:SRP1270-100M")
 		(at 162.56 82.55 0)
@@ -2689,7 +2709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Koa_SpeerElec-RK73B1ETTP822J/C131629"
 			(at 189.23 87.63 0)
 			(effects
 				(font
@@ -2698,7 +2718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KOA Speer Elec"
 			(at 189.23 87.63 0)
 			(effects
 				(font
@@ -2707,7 +2727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RK73B1ETTP822J"
 			(at 189.23 87.63 0)
 			(effects
 				(font
