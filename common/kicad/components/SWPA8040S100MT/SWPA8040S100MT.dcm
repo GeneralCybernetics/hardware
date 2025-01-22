@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SWPA8040S100MT
+D Power Inductors 10uH +/-20% 3.3A SMD,8.0x8.0x4.0mm RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SWPA8040S100MT_C37429.pdf
+$ENDCMP
+#
+#End Doc Library

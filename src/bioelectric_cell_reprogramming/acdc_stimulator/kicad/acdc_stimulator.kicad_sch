@@ -8143,6 +8143,12 @@
 		)
 	)
 	(junction
+		(at 232.41 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01056920-8a9d-4c9d-b050-c2a9d695b071")
+	)
+	(junction
 		(at 85.09 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8189,12 +8195,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "175fafcd-fede-4440-9ff6-26b6c97cffb3")
-	)
-	(junction
-		(at 278.13 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "17fba651-4d02-4ed6-b3ce-8ddb12e8c0ce")
 	)
 	(junction
 		(at 34.29 176.53)
@@ -8273,12 +8273,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e6e1db1-4499-487c-a9d5-4919fa95403c")
-	)
-	(junction
-		(at 231.14 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "529618a3-78fd-4e67-82b8-59ae4de7e418")
 	)
 	(junction
 		(at 110.49 41.91)
@@ -8375,6 +8369,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1a55471-25b7-472c-a1a5-6ebd3ba7bf66")
+	)
+	(junction
+		(at 274.32 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bba6499d-9808-409d-8fc9-8b2a0722dd52")
 	)
 	(junction
 		(at 323.85 173.99)
@@ -9084,6 +9084,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 109.22) (xy 240.03 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2639a6ab-0f33-426a-a2c1-18c9bf2d9d50")
+	)
+	(wire
+		(pts
 			(xy 53.34 200.66) (xy 48.26 200.66)
 		)
 		(stroke
@@ -9311,6 +9321,16 @@
 			(type default)
 		)
 		(uuid "37096086-e5c6-4c40-b912-c7449ea19a63")
+	)
+	(wire
+		(pts
+			(xy 250.19 90.17) (xy 256.54 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38519344-21c7-47e3-800c-4bb95379a7aa")
 	)
 	(wire
 		(pts
@@ -9644,16 +9664,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 90.17) (xy 278.13 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "550783a8-deb8-422d-93a6-6a21c4cdb4bc")
-	)
-	(wire
-		(pts
 			(xy 128.27 207.01) (xy 162.56 207.01)
 		)
 		(stroke
@@ -9954,7 +9964,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 90.17) (xy 250.19 90.17)
+			(xy 232.41 90.17) (xy 242.57 90.17)
 		)
 		(stroke
 			(width 0)
@@ -10244,6 +10254,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 90.17) (xy 274.32 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84eb4150-d9e8-464c-bbc8-ccab0ae5e095")
+	)
+	(wire
+		(pts
 			(xy 177.8 194.31) (xy 181.61 194.31)
 		)
 		(stroke
@@ -10271,16 +10291,6 @@
 			(type default)
 		)
 		(uuid "868c0bf1-579f-4855-aa07-dfdcfb20e76e")
-	)
-	(wire
-		(pts
-			(xy 231.14 109.22) (xy 240.03 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86eef542-39ee-4c2f-a26e-30c62e0b7f77")
 	)
 	(wire
 		(pts
@@ -10644,7 +10654,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 90.17) (xy 278.13 114.3)
+			(xy 274.32 90.17) (xy 274.32 114.3)
 		)
 		(stroke
 			(width 0)
@@ -10694,7 +10704,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 109.22) (xy 231.14 109.22)
+			(xy 228.6 109.22) (xy 232.41 109.22)
 		)
 		(stroke
 			(width 0)
@@ -11524,17 +11534,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 114.3) (xy 287.02 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e01ad871-9665-4028-9cb6-7f0c102c270a")
-	)
-	(wire
-		(pts
-			(xy 231.14 109.22) (xy 231.14 90.17)
+			(xy 232.41 109.22) (xy 232.41 90.17)
 		)
 		(stroke
 			(width 0)
@@ -11764,7 +11764,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 114.3) (xy 278.13 114.3)
+			(xy 266.7 114.3) (xy 274.32 114.3)
 		)
 		(stroke
 			(width 0)
@@ -11941,6 +11941,16 @@
 			(type default)
 		)
 		(uuid "fda3ce7c-daa8-4931-85d6-7ef99336df34")
+	)
+	(wire
+		(pts
+			(xy 274.32 114.3) (xy 287.02 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdf6cfe0-760c-43cc-9886-a29eb236fb74")
 	)
 	(wire
 		(pts
@@ -19774,7 +19784,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 254 90.17 90)
+		(at 246.38 90.17 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19783,15 +19793,15 @@
 		(fields_autoplaced yes)
 		(uuid "a5c6cd07-9906-4a91-b064-ff32fc731a53")
 		(property "Reference" "R14"
-			(at 254 83.82 90)
+			(at 246.38 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "172k"
-			(at 254 86.36 90)
+		(property "Value" "100k"
+			(at 246.38 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19799,7 +19809,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 254 91.948 90)
+			(at 246.38 91.948 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19808,7 +19818,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 90.17 0)
+			(at 246.38 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19817,7 +19827,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 254 90.17 0)
+			(at 246.38 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19825,8 +19835,8 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RT0603BRD07172KL/C861162"
-			(at 254 90.17 0)
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/Yageo-RC0603FR07100KL/C14675"
+			(at 246.38 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19835,7 +19845,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 254 90.17 0)
+			(at 246.38 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19843,8 +19853,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RT0603BRD07172KL"
-			(at 254 90.17 0)
+		(property "Manufacturer Part Number" "RC0603FR-07100KL"
+			(at 246.38 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19853,7 +19863,7 @@
 			)
 		)
 		(property "JLCPCB Part #" ""
-			(at 254 90.17 0)
+			(at 246.38 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23540,6 +23550,110 @@
 			(project ""
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 260.35 90.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "efad7c25-4e7f-4ca9-a850-0f3d82680ea1")
+		(property "Reference" "R35"
+			(at 260.35 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "72k"
+			(at 260.35 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 260.35 91.948 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 260.35 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 260.35 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://jlcpcb.com/partdetail/VikingTech-AR03BTCX7202N/C2828635"
+			(at 260.35 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Viking Tech"
+			(at 260.35 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "AR03BTCX7202N"
+			(at 260.35 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 260.35 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8bce8f7-8569-4698-b3da-1c2711df0347")
+		)
+		(pin "2"
+			(uuid "5fb2fbfe-9ddc-42b5-af4e-e5d7c34de31e")
+		)
+		(instances
+			(project "acdc_stimulator"
+				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
+					(reference "R35")
 					(unit 1)
 				)
 			)

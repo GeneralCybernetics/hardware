@@ -17,6 +17,7 @@
   (lib (name "AD9833BRM-REEL7")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/AD9833BRM-REEL7")(options "")(descr ""))
   (lib (name "ABM3B_8_000MHZ_B2_T")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/ABM3B_8_000MHZ_B2_T")(options "")(descr ""))
   (lib (name "MBR2100")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/MBR2100")(options "")(descr ""))
+  (lib (name "SWPA8040S100MT")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/SWPA8040S100MT")(options "")(descr ""))
   (lib (name "DRV8873HPWPR.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/DRV8873HPWPR/DRV8873HPWPR.pretty")(options "")(descr ""))
   (lib (name "highdriver4_micropump_driver.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/highdriver4_micropump_driver.pretty")(options "")(descr ""))
   (lib (name "STM32G071RBT3")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/STM32G071RBT3")(options "")(descr ""))
@@ -34,4 +35,5 @@
   (lib (name "STM32F407VGT6")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/STM32F407VGT6")(options "")(descr ""))
   (lib (name "mp6_micropump.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/mp6_micropump.pretty")(options "")(descr ""))
   (lib (name "footprints.pretty")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/PDRV8243HRXYQ1/footprints.pretty")(options "")(descr ""))
+  (lib (name "B2100AE-13")(type "KiCad")(uri "${KIPRJMOD}/../../../../common/kicad/components/B2100AE-13")(options "")(descr ""))
 )

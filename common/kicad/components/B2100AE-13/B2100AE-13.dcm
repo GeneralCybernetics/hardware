@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B2100AE-13
+D Diode Schottky 100 V 2A Surface Mount SMA
+K
+F https://www.diodes.com/assets/Datasheets/B280AEB290AEB2100AE.pdf
+$ENDCMP
+#
+#End Doc Library
