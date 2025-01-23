@@ -504,7 +504,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "bom_v0.0.2.csv",
+    "bom_export_filename": "bom_v0.0.3.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -785,14 +785,6 @@
     [
       "cf0126de-2a37-4fca-bf65-f8dc79cc90bd",
       "60_to_12V_converter"
-    ],
-    [
-      "96d91c0a-dca3-4e1e-85a2-01b86266cb17",
-      "60_to_5V_converter"
-    ],
-    [
-      "e479d02d-ff3f-46f9-af62-0bc7155bcaaf",
-      "60_to_3V3_converter"
     ]
   ],
   "text_variables": {}

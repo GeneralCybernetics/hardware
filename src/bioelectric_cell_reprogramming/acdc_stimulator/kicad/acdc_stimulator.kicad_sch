@@ -19693,7 +19693,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "0"
@@ -24424,44 +24423,6 @@
 		)
 	)
 	(sheet
-		(at 292.1 49.53)
-		(size 29.21 13.97)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "96d91c0a-dca3-4e1e-85a2-01b86266cb17")
-		(property "Sheetname" "60_to_5V_converter"
-			(at 292.1 48.8184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "60_to_5V_converter.kicad_sch"
-			(at 292.1 64.0846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "acdc_stimulator"
-				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 208.28 54.61)
 		(size 27.94 7.62)
 		(fields_autoplaced yes)
@@ -24533,44 +24494,6 @@
 			(project "acdc_stimulator"
 				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
 					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 331.47 49.53)
-		(size 29.21 13.97)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e479d02d-ff3f-46f9-af62-0bc7155bcaaf")
-		(property "Sheetname" "60_to_3V3_converter"
-			(at 331.47 48.8184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "60_to_3V3_converter.kicad_sch"
-			(at 331.47 64.0846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "acdc_stimulator"
-				(path "/ec70e9f6-566f-44ea-8141-5580f51beca4"
-					(page "10")
 				)
 			)
 		)

@@ -1,8 +1,8 @@
 import csv
 import re
 
-INPUT_CSV  = "../../src/bioelectric_cell_reprogramming/acdc_stimulator/kicad/bom_v0.0.2.csv"
-OUTPUT_CSV = "../../src/bioelectric_cell_reprogramming/acdc_stimulator/kicad/formatted_bom_v0.0.2.csv"
+INPUT_CSV  = "../../src/bioelectric_cell_reprogramming/acdc_stimulator/kicad/manufacturing/bom_v0.0.3.csv"
+OUTPUT_CSV = "../../src/bioelectric_cell_reprogramming/acdc_stimulator/kicad/manufacturing/formatted_bom_v0.0.3.csv"
 
 def extract_jlcpcb_part_number(url: str) -> str:
     """
