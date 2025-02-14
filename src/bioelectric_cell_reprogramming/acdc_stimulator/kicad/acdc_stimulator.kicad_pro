@@ -58,25 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|104745500|165222500|f22db160-4d12-4dfd-87f3-f1c6bf6575f0|10fe7aaa-7916-4dfc-94e8-eb7997fdc442",
-        "clearance|104745500|165722500|5029fb64-6e6f-436d-950f-664fedcf194b|f22db160-4d12-4dfd-87f3-f1c6bf6575f0",
-        "clearance|104745500|166222500|95c21e3c-e044-4f39-aa90-66c654891847|5029fb64-6e6f-436d-950f-664fedcf194b",
-        "clearance|108955500|165027500|9e699cbc-a5a2-41a7-9d7e-9c3bb18aec1d|a3d0f35e-6b74-43c7-863e-35f55f2f2b21",
-        "clearance|108955500|166027500|88839851-c35f-43d7-8d97-f6ec1d3ef158|ce86db05-cbd2-4d86-99ee-794882659e6a",
-        "clearance|37122500|101550000|9ee66de6-03fe-46f7-b356-978473b6e5b4|effe9b14-0941-4665-9af2-8796b0c5256f",
-        "clearance|37122500|96350000|9e17af14-aee2-4587-b934-f1700b2e938e|5c7730c2-a81b-480e-8da1-60912646fe2d",
-        "clearance|77110000|100425000|ed626a27-d6fc-490c-bb57-b4c729184e2c|ae642092-3843-49d3-89d7-735d9e83191a",
-        "clearance|79890000|95225000|ed922a43-f3b7-4a39-9257-8fbf4d4d6545|25b2da8e-bfd8-40d2-90c2-cd84d3307ccd",
-        "hole_clearance|33877500|100750000|30ba3857-da79-438a-8cb9-25bcdd407ca1|5e5379d7-9984-4dab-9be2-223da1ece576",
-        "hole_clearance|33877500|94950000|8f2a43b5-9a29-40a1-b396-5d92a1d094ed|19935a16-f20d-4cb9-b47a-96debd7abe9c",
-        "lib_footprint_mismatch|53150000|143069500|22826c94-ea49-467b-bd58-792611f5da68|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|54375000|143089500|a471721c-3e0d-49d1-b02f-c3d33b23bd87|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|55175000|143064500|c48aedef-8261-4227-b8fc-2a512c41f3a9|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|61375000|144169500|a976812d-1eb3-47e5-9265-f568ba63bf70|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|28150000|102430000|7852fb0a-5c8a-4a78-b1bc-ab5eb0d8855a|d5dbb707-c928-4587-87a9-5fedc1be0ca8",
-        "silk_edge_clearance|28150000|93270000|7852fb0a-5c8a-4a78-b1bc-ab5eb0d8855a|23c3f205-e096-4056-9e99-f5f4f77fd452"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -522,7 +504,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "bom_v0.0.3.csv",
+    "bom_export_filename": "bom_v0.0.4.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
